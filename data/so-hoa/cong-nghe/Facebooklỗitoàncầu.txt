@@ -1,11 +1,10 @@
 Facebook lỗi toàn cầu
-https://vnexpress.net/facebook-loi-toan-cau-4225419.html
+https://vnexpress.net/facebook-loi-toan-cau-4182559.html
 
-Nhiều tài khoản Facebook bất ngờ bị thoát khỏi ứng dụng, yêu cầu đăng nhập lại với thông báo "phiên đã hết hạn".
+Người dùng Facebook trên khắp thế giới gặp lỗi về bảng tin từ tối 26/10, trong đó, quảng cáo hiển thị dày đặc, bộ ảnh bị tách thành nhiều ảnh riêng biệt.
 
-Sự cố xảy ra với phiên bản mobile từ sáng 23/1, trong khi người dùng trên nền tảng web không bị ảnh hưởng. Nhiều người phản ánh, khi đang "lướt" Facebook bình thường, tài khoản của họ bị văng ra ngoài, màn hình hiện thông báo: "Phiên đã hết hạn. Vui lòng đăng nhập lại".
-"Ban đầu mình hơi sợ vì tưởng bị đánh cắp tài khoản, không dám đăng nhập lại ngay. Sau khi lên Instagram, Twitter cập nhật mới biết những người khác cũng bị tương tự, chỉ cần đăng nhập lại là sử dụng bình thường", tài khoản Hoàng Minh cho biết.
-Trên Twitter, Instagram, từ khoá #facebookdown cũng bất ngờ lên top nổi bật vì người dùng trên khắp thế giới cùng báo lỗi. Trang theo dõi sự cố <em>Downdetector, </em>ghi nhận<em> </em>gần 5.000 lượt báo lỗi Facebook trong vòng một giờ. Sự cố xảy ra nhiều nhất ở Mỹ và một số quốc gia trong khu vực châu Á. 83% người dùng phản ánh lỗi về đăng nhập.
-Đây không phải lần đầu Facebook gặp lỗi. Tháng trước, Facebook Messenger không thể nhắn tin trên trình duyệt web và ứng dụng trên điện thoại. Sự cố diễn ra trên phạm vi toàn cầu và ảnh hưởng nhiều đến người dùng vì đây là một trong những nền tảng nhắn tin phổ biến bậc nhất.
-Cuối tháng 10/2020, News Feed của Facebook cũng gặp lỗi hiển thị lạ. <em>New York Post </em>cho biết sự cố xảy ra khi Facebook cố gắng kiểm soát những bất ổn liên quan đến bầu cử Mỹ. Mạng xã hội này từng tuyên bố có thể áp dụng nhiều biện pháp, công cụ cần thiết, trong đó có dùng đến các thuật toán, làm chậm tốc độ lan truyền bài viết hoặc thay đổi loại nội dung người dùng có thể tiếp cận, hạ tiêu chuẩn các bài đăng được cho là nguy hiểm.
-Facebook chưa đưa ra bình luận nào về việc này. Đến 11h, lượng báo cáo giảm dần, tuy nhiên vẫn có một số người dùng mới gặp sự cố tương tự.
+Người dùng Facebook khắp nơi trên thế giới đồng loạt báo lỗi hiển thị trên cả bản web lẫn ứng dụng. Trên <em>DownDetector</em>, trang web báo cáo tình hình sự cố và quá trình khôi phục của các dịch vụ Internet, lượng người báo cáo về tình trạng của Facebook tăng vọt từ 22h30 ngày 26/10 (giờ Hà Nội). Trong đó, 65% báo lỗi về "bảng tin".
+Trên bản đồ báo cáo sự cố, người dùng ở châu Á, châu Âu, Bắc Mỹ, Nam Mỹ đang gặp lỗi nhiều nhất.
+<em>New York Post </em>cho biết Facebook đang cố gắng chặn tình trạng hỗn loạn liên quan đến bầu cử ở Mỹ trên mạng xã hội của mình bằng cách sử dụng các thuật toán bảo vệ mà họ đã xây dựng. Còn theo <em>WSJ</em>, trong trường hợp bạo lực hoặc bất ổn nổ ra, mạng xã hội này sẽ có sẵn các công cụ cần thiết. Các biện pháp có thể áp dụng bao gồm việc làm chậm tốc độ lan truyền các bài phát biểu, thay đổi loại nội dung người dùng có thể xem, hạ tiêu chuẩn các bài đăng được xác định là nguy hiểm.
+Đến sáng 27/10, News Feed của Facebook đã hoạt động bình thường. Tuy nhiên một số người dùng tại Việt Nam cho biết, trên bảng tin của họ vẫn xuất hiện nhiều quảng cáo và bài đăng của những người ít tương tác.
+Facebook chưa đưa ra bình luận nào về sự cố trên.
