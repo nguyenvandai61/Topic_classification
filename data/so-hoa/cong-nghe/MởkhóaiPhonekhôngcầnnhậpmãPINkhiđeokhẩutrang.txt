@@ -1,0 +1,9 @@
+Mở khóa iPhone không cần nhập mã PIN khi đeo khẩu trang
+https://vnexpress.net/mo-khoa-iphone-khong-can-nhap-ma-pin-khi-deo-khau-trang-4230210.html
+
+Apple đang thử nghiệm phiên bản iOS mới, cho phép người dùng mở khóa iPhone bằng đồng hồ Apple Watch khi đang đeo khẩu trang.
+
+Tính năng này được Apple đưa vào bản iOS 14.5 dành cho các nhà phát triển từ ngày 1/2. Nếu đang sử dụng Apple Watch, Face ID trên iPhone sẽ hoạt động giống như khi người dùng không đeo khẩu trang. Do đó, họ có thể nhìn vào điện thoại để mở khóa nhanh chóng, không cần kéo khẩu trang xuống hay phải nhập mã PIN. Khi máy mở khóa, đồng hồ sẽ rung nhẹ.
+Trước đó, Apple cũng đã cho phép người dùng mở khóa máy tính Mac mà không cần nhập mật khẩu nếu đeo Apple Watch ở phạm vi gần đó.
+Apple thường thử nghiệm các tính năng mới vài tuần, thậm chí vài tháng trước khi chính thức triển khai đại trà. Do đó, nhiều khả năng, phải tới cuối quý I/2021 người dùng mới có thể trải nghiệm việc mở khóa này.
+Bản iOS 14.5 dành cho nhà phát triển còn hỗ trợ ra lệnh cho Siru để gọi tới số điện thoại khẩn cấp, hỗ trợ kết nối tay cầm chơi game của Xbox và PlayStation mới...

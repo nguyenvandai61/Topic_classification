@@ -1,0 +1,5 @@
+Bài toán tổ hợp của Mỹ
+https://vnexpress.net/bai-toan-to-hop-cua-my-4206336.html
+Bài toán tổ hợp cho học sinh lớp 12 của Mỹ nhưng được dạy cho các em lớp 5-6 của Việt Nam tham dự kỳ thi quốc tế như IMSO, APMOPS.
+<strong>Đề bài:</strong>
+Sơ đồ giao thông chứa các đoạn thẳng gồm hai loại. Loại có mũi tên chỉ đi được một chiều theo chiều mũi tên và loại không có mũi tên thì đi được hai chiều. Tính số cách đi từ A đến B mà không có đoạn thẳng nào bị lặp lại?

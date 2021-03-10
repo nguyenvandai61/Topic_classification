@@ -1,0 +1,14 @@
+Dữ liệu vô giá trị nếu để không
+https://vnexpress.net/du-lieu-vo-gia-tri-neu-de-khong-4208840.html
+
+Năm 2020, mỗi giây, người dùng toàn thế giới tạo ra 100 TB dữ liệu, các công ty và các tập đoàn lớn đã tận dụng chúng và kiếm được hàng tỷ USD.
+
+Trở lại năm 2005, thế giới mới tạo ra được 100 GB dữ liệu mỗi giây. Nhưng 5 năm sau, lượng dữ liệu đã tăng một nghìn lần. Trong sự kiện giới thiệu nền tảng khai phá dữ liệu Viettel Data Mining Platform ngày 18/12 tại Hà Nội, ông Nguyễn Trọng Đường, Phó Cục trưởng Tin học hóa - Bộ Thông tin và Truyền thông, nhận định, những dữ liệu này vốn không có ý nghĩa nếu "nhìn bằng mắt thường", nhưng vào tay các công ty công nghệ lớn, nó là "vàng".
+"Nếu được thu thập, tổng hợp lại, dữ liệu sẽ có một chút giá trị, nhưng vẫn rất ít. Dữ liệu chỉ thực sự có giá trị khi được sử dụng công nghệ để xử lý, từ đó giúp con người đưa ra quyết định. Khi đó, một đống dữ liệu từ vô nghĩa sẽ trở thành có nghĩa", ông Đường nhấn mạnh.
+"Chẳng hạn các hành vi của chúng ta trên mạng xã hội tưởng như không có ý nghĩa gì. Nhưng nhờ các công cụ phân tích dữ liệu, công ty nước ngoài có thể đưa ra các xu hướng, quyết định hướng kinh doanh", ông Đường ví dụ.
+Ông Đặng Đức Thảo, Phó Giám đốc Trung tâm không gian mạng Viettel, cho rằng, trong Cách mạng Công nghiệp 4.0, dữ liệu lớn và việc phân tích dữ liệu, là nền quan trọng nhất và là tài sản vô giá. Dữ liệu sẽ giúp doanh nghiệp thấu hiểu khách hàng, quản trị thông minh, ra quyết định chính xác.
+Tuy nhiên theo ông Thảo, hầu hết nền tảng xử lý dữ liệu hiện nay chủ yếu tập trung vào dữ liệu tiếng Anh, chưa hoàn toàn tương thích cho tiếng Việt. Ngoài ra, vấn đề làm chủ, quản lý dữ liệu cũng cần chú ý khi sử dụng các nền tảng nước ngoài. Đây là một trong những lý do thúc đẩy Trung tâm không gian mạng Viettel xây dựng công cụ Data Mining Platform.
+Công cụ Data Mining Platform này có khả năng dự báo dự đoán, phân tích rủi ro và phát hiện bất thường trong quản lý doanh nghiệp. Một số vấn đề mà hệ thống này có thể giải quyết là ngăn ngừa gian lận tài chính, ngăn ngừa tai nạn lao động, tránh thất thoát tài sản vật tư, giảm hàng tồn kho...
+Nhờ khả năng học máy, hệ thống sẽ đưa ra các khuyến nghị từ việc phân tích thị hiếu khách hàng, phân tích giá cả, đưa ra chân dung khách hàng, phân tích để tìm ra tập khách hàng có đặc điểm chung, từ đó khuyến nghị khách hàng mua các sản phẩm, dịch vụ phù hợp.
+Ông Nguyễn Trọng Đường cũng cho rằng, những dữ liệu này cũng sẽ giúp cải tiến chính các nền tảng trí tuệ nhân tạo trong nước. Bởi bản chất của AI là học từ dữ liệu có sẵn.
+Tại sự kiện Ngày Internet Việt Nam mới đây, Thứ trưởng Bộ Thông tin và Truyền thông Nguyễn Huy Dũng cũng khẳng định "trước đây, chúng ta chú trọng vào mua sắm phần cứng, rồi đến phần mềm, còn nay chúng ta chú trọng vào làm chủ dữ liệu và phân tích dữ liệu".

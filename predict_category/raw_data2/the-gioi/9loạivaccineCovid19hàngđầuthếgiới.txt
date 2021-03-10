@@ -1,0 +1,19 @@
+9 loại vaccine Covid-19 hàng đầu thế giới
+https://vnexpress.net/9-loai-vaccine-covid-19-hang-dau-the-gioi-4231105.html
+64 vaccine Covid-19 khác nhau đang được phát triển trên toàn cầu, trong đó gồm 9 loại đang thử nghiệm và triển khai diện rộng.
+Hơn 101 triệu liều vaccine Covid-19 đã được tiêm ở 77 quốc gia và vùng lãnh thổ, theo dữ liệu được AFP thống kê từ các nguồn chính thức. Các nước giàu nhất thế giới chiếm hơn 2/3 số mũi đã được tiêm, trong khi chưa quốc gia nào trong số 29 nước nghèo nhất thế giới bắt đầu tiêm chủng đại trà.
+Có 9 loại vaccine đang được lưu hành trên thế giới, dựa trên 4 cơ chế vận hành khác nhau.
+Vaccine <strong>Corminaty </strong>do Pfizer-BioNTech (Mỹ - Đức) và <strong>mRNA-1273</strong> do Moderna (Mỹ) phát triển được nhiều nước phê chuẩn sử dụng khẩn cấp và đang chiếm ưu thế ở Bắc Mỹ, châu Âu, Israel và Vùng Vịnh.
+Loại vaccine này chứa đoạn mã di truyền gọi là mRNA được các nhà khoa học chiết xuất từ nCoV và mở rộng trong phòng thí nghiệm, trong đó mRNA mã hóa protein như cách virus thực hiện để tấn công vào các tế bào của con người, cung cấp hướng dẫn cho tế bào tạo ra các protein vô hại riêng với nCoV.
+Tế bào tạo ra các bản sao protein và phá hủy vật chất di truyền từ vaccine. Hệ miễn dịch ghi nhận rằng protein không thuộc về cơ thể và ghi nhớ cách chống lại nCoV nếu người được tiêm bị lây nhiễm virus trong tương lai.
+Corminaty đạt hiệu quả khoảng 95%, trong khi mRNA-1273 đạt mức 94,5% trong các thử nghiệm lâm sàng.
+Ba loại vaccine dùng công nghệ vector virus gồm <strong>AZD1222</strong>, còn gọi là Covishield do Oxford-AstraZeneca của Anh phát triển, <strong>Ad26.COV2.S</strong> của tập đoàn Mỹ Johnson & Johnson và <strong>Sputnik V</strong> do viện nghiên cứu Nga Gamaleya sản xuất. Chúng sử dụng virus vô hại đưa protein của nCoV vào tế bào người, giúp kích thích phản ứng của hệ miễn dịch.
+Covishield đã được cấp phép sử dụng khẩn cấp tại Anh, Ấn Độ, Mexico và một số nước khác. Thử nghiệm lâm sàng cho thấy vaccine có hiệu quả 62-90%, tùy thuộc vào liều sử dụng. Sputnik V đang triển khai tiêm đại trà ở Nga và Belarus, nhiều quốc gia cũng đặt mua loại vaccine này. Thử nghiệm lâm sàng Giai đoạn ba cho thấy Sputnik V đạt hiệu quả 91%.
+Trong khi đó, Ad26.COV2.S chưa được cấp phép tại quốc gia nào.
+Một loại vaccine dùng cơ chế protein dạng mảnh (protein gai của nCoV) là <strong>NVX-CoV2373</strong> của hãng dược phẩm Mỹ Novavax phát triển, đang trong thử nghiệm Giai đoạn ba và chưa được nước nào phê chuẩn.
+Loại vaccine này chứa các mảnh protein vô hại của nCoV, thay vì toàn bộ virus. Sau khi tiêm, hệ miễn dịch của con người ghi nhận rằng protein không thuộc về cơ thể, bắt đầu tạo tế bào lympho T và các kháng thể. Nếu người tiêm bị nhiễm bệnh, tế bào ghi nhớ sẽ ghi nhận và chống lại nCoV.
+Trung Quốc và Ấn Độ đang phát triển ba loại vaccine riêng biệt dùng virus bất hoạt gồm <strong>BBIBP-CorV</strong> của Sinopharm, <strong>CoronaVac </strong>của Sinovac và <strong>Covaxin </strong>của Bharat Biotech. Virus bị vô hiệu hóa bằng hóa chất, nhiệt hoặc tia xạ, giúp vaccine loại này ổn định và an toàn hơn vaccine chứa virus sống.
+Vaccine bất hoạt thường không yêu cầu nhiệt độ lạnh, có thể dễ dàng bảo quản và di chuyển ở dạng đông khô, dễ tiếp cận người dân ở các nước đang phát triển. Tuy nhiên, chúng kích thích đáp ứng miễn dịch yếu hơn vaccine chứa virus sống.
+BBIBP-CorV được cấp phép sử dụng ở Trung Quốc, Bahrain và Các tiểu vương quốc Arab Thống nhất. Nhà sản xuất Sinopharm cho biết nó đạt hiệu quả 79,34%.
+CoronaVac được phê chuẩn triển khai giới hạn ở Trung Quốc. Tuy nhiên, loại vaccine này gây nhiều ngờ vực khi thử nghiệm lâm sàng ở Brazil cho thấy hiệu quả chỉ đạt hơn 50%, mức tối thiểu để các cơ quan quản lý có thể cho phép triển khai tiêm chủng.
+Covaxin đã được cấp phép sử dụng khẩn cấp tại Ấn Độ, dù chưa có kết quả thử nghiệm Giai đoạn ba và hiệu quả cũng chưa được xác định.

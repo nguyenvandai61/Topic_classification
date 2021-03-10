@@ -1,0 +1,9 @@
+Hồi sinh người chết dưới dạng chatbot
+https://vnexpress.net/hoi-sinh-nguoi-chet-duoi-dang-chatbot-4222657.html
+
+Công nghệ mới được Microsoft đăng ký bằng sáng chế có khả năng mô phỏng cách trò chuyện, thậm chí là giọng nói của một người cụ thể.
+
+Tháng 12/2020, văn phòng Sáng chế và Thương hiệu Mỹ đã cấp bằng sáng chế cho Microsoft với công nghệ "xây dựng chatbot mô phỏng con người". Điểm đặc biệt là công nghệ này có thể được dùng để hồi sinh người đã chết dưới dạng kỹ thuật số. Trong đơn, Microsoft nêu rõ khả năng dữ liệu có thể được sử dụng nhằm tạo ra hoặc sửa đổi thông số theo hình thái, tính cách của một cá nhân cụ thể.
+Để có thể hiện thực hóa ý tưởng này, đầu tiên Microsoft cần sự đồng thuận từ người dùng để truy cập vào dữ liệu xã hội của họ. Dữ liệu mà hãng nhắm tới là hình ảnh, dữ liệu giọng nói, bài đăng trên mạng xã hội, hộp thư điện tử và thư viết tay. Sau đó, từ lượng dữ liệu cá nhân này Microsoft sẽ tiến hành đào tạo tính cách cho chatbot.
+Hệ thống của Microsoft còn hướng tới khả năng mô phỏng giọng nói và ngoại hình của con người. "Máy tính có thể tạo ra giọng nói của một người cụ thể dựa trên các bản ghi âm và dữ liệu âm thanh liên quan. Cùng với đó, mô hình 3D được dựng lên từ hình ảnh hoặc video", bằng sáng chế viết.
+Quy trình tạo ra chatbot này không khác nhiều so với công nghệ xuất hiện trong tập phim có tên <em>Be Right Back</em> của series <em>Black Mirror</em>. Trong phim, nhân vật chính đã nhờ tới một dịch vụ tương tự để hồi sinh người chồng của mình, tuy nhiên khác với chatbot của Microsoft, công nghệ tưởng tượng này đã đạt tới trình độ tái tạo lại hoàn chỉnh cơ thể và tính cách của người đã khuất.

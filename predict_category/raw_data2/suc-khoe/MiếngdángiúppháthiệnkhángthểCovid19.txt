@@ -1,0 +1,12 @@
+Miếng dán giúp phát hiện kháng thể Covid-19
+https://vnexpress.net/mieng-dan-giup-phat-hien-khang-the-covid-19-4226566.html
+
+Mỹ Các nhà nghiên cứu ở Đại học Washington chế tạo miếng dán microneedle giúp phát hiện sự hiện diện của kháng thể Covid-19 mà không cần xét nghiệm.
+
+Thông thường, các bác sĩ sử dụng mẫu máu để kiểm tra các dấu hiệu sinh học của bệnh như kháng thể báo hiệu nhiễm trùng do nCoV hoặc vi khuẩn, các cytokine biểu thị tình trạng viêm khớp, nhiễm trùng huyết.
+Tuy nhiên, những dấu hiệu sinh học này không chỉ có trong máu. Chúng cũng có thể được tìm thấy trong môi trường chất lỏng dày đặc bao quanh tế bào da với hàm lượng thấp nên khó bị phát hiện.
+Tìm dấu hiệu sinh học bằng các miếng dán microneedle tương tự như xét nghiệm máu. Thay vì lấy máu, những miếng dán này phát hiện các dấu hiệu sinh học từ chất lỏng bao quanh các tế bào trên da, được gọi là dịch kẽ da (ISF). Dịch kẽ lấp đầy không gian giữa các tế bào trong cơ thể và chứa phần lớn các chỉ dấu sinh học tương tự được tìm thấy trong máu. Sau khi thu nhận được các dấu hiệu sinh học này, các nhà nghiên cứu sử dụng công nghệ huỳnh quang để chỉ ra sự hiện diện và số lượng của chúng.
+Công nghệ huỳnh quang được nhóm sử dụng là "plasmonic-fluors", một nhãn nano huỳnh quang siêu bền. So với các nhãn huỳnh quang truyền thống, các dấu hiệu sinh học cho tín hiệu sáng hơn 1.400 lần và có thể phát hiện được ngay cả khi chúng xuất hiện ở nồng độ thấp.
+Kết quả nghiên cứu được công bố trên tạp chí <em>Nature Biomedical Engineering</em> ngày 22/1.
+Theo nhóm nghiên cứu, công nghệ này có chi phí thấp, dễ sử dụng cho bác sĩ hoặc chính bệnh nhân. Trong quá trình nghiên cứu vaccine Covid-19, miếng dán giúp nhận biết liệu cơ thể có đang sản xuất kháng thể chống nCoV, sản xuất trong bao lâu, mức độ kháng thể như thế nào. Ngoài ra, ưu điểm của nó là không gây đau khi lấy máu.
+"Chúng đi sâu khoảng 400 micromet vào mô da, thậm chí không chạm vào dây thần kinh cảm giác", nhà nghiên cứu Singamaneni cho biết.

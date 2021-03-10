@@ -1,0 +1,17 @@
+Tin nhắn lừa đảo xuất hiện trong hộp thư của ngân hàng
+https://vnexpress.net/tin-nhan-lua-dao-xuat-hien-trong-hop-thu-cua-ngan-hang-4231389.html
+
+Nhiều người nhận được tin nhắn trong hộp thư của ngân hàng về một giao dịch bất thường, trong đó chứa đường link dẫn về trang web lừa đảo.
+
+Tối 3/2, nhiều người nhận được tin nhắn mang tên ngân hàng ACB. Nội dung thông báo việc phát hiện giao dịch bất thường và đề nghị người dùng truy cập một đường link để hủy giao dịch đó. "Chung toi phat hien tai khoan cua ban dang tieu dung o nuoc ngoai. Neu khong phai ban dang tieu dung vui long bam... de huy thanh toan", tin nhắn viết.
+Khi truy cập đường link, người dùng được dẫn tới một trang web có giao diện giống website của ngân hàng và được đề nghị điền tên đăng nhập và mật khẩu tài khoản.
+Trương Gia Bảo, một người dùng tại TP HCM, cho biết anh và nhiều người trong gia đình đã nhận được tin nhắn như trên. Mặc dù đã được cảnh báo về các hình thức lừa đảo mạo danh ngân hàng, việc nhận được tin nhắn từ chính đầu số của ngân hàng, khiến anh tưởng thật.
+"Trước đây, tin nhắn mạo danh thường đặt tên gần giống ngân hàng, nhưng lần này tin nhắn xuất hiện ngay trong hộp thư của ngân hàng, lẫn với SMS OTP trước đó khiến tôi tưởng thật và suýt làm theo", anh Bảo kể.
+Hồi cuối tháng 1, nhiều người cũng nhận được tin nhắn tương tự nhưng mang thương hiệu Sacombank.
+Sacombank và ACB khẳng định họ không gửi tin nhắn tới khách hàng với nội dung như trên.
+<strong>Theo các chuyên gia bảo mật, hình thức lừa đảo mạo danh ngân hàng vốn đã có từ lâu, nhưng nay trở lại với hình thức tinh vi hơn.</strong> Điểm mới là tin nhắn lừa đảo xuất hiện chung với SMS của ngân hàng. Người dùng không có cách nào kiểm tra tin nhắn từ số nào gửi tới nên dễ tin tưởng và làm theo.
+Theo chuyên gia Nguyễn Minh Đức của công ty bảo mật CyRadar, đây là tin nhắn được gửi từ các dịch vụ SMS Over IP, giả mạo "brandname". "Do cơ chế hoạt động của hệ điều hành trên smartphone, các brandname giống nhau sẽ được nhóm vào một. Vì vậy, các tin nhắn lừa đảo sẽ xuất hiện cùng tin nhắn của ngân hàng", anh Đức nói.
+Ngoài ra, ông Đức cũng cho rằng, có thể hacker đã khai thác được lỗ hổng trong các dịch vụ cung cấp tin nhắn "brandname" và chèn nội dung lừa đảo vào. Ngoài ra, có thể điện thoại của nạn nhân bị cài mã độc. Mã độc đó chèn các SMS mạo danh vào các luồng tin nhắn trên máy. Khi truy cập các đường link được cung cấp, người dùng sẽ được điều hướng đến các website có giao diện và tên miền giống ngân hàng, nhưng thực chất website lừa đảo.
+CyRadar mới đây đã phát hiện hai "ổ" tấn công lừa đảo trực tuyến, nhắm vào 27 ngân hàng và ví điện tử tại Việt Nam. "Chúng tôi phát hiện ra 2 địa chỉ IP của máy chủ được sử dụng vào mục đích đặt các website lừa đảo. Chỉ tính riêng từ tháng 1 đến nay, đã có 180 tên miền mạo danh được trỏ vào 2 cụm máy chủ này", đại diện CyRadar chia sẻ.
+Ông Đức cho hay, lợi dụng Tết, nhu cầu giao dịch, thanh toán trực tuyến, tặng quà hoặc lì xì online tăng, các nhóm tội phạm mạng đang đẩy mạnh các chiến dịch lừa đảo trực tuyến.
+Các chuyên gia khuyên người dùng không nên bấm vào những link bất thường, kiểm tra kỹ trang web trước khi điền mật khẩu, thiết lập bảo mật OTP cho các tài khoản và nên trang bị phần mềm bảo mật để bảo vệ máy tính và điện thoại.

@@ -1,0 +1,12 @@
+Tắt sóng truyền hình 'analog' sẽ mở đường phát triển 5G
+https://vnexpress.net/tat-song-truyen-hinh-analog-se-mo-duong-phat-trien-5g-4219560.html
+
+Việc tắt sóng truyền hình tương tự giúp giải phóng băng tần 700 Mhz - "tần số vàng" cho triển khai 5G.
+
+Tại buổi công bố việc Việt Nam hoàn thành đề án số hóa truyền hình, hôm 11/1, một trong những mục tiêu lớn mà Việt Nam đạt được, theo bộ trưởng Thông tin và Truyền thông Nguyễn Mạnh Hùng, là hoàn thành chuyển đổi hạ tầng truyền dẫn, phát sóng truyền hình mặt đất từ công nghệ tương tự sang công nghệ số. Từ đó, giải phóng băng tần 700 MHz.
+Băng tần này được Bộ trưởng TT&TT ví là "băng tần vàng", nhờ độ phủ sóng rộng và là băng tần tốt nhất hiện nay cho thông tin di động <a href="https://vnexpress.net/chu-de/5g-1613" rel="dofollow">5G</a> toàn quốc.
+Hiện nay, Việt Nam đang triển khai thử nghiệm 5G trên băng tần 2,6 GHz. Theo lý giải của đại diện Cục Tần số Vô tuyến điện - Bộ TT&TT, băng tần 2,6 GHz có băng thông lớn, nhưng khoảng cách truyền dẫn thấp. Bán kính phủ sóng của băng tần 700 MHz gấp từ 2 đến 3 lần băng tần 2,6 GHz, tùy địa hình tại Việt Nam.
+Ông Hùng cho rằng, để phủ sóng 5G trên cùng một diện tích, nếu sử dụng băng tần 2,6 GHz, nhà mạng sẽ phải đầu tư số trạm nhiều hơn khoảng 9 lần so với băng tần 700 MHz. Quy ra tiền, con số này có thể lên tới nhiều tỷ USD. "Nếu không có băng tần thấp như 700 MHz, các nhà mạng có thể không dám đầu tư cho 5G và sẽ khó để 5G phủ sóng toàn quốc", ông Hùng nói.
+Việc giải phóng băng tần thấp là một trong những mục tiêu đã hoàn thành của đề án số hóa truyền hình. Việt Nam đã ngừng phát sóng truyền hình tương tự, hoàn thành số hóa truyền hình mặt đất từ 0 giờ ngày 28/12/2020. Theo Bộ Thông tin và Truyền thông, việc này đã vượt mục tiêu ban đầu đề ra, góp phần thực hiện cam kết của toàn khối ASEAN - tắt sóng hoàn toàn truyền hình tương tự mặt đất vào năm 2020. Việt Nam là một trong những nước <a href="https://vnexpress.net/viet-nam-thuoc-nhom-di-truoc-ve-so-hoa-truyen-hinh-4219498.html" rel="dofollow">đi trước trên thế giới</a> về việc số hóa truyền hình.
+Ngoài việc giúp cơ quan quản lý có băng tần phục vụ 5G, dự án số hóa truyền hình đã mở rộng đáng kể vùng phủ sóng truyền hình số mặt đất. Từ độ phủ tương đương 50% dân số vào năm 2011, đến nay, truyền hình số đã vươn đến 63 địa phương, phủ 80% dân số, nếu tính cả truyền hình số vệ tinh là 100%.
+5G tại Việt Nam đang trong giai đoạn thử nghiệm thương mại, từ cuối tháng 11/2020. Việc triển khai chính thức dự kiến sẽ diễn ra vào khoảng tháng 6/2021.

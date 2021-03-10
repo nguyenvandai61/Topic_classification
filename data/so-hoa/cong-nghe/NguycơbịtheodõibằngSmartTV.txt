@@ -1,0 +1,15 @@
+Nguy cơ bị theo dõi bằng Smart TV
+https://vnexpress.net/nguy-co-bi-theo-doi-bang-smart-tv-4241423.html
+
+Nhiều Smart TV được trang bị công nghệ “Nhận dạng nội dung tự động” (ACR) nhằm theo dõi thói quen người dùng, từ đó sử dụng dữ liệu cho mục đích quảng cáo.
+
+Nhận dạng nội dung tự động ACR không phải công nghệ theo dõi duy nhất xuất hiện trên Smart TV, nhưng đây lại là một trong thứ nguy hiểm nhất với quyền riêng tư của người dùng. Chức năng này thường được các nhà sản xuất bật mặc định, hoặc liên tục thúc giục người dùng bật lên mà không giải thích rõ ràng về mục đích thu thập dữ liệu. Công nghệ ACR trên Smart TV thường sẽ tự động ghi lại một số đoạn trích video, âm thanh, hình ảnh tĩnh hoặc cả ba và tải dữ liệu lên một "trung tâm phân tích".
+Thậm chí nếu người dùng chỉ sử dụng Smart TV như một màn hình để kết nối với máy tính, chơi game hay phát nội dung, nhiều khả năng TV vẫn theo dõi được họ xem gì.
+Vậy các doanh nghiệp quảng cáo làm gì với dữ liệu này? Theo nền tảng quảng cáo số AdExchanger, sau khi dữ liệu được thu thập, các công ty phân tích sẽ nhập dữ liệu ACR và kết hợp nó với các dữ liệu khác để tăng độ chính xác và khả năng quảng cáo đúng mục tiêu.
+Nói cách khác, thông tin về những gì người dùng đang xem trên TV sẽ được kết hợp với các nguồn dữ liệu khác. Chúng có thể bao gồm lịch sử duyệt web, lịch sử tìm kiếm, mua sản phẩm và dữ liệu giao dịch thẻ tín dụng. Sau đó, dữ liệu có thể được sử dụng để xây dựng hồ sơ hoàn chỉnh về một cá nhân và thói quen xem TV của họ nhằm phục vụ các quảng cáo được cá nhân hóa cao.
+<strong>"Bạn đang bị kiểm soát"</strong>
+Tất nhiên, việc giám sát này không được thực hiện nếu không có sự chấp thuận từ người dùng. Những người đã bật tính năng này trên TV đều được thông báo khi đưa ra quyết định chia sẻ dữ liệu.
+Ngoài ra, nhiều hãng sản xuất chọn cách im lặng và khiến cho các tùy chọn liên quan đến ACR trở nên khó hiểu và phức tạp, thậm chí, nhiều người không biết rằng TV của họ có khả năng này. Năm 2019, công ty sản xuất TV Vizio của Mỹ đã phải chấp nhận hòa giải và bồi thường 17 triệu USD cho khách hàng sau khi bị kiện vì cố tình ẩn và gây nhầm lẫn tính năng ACR trên Smart TV. Tuy nhiên, Vizio không bao giờ thừa nhận hãng đã làm điều gì sai trái. Vizio hiện là công ty con của một hãng Trung Quốc có tên LeEco (trước đây là LeTV).
+<strong>Hãy ngắt kết nối Internet của Smart TV</strong>
+Tất nhiên, đây không phải là một giải pháp lý tưởng. Nếu bạn thích các ứng dụng trên TV thông minh, bạn sẽ phải hy sinh. Tuy nhiên, nếu chỉ sử dụng chúng như một màn hình hiển thị cho các thiết bị khác, đó có thể sẽ là một giải pháp ngăn chặn theo dõi tuyệt vời.
+Nếu thực sự thích phần mềm của Smart TV, hãy nhớ tắt các tính năng xâm phạm quyền riêng tư nhiều nhất có thể. Mỗi thiết bị thường có các tính năng theo dõi khác nhau. Ngay cả khi bạn sở hữu những box truyền hình được cho là không theo dõi người dùng, như Apple TV, các ứng dụng chạy trên đó, như Netflix, vẫn theo dõi thói quen xem của bạn. Tuy nhiên, điều đó có vẻ dễ chịu hơn khi dữ liệu riêng tư của bạn không rơi vào tay các công ty quảng cáo.

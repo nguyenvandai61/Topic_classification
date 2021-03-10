@@ -1,0 +1,24 @@
+Tám xu hướng công nghệ giáo dục năm 2021
+https://vnexpress.net/tam-xu-huong-cong-nghe-giao-duc-nam-2021-4217302.html
+Công nghệ giáo dục (Edtech) không còn là lựa chọn mà trở thành thiết yếu trong giáo dục của nhiều quốc gia năm 2021.
+Khi Covid-19 bùng phát khiến lớp học truyền thống chuyển sang online, nhiều đổi mới mang tính đột phá trong giáo dục được ghi nhận như lớp học trực tuyến, hệ thống quản lý học tập... Nó trở thành một phần trong hệ thống giáo dục tại nhiều quốc gia.
+Báo cáo từ mạng lưới KPMG, Google ước tính lĩnh vực Edtech dự kiến phục vụ 9,6 triệu người dùng, giá trị 1,96 tỷ USD vào năm 2021. Các nhà giáo dục khẳng định Edtech sẽ tiếp tục ảnh hưởng đến sự thay đổi của giáo dục. Trong đó, học trực tuyến sẽ là phương thức bình thường mới hậu Covid-19.
+Dưới đây là tám xu hướng Edtech hàng đầu trong ngành giáo dục năm 2021.
+<strong>1. Thực tế ảo và thực tế tăng cường</strong>
+Trí tuệ nhân tạo (AI) đã thay đổi ngành giáo dục bằng cách trao quyền cho các lớp học trực tuyến, việc đánh giá, theo dõi học tập thực hiện online. Thực tế ảo và thực tế tăng cường không chỉ giúp giáo viên thu hút sự chú ý của học sinh mà còn xây dựng bài giảng mang tính hấp dẫn, đơn giản hơn. Điều này gia tăng sự tương tác của quá trình dạy và học, mang lại lợi ích cho cả giáo viên và học sinh.
+<strong>2. Phòng học ảo</strong>
+Do Covid-19, nhiều quốc gia phải phong tỏa hoặc đóng cửa trường học. Các khóa học trực tuyến vì thế trở nên phổ biến Việc học trực tuyến cho phép học sinh đặt câu hỏi từ mọi nơi trên thế giới và chọn các lớp học theo mong muốn. Điều này không chỉ tạo môi trường học tập tại nhà cho học sinh mà còn cho phép giáo viên kiểm soát, quản lý việc học của học trò tại nhà.
+Giáo viên có thể quản lý học sinh nhờ trí tuệ nhân tạo, từ đó giúp phòng học ảo trở nên minh bạch, rõ ràng.
+<strong>3. Cá nhân hóa việc học</strong>
+Chương trình học tập được cá nhân hóa là chìa khóa cho giáo dục tại thế kỷ 21. Các nền tảng trực tuyến cung cấp môi trường học linh hoạt, giúp học sinh trau dồi theo trình độ cá nhân.
+Việc học tập sẽ theo xu thế người dạy cung cấp tài liệu học phù hợp với trình độ và vốn kiến thức của từng học sinh. Giáo viên có thể phát hiện điểm yếu của từng học sinh và giúp các em khắc phục. Điều này đảm bảo học sinh được phát triển theo trình độ riêng và thu về kết quả tốt nhất.
+<strong>4. Chế tạo robot</strong>
+Robot đang được chấp nhận rộng rãi trong giáo dục phổ thông. Học sinh có thể tìm hiểu các khái niệm STEM (Khoa học, Công nghệ, Kỹ thuật và Toán học) thông qua việc phát triển và lập trình robot. Ngoài ra, xây dựng robot cũng giúp phát triển các kỹ năng cần có trong thế kỷ 21 như: Tư duy phản biện, khả năng ra quyết định và tính sáng tạo.
+<strong>5. Nền tảng Edtech dựa trên đám mây</strong>
+Những tiến bộ nhanh chóng của công nghệ cho phép tích hợp công nghệ đám mây vào giáo dục. Chương trình học, hồ sơ trường học đều có thể được quản lý thông qua công nghệ đám mây. Nó cũng giúp giáo viên thực hiện các công việc hành chính như quản lý học phí, tuyển sinh trực tuyến, tạo phiếu điểm.
+<strong>6. Chuyên gia đứng lớp</strong>
+Từ khi học sinh được tiếp xúc nhiều hơn với Internet và thiết bị công nghệ, các lớp học do chuyên gia giảng dạy ở định dạng kỹ thuật số đang trở nên phổ biến. Ví dụ, giáo viên có thể mời chuyên gia giảng dạy thông qua phần mềm trực tuyến Zoom mà người này không cần thiết phải đến trường học. Điều này khuyến khích học sinh hứng thú hơn với chương trình học.
+<strong>7. Học kết hợp</strong>
+Phương pháp học tập kết hợp là một trong những lựa chọn tốt nhất để việc học không bị gián đoạn nhưng cũng đảm bảo an toàn cho học sinh. Học kết hợp có nghĩa là áp dụng cả hai phương pháp, học truyền thống và học trực tuyến. Mô hình này giúp học sinh tăng thêm thời gian tự học và tự khám phá kiến thức. Ngoài ra, kết hợp các công cụ học trực tuyến và trực tiếp có thể thúc đẩy học sinh hợp tác để tạo ra lớp học năng động hơn.
+<strong>8. Hệ thống lập trình</strong>
+Hệ thống lập trình dựa trên khối lệnh (block-based coding) là bước đệm cho học sinh phổ thông tiếp cận với lĩnh vực lập trình. Được trình bày dưới dạng khối, học sinh có thể dễ dàng tạo ra các dự án đa phương tiện như làm phim hoạt hình, dự án khoa học. Hệ thống lập trình này có thể nâng cao khả năng sáng tạo cho học sinh.

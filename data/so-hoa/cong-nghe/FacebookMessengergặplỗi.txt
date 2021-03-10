@@ -1,0 +1,15 @@
+Facebook Messenger gặp lỗi
+https://vnexpress.net/facebook-messenger-gap-loi-4204549.html
+
+Nhiều người dùng Facebook tại Việt Nam và một số nước trên thế giới không thể nhắn tin trên Messenger từ chiều ngày 10/12.
+
+Tình trạng này xảy ra trên cả ứng dụng <a href="https://vnexpress.net/chu-de/facebook-messenger-1548" rel="dofollow">Messenger</a> ở điện thoại và tính năng chat trên trình duyệt web. Trên máy tính, tin nhắn liên tục báo lỗi, đồng thời khung chat của <a href="https://vnexpress.net/chu-de/facebook-1538" rel="dofollow">Facebook</a> báo "đang kết nối mạng". Còn trên điện thoại, tin nhắn cũng không hiển thị dấu tick - thể hiện việc đã được gửi đi.
+Ngoài ra, không ít người dùng cũng gặp nhiều khó khăn trong việc nhận tin nhắn đến, đặc biệt là các thông điệp dạng ảnh, video.
+"Ban đầu nghĩ là do mạng công ty gặp vấn đề, tuy nhiên ngay cả khi dùng mạng di động, tôi cũng không thể chat Messenger, trong khi các trang web khác vẫn truy cập và sử dụng được bình thường ", Nguyễn Hoàng, nhân viên văn phòng tại Cầu Giấy (Hà Nội), nói.
+Một số người dùng cho biết khi thử đóng ứng dụng trên smartphone và bật lại, tin nhắn chờ liền được gửi đi. Tuy nhiên sau đó, hiện tượng trên lại tái diễn.
+Trên trang theo dõi sự cố Downdetector, số lượt phản ánh lỗi của Messenger tăng vọt vào khoảng 17h. Sự cố này được ghi nhận nhiều ở châu Âu và một số khu vực tại châu Á, trong đó có Philippines, Singapore và Việt Nam. Các lỗi được phản ánh nhiều nhất liên quan đến việc nhận tin nhắn và kết nối đến máy chủ.
+Theo trang <em>Express</em> (Anh), đã có hơn 2.400 lượt báo lỗi Messenger được ghi nhận trong một phút. Ngoài ra, nhiều người dùng nước này phản ánh các dịch vụ Facebook và Instagram cũng bị gián đoạn và phải lên các nền tảng khác để phàn nàn về sự cố. Trên Twitter, hashtag #Messengerdown trở thành một trong những từ khóa được chia sẻ nhiều trong vòng một tiếng qua.
+Đến 21h, hệ thống Messenger đã có thể nhắn tin bình thường.
+Facebook hiện chưa đưa ra bình luận gì về sự việc lần này.
+Messenger là một trong những ứng dụng chat phổ biến nhất tại Việt Nam. Thống kê trên các kho ứng dụng của iOS và Android, Messenger liên tục nằm trong top những ứng dụng được tải về nhiều nhất. Trên nền tảng web, Facebook.com cũng là địa chỉ được truy cập nhiều thứ hai, chỉ sau Google.
+Tháng 11 năm ngoái, Facebook cũng gặp <a href="https://vnexpress.net/facebook-messenger-gap-su-co-kho-nhan-tin-4014317.html" rel="dofollow">sự cố</a> tương tự trên phạm vi thế giới.

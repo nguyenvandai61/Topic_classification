@@ -1,0 +1,14 @@
+Xin bới bãi rác để tìm ổ cứng chứa Bitcoin trị giá 280 triệu USD
+https://vnexpress.net/xin-boi-bai-rac-de-tim-o-cung-chua-bitcoin-tri-gia-280-trieu-usd-4222179.html
+
+Vô tình ném ổ cứng chứa khóa riêng tư của 7.500 Bitcoin vào 8 năm trước, người đàn ông ở Anh xin chính quyền cho bới bãi rác để tìm.
+
+James Howells, một kỹ sư công nghệ thông tin 35 tuổi ở Newport, Wales (Anh), cho biết đã vứt một ổ cứng chứa khóa riêng tư (Private Key) của Bitcoin vào thùng rác, khi dọn nhà năm 2013. Anh khai rằng nguyên nhân là do có hai ổ cứng máy tính xách tay giống hệt nhau và đã vứt bỏ nhầm ổ cứng kia.
+Sau ngần ấy năm, Howells vẫn tự tin có thể khôi phục được số khóa riêng tư này. Anh cho rằng, dù phần bên ngoài của ổ cứng có thể bị hỏng và rỉ sét nhưng ổ đĩa bên trong có thể vẫn nguyên vẹn. "Có nhiều khả năng ổ đĩa bên trong vẫn còn nguyên. Sau đó, các chuyên gia khôi phục dữ liệu có thể dựng lại ổ đĩa hoặc đọc dữ liệu trực tiếp từ đĩa", anh nói.
+Howells nói rằng có 7.500 Bitcoin. Theo giá hiện nay thì chúng tương đương hơn 280 triệu USD. Anh cho biết cách duy nhất để lấy lại quyền truy cập vào chúng là thông qua ổ cứng mà anh đã ném vào thùng rác 8 năm trước.
+Nhưng anh cần sự cho phép của hội đồng địa phương để tìm kiếm tại một bãi rác mà anh tin rằng có chứa ổ cứng bị mất. Bãi rác này không được mở cho công chúng và việc xâm phạm sẽ bị coi là một hành vi phạm tội.
+Howells đã đề nghị quyên góp 25% số tiền, trị giá khoảng 70,8 triệu USD, cho "Quỹ cứu trợ Covid" của thành phố nếu anh đào được ổ cứng. Tuy nhiên, Hội đồng thành phố Newport đến nay vẫn bác bỏ xin phép đào bới bãi rác, vì lo ngại về môi trường và kinh phí.
+"Ngay cả khi chưa nghe kế hoạch hành động của chúng tôi hoặc cho cơ hội trình bày các biện pháp giảm thiểu các lo lắng về môi trường, thì họ đã nói 'không' mọi lúc", Howells cho biết.
+Một phát ngôn viên của Hội đồng thành phố cho biết, Howells đã liên hệ nhiều lần kể từ năm 2013 về việc xin bới bãi rác tìm ổ cứng được cho là chứa Bitcoin. Lần đầu tiên anh ta xin phép là vài tháng sau khi phát hiện ổ cứng bị mất tích. Phía chính quyền nói rằng việc đào bới là không thể cấp phép và hoạt động đó cũng sẽ có tác động môi trường rất lớn đến khu vực xung quanh.
+"Chi phí đào bãi rác, lưu trữ và xử lý chất thải có thể lên tới hàng triệu bảng Anh mà không có bất kỳ sự đảm bảo nào về việc tìm thấy ổ cứng hoặc nó vẫn hoạt động bình thường", người phát ngôn nói.
+Không khó để hình dung tại sao Howells lại khẩn thiết muốn đào tìm ổ cứng. Giá Bitcoin đã tăng vọt trong vài tháng qua, chạm mức cao nhất mọi thời đại gần 42.000 USD vào tuần trước, trước khi giảm mạnh.

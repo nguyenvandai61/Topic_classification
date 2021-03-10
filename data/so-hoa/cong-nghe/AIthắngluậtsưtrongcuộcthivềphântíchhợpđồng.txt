@@ -1,0 +1,13 @@
+AI thắng luật sư trong cuộc thi về phân tích hợp đồng
+https://vnexpress.net/ai-thang-luat-su-trong-cuoc-thi-ve-phan-tich-hop-dong-4203858.html
+
+Trung Quốc Một nhóm 16 luật sư đã bắt tay nhau đối đầu với AI về khả năng phân tích các hợp đồng pháp lý.
+
+Nhóm gồm các luật sư kỳ cựu và sinh viên ngành luật thuộc trường Luật Quảng Hoa, Đại học Chiết Giang đã đối đầu với chương trình AI do Học viện Damo của Alibaba Group Holding thiết kế. Đây là màn "đấu trí" đầu tiên tại Trung Quốc giữa AI với luật sư.
+Theo <em>China Daily</em>, với phần thi chính là đánh giá hợp đồng - một trong những nhiệm vụ phổ biến nhất đối với luật sư và các văn phòng luật, AI chỉ mất một phút để gửi kết quả. Hội đồng giám khảo ghi nhận tỷ lệ chính xác tới 96% và đánh bại nhóm luật sư.
+Khi chia các luật sư thành nhóm nhỏ hơn và kết hợp với AI, tính hiệu quả được tăng lên rõ rệt. Nhóm có thành tích tốt nhất đã cùng AI để xử lý 5 hợp đồng với gần 20.000 dòng văn bản chỉ trong 30 phút.
+"Các luật sư giỏi giải quyết các vấn đề khó khăn. Trong khi đó, AI rất mạnh trong việc truy xuất thông tin, kiểm tra và khắc phục các điểm yếu", Chen Yunzhou, luật sư của Công ty Luật Zeda và cũng là một trong những người tham gia cuộc thi, nhận xét.
+Chương trình AI dùng trong cuộc thi dựa trên mô hình deep learning có tên Alice (viết tắt của Alibaba Collection of Encoder), được tạo bởi Học viện Damo - bộ phận nghiên cứu khoa học và công nghệ của tập đoàn Alibaba. Để đào tạo AI phục vụ cho cuộc thi, chương trình đã phân tích gần 10.000 hợp đồng pháp lý.
+Theo ban tổ chức, cuộc thi nhằm thể hiện tính ứng dụng của AI vào các ngành liên quan đến dịch vụ pháp lý. Ngoài việc phân tích các hợp đồng, AI có thể được sử dụng để nghiên cứu các văn bản pháp lý, thậm chí dự đoán kết quả của các vụ kiện tụng.
+Đại diện Alibaba cho biết việc ứng dụng AI sẽ giúp tăng tốc xử lý các nhiệm vụ lặp đi lặp lại, giành thời gian cho các luật sư tập trung vào các công việc phức tạp hơn.
+Một số nơi tại Trung Quốc đã thay nhân viên tòa án bằng các giải pháp công nghệ. Chẳng hạn, 10 tòa án tại Thượng Hải đã ứng dụng AI để phân tích các bằng chứng. Một số tòa án khác cũng dùng robot hoặc AI cho các mục đích riêng.

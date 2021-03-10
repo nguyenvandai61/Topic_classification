@@ -1,0 +1,11 @@
+Đào tiền ảo bằng siêu xe
+https://vnexpress.net/dao-tien-ao-bang-sieu-xe-4229613.html
+
+Mỹ Một dân chơi tiền ảo đã gắn hệ thống máy đào gồm 6 card đồ họa (GPU) Nvidia GeForce RTX 3080 lên xe BMW i8 trị giá 150.000 USD.
+
+Simon Byrne, một dân chơi có tiếng trong giới tiền ảo tại Las Vegas, đã gắn hệ thống máy đào tiền ảo trị giá 5.000 USD lên xe hơi BMW. Hệ thống máy đào của người này gồm 6 card đồ hoạ GPU RTX 3080 có giá hơn 700 USD mỗi chiếc.
+BMW i8 là loại xe hybird, có khả năng kết hợp cả nguồn điện và xăng để vận hành. Xe có thể tạo công suất nguồn điện tới 3.500W nhưng chỉ sử dụng khoảng một nửa. Trong khi đó, dàn máy của Byrne cần khoảng 1.500W, chủ yếu đào tiền ảo Ethereum (ETH).
+Byrne cho biết, việc vận hành "cỗ máy đào tiền ảo di động" của mình không quá khó khăn. Tuy nhiên, mỗi khi sử dụng, nắp sau xe phải mở để tản nhiệt.
+Chủ nhân cỗ máy cho biết đã nhận được nhiều câu hỏi liên quan đến việc tại sao lại đầu tư một số tiền khổng lồ chỉ để đào tiền ảo ít giá trị. Trong một phỏng vấn với <em>Tom’s Hardware</em>, Byrne cho biết lý do duy nhất là "để chọc tức game thủ".
+Các loại tiền ảo đồng loạt tăng giá thời gian gần đây khiến thị trường máy đào "nóng" trở lại, nhu cầu về GPU tăng cao. RTX 3080 là GPU nhanh nhất hiện nay của Nvidia và cũng là một trong những thiết bị có khả năng "cày" tiền ảo tốt nên được săn lùng. Giá bán của sản phẩm này trên thị trường đang bị đội lên khá nhiều so với mức 700 USD.
+Cuối năm ngoái, Byrne cũng từng chứng tỏ độ "chơi ngông" của mình khi đầu tư 78 GPU RTX 3080 với tổng giá trị gần 55.000 USD để đào ETH. Theo tính toán, dàn máy của người này có thể mang về 128.088 USD mỗi năm.

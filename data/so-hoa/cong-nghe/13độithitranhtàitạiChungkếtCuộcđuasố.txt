@@ -1,0 +1,12 @@
+13 đội thi tranh tài tại Chung kết Cuộc đua số
+https://vnexpress.net/13-doi-thi-tranh-tai-tai-chung-ket-cuoc-dua-so-4206812.html
+
+Chung kết Cuộc đua số 2020, do FPT tổ chức, sẽ diễn ra ngày 19/12 tại Hà Nội với sự tham gia của các đội thi đến từ 10 trường đại học.
+
+Được phát động từ cuối năm 2019 và qua các lượt tranh tài ở vòng bảng, 13 đội đạt điểm cao nhất chuẩn bị bước vào vòng cuối của cuộc thi lập trình cho xe tự hành, trong đó có 6 đội ở Hà Nội, 3 đội ở TP HCM, một đội ở Đồng Nai, một đội ở Khánh Hòa và hai đội ở Đà Nẵng.
+Trong vòng Chung kết, các đội sẽ xây dựng hệ thống xe tự lái của mình dựa trên phần cứng có sẵn của ban tổ chức. Năm nay, xe được dùng là xe mô hình có tỷ lệ 1/7 so với xe thật, tốc độ tối đa đạt 50km/h. Trên xe được trang bị các cảm biến tiên tiến, như camera đo chiều sâu cho phép thu thập hình ảnh để phân loại và nhận dạng đường đi, vật thể.
+Trên sa hình, xe tự lái của các đội thi được yêu cầu xử lý các tình huống thực tế giống như khi tham gia giao thông tại Việt Nam, như đi đúng làn đường, vượt xe đúng luật, dừng đúng vạch khi gặp biển báo.
+Bốn xe có thời gian hoàn thành một vòng đua nhanh nhất sẽ bước vào cuộc cạnh tranh cuối cùng. Các xe sẽ giải bài toán khó nhất - vật cản động, tức tình huống phát sinh khi xe đang đi nhanh thì gặp người chạy qua đường.
+Đại diện FPT cho biết, tập đoàn lựa chọn công nghệ xe tự hành như một điểm bắt đầu thú vị để giúp các bạn trẻ tiếp xúc và làm quen với những bài toán, ứng dụng thực tế. Điểm nhấn của cuộc thi chính là sự hội tụ những xu hướng công nghệ mới thông qua bài toán xe tự hành. Sinh viên sau khi tham gia cuộc thi sẽ có những hiểu biết nhất định về cách làm một bài toán trí tuệ nhân tạo, bài toán xử lý ảnh, hiểu được cách tích hợp phần mềm và phần cứng cho sản phẩm, cách sử dụng công cụ của dân chuyên nghiệp như GitHub, Docker.
+Cuộc đua số được FPT bắt đầu tổ chức từ năm 2016. Qua bốn năm, hàng trăm chiếc xe đã lăn bánh trên sa hình của cuộc thi, mở đường cho hàng chục nghìn sinh viên kỹ thuật Việt Nam tiếp xúc với những xu hướng công nghệ tiên tiến của thế giới như AI, Big Data, IoT, học máy, học sâu...
+Tại Việt Nam, FPT là một trong số ít các doanh nghiệp công nghệ đầu tư lâu dài trong việc tạo sân chơi công nghệ cho giới trẻ với các cuộc thi như Trí Tuệ Việt Nam (2000-2007), Mobile Lab (2008-2009), Mobile Robot Challenge (2013), S.M.A.C Challenge (2014-2015), Cuộc đua số (từ 2016)...

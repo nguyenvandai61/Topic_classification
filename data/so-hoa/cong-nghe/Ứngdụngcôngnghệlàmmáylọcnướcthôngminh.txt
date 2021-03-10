@@ -1,0 +1,12 @@
+Ứng dụng công nghệ làm máy lọc nước thông minh
+https://vnexpress.net/ung-dung-cong-nghe-lam-may-loc-nuoc-thong-minh-4216921.html
+
+Máy lọc nước của Karofi có thể kết nối với smartphone, thông báo tình trạng của máy lọc cũng như chất lượng nước tới người dùng qua điện thoại.
+
+"Chúng tôi muốn tạo ra nguồn nước sạch cho mỗi người Việt Nam bằng công nghệ", ông Nguyễn Văn Vượng, Phó tổng giám đốc Tập đoàn Karofi, chia sẻ tại Diễn đàn Công nghệ VnExpress diễn ra hôm 7/1 tại TP HCM.
+Karofi là đơn vị vừa triển khai giải pháp công nghệ AioTec trên máy lọc nước ra mắt năm 2020 của hãng. Đây là tính năng giúp máy lọc nước được kết nối với người dùng thông qua smartphone. Từ đó, người dùng có thể giám sát liên tục chất lượng nước, cũng như kiểm soát máy lọc từ xa qua Internet.
+Hệ thống thiết bị điện tử trong máy lọc nước có thể tự động tính toán tuổi thọ của linh kiện bên trong, từ đó hiển thị thời hạn còn lại của lõi lọc và cảnh báo khi lõi lọc đến hạn cần thay thế. Mức độ tinh khiết của nguồn nước sau khi lọc, thông tin kỹ thuật của máy, sự cố,... cũng được hiển thị trên app để người dùng có thể nắm được và liên hệ nhà sản xuất nếu cần.
+Ở hướng ngược lại, nhà sản xuất cũng sẽ được lợi khi ứng dụng công nghệ. Đại diện Karofi cho rằng, máy lọc nước không chỉ đơn thuần lấy nước ra, mà cần cả những công nghệ kiểm soát chất lượng sản phẩm. "Công nghệ là nền tảng quan trọng để đảm bảo nước đạt chuẩn, đảm bảo vận hành thiết bị, giúp nhà sản xuất như có thể nắm được ngay các vấn đề của sản phẩm", ông Vượng nói.
+Tại sân khấu của diễn đàn Công nghệ VnExpress, ông Nguyễn Văn Vượng chia sẻ tâm thế tự hào khi tham gia với tư cách một doanh nghiệp thuần Việt, nhưng nhờ ứng dụng công nghệ mà đạt được những thành quả nhất định. "Mức tăng trưởng hai con số mà chúng tôi có được trong thời gian qua là nhờ các giải pháp công nghệ mới", ông Vượng nói.
+Trong thời gian qua, Karofi đạt năng suất 4 triệu sản phẩm mỗi năm, xuất khẩu đi 35 nước trên thế giới. Theo Phó tổng giám đốc tập đoàn này, trong bối cảnh Việt Nam vẫn còn chưa có tiếng tăm về mặt công nghệ, thì việc doanh nghiệp Việt chinh phục được thị trường khắt khe và khó tính trên thế giới đã dần chứng minh năng lực công nghệ của các doanh nghiệp Việt.
+Đại diện Karofi cũng mong muốn các doanh nghiệp ở Việt Nam sẽ cùng hợp tác, chung tay với nhau, để tập trung giải quyết bài toán công nghệ, giúp các doanh nghiệp đi nhanh hơn trong lĩnh vực công nghệ.

@@ -1,0 +1,11 @@
+Mã nguồn Microsoft bị đọc trộm
+https://vnexpress.net/ma-nguon-microsoft-bi-doc-trom-4215155.html
+
+Microsoft cho biết tin tặc có thể đã xem được mã nguồn của công ty, nhưng không thể chỉnh sửa và hiện cũng chưa ghi nhận hậu quả nào.
+
+Trung tâm phản hồi bảo mật của <a href="https://vnexpress.net/chu-de/microsoft-1553" rel="dofollow">Microsoft</a> (MSRC) hôm 31/12 cho biết đơn vị này đã phát hiện hoạt động bất thường của một tài khoản nội bộ. Điều tra cho thấy các tài khoản này đã được sử dụng để xem mã nguồn trong một số kho mã nguồn của công ty.
+Các báo cáo gần nhất cho thấy tài khoản trên được cấp quyền xem mã nguồn, tuy nhiên không thể thực hiện bất cứ chỉnh sửa nào. Sau quá trình điều tra, Microsoft cũng khẳng định không tìm thấy dấu hiệu nào của việc bị truy cập vào dữ liệu khách hàng hay mã nguồn bị lợi dụng để tấn công người khác.
+Microsoft cũng cho biết công ty này "luôn giả định việc đối thủ có thể nhìn thấy mã nguồn của mình". Vì vậy, "tính an toàn của sản phẩm không phụ thuộc vào tính bảo mật của mã nguồn".
+Vấn đề trên được Microsoft tìm ra khi đang điều tra về vụ tấn công <a href="https://vnexpress.net/chien-dich-tan-cong-mang-lon-nhat-thap-ky-4208720.html" rel="dofollow">SolarWinds</a> trước đó. Theo Microsoft, công ty muốn chủ động công bố vì tôn trọng sự minh bạch, đồng thời ám chỉ vụ tấn công đã được thực hiện bởi một "quốc gia bên ngoài".
+Vụ tấn công SolarWinds được đánh giá là chiến dịch tấn công mạng lớn nhất trong thập kỷ, ảnh hưởng đến hàng loạt cơ quan và công ty lớn. SolarWinds là đơn vị chuyên cung cấp phần mềm quản trị mạng cho nhiều cơ quan chính phủ và doanh nghiệp lớn của Mỹ. Công ty thông báo có khoảng 18.000 khách hàng đã tải về bản cập nhật chứa mã độc. Tính đến 18/12, ít nhất 6 cơ quan chính phủ Mỹ là Bộ Quốc phòng, Bộ An ninh nội địa, Bộ Ngoại giao, Bộ Tài chính, Bộ Năng lượng và Bộ Thương mại đã trở thành nạn nhân của cuộc tấn công mạng nói trên.
+Tương tự Microsoft, SolarWinds cho rằng đây là chiến dịch của một "quốc gia bên ngoài".

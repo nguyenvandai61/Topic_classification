@@ -1,0 +1,12 @@
+Dùng AI 'nghe' sự bất thường của đường tàu
+https://vnexpress.net/dung-ai-nghe-su-bat-thuong-cua-duong-tau-4229705.html
+
+Dọc tuyến đường của tàu cao tốc Sanyo Shinkansen, các nhà phát triển gắn hàng loạt microphone chất lượng cao để nhanh chóng phát hiện sự cố.
+
+Những microphone này là một phần trong hệ thống điều khiển do NTT Data và JR West phát triển để theo dõi tuyến Sanyo Shinkansen nối liền thành phố Osaka tới Kyushu.
+Hệ thống này sử dụng trí tuệ nhân tạo để phân tích âm thanh đường tàu. Khi AI phát hiện một âm thanh bất thường và gửi cảnh báo, thông tin sẽ được chuyển cho thanh tra để xem xét sâu hơn và đưa ra quyết định có tạm dừng hoạt động của tàu hay không.
+Hệ thống được triển khai sau một sự cố vào năm 2017. Dù nhân viên trên tàu Nozomi nghe thấy âm thanh lạ và có mùi khét, đoàn tàu vẫn tiếp tục di chuyển. Sau đó, thanh tra phát hiện một vết nứt dài 14 cm trên khung gầm tàu. May mắn là nó thiếu chỉ 3 cm để phá vỡ khung thép của đoàn tàu khi di chuyển tốc độ cao.
+Ngoài việc ngăn chặn sự cố tương tự trên tuyến Shinkansen, JR West cũng sử dụng AI để phân tích dữ liệu khi bảo dưỡng tàu và thiết bị. Công ty đang vận hành gần 5.000 km đường sắt ở phía Tây Nhật Bản, vì vậy cần tăng cường độ chính xác của công tác bảo dưỡng để đảm bảo an toàn đồng thời giảm chi phí.
+"Chúng tôi vẫn bảo trì các toa tàu và thiết bị dựa trên số giờ sử dụng, nhưng bằng cách phân tích dữ liệu kiểu mới, chúng tôi có thể giám sát chúng một cách độc lập", Hide Okuda, một nhân viên của JR West, cho biết.
+Khả năng phân tích và tốc độ xử lý thông tin là yếu tố quan trọng khiến AI đang được ứng dụng trong nhiều lĩnh vực khác nhau. Hệ thống phân tích dữ liệu tương tự cũng được triển khai để dự đoán sự cố của gần 600 máy bán vé và cổng nhà ga ở khu vực Kobe phía tây Osaka. Hàng sáng, các máy chủ thu thập dữ liệu về tần suất làm việc, các loại sự cố và thời gian xảy ra chúng.
+Tại Giang Tô, Huawei cũng đang thử nghiệm con đường có thể tương tác với xe tự lái. Dựa trên hệ thống camera, radar và cảm biến gắn trên nóc, xe liên tục nhận thông tin từ đèn giao thông, biển báo đặt trên đường phố... Nói cách khác, xe đang "trò chuyện" với con đường trong quá trình thực hiện lộ trình của mình.

@@ -1,0 +1,8 @@
+TP HCM trao giải lập trình AI Hackathon
+https://vnexpress.net/tp-hcm-trao-giai-lap-trinh-ai-hackathon-4198595.html
+Với chủ đề cuộc thi "Smart Citizens for Smart Cities", Ban tổ chức đã trao 1 giải nhất, 2 giải nhì, 2 giải ba và 14 giải khuyến khích, hôm 28/11.
+Cuộc thi do Sở Khoa học và Công nghệ phối hợp cùng Đại học Quốc gia TP HCM tổ chức trong khuôn khổ Chương trình <a href="https://ai4vn.vnexpress.net/" rel="dofollow">AI4VN 2020</a>.
+Theo Ban tổ chức, cuộc thi thu hút 83 đội đăng ký tham gia, với số lượng 249 thí sinh đến từ các trường Đại học trên địa bàn TPHCM, Hà Nội, và một số viện nghiên cứu. Ngoài ra, cuộc thi còn thu hút đối tượng học sinh THPT và sinh viên đang học tại nước ngoài như thí sinh đến từ trường Hertie School (Berlin).
+Trải qua vòng sơ tuyển, có 20 đội được lọt vào chung kết và tranh tài. Ở vòng chung kết, mỗi đội sử dụng các công cụ phần mềm cài đặt thuật toán Trí tuệ nhân tạo mà đội mình đã phát triển để giải quyết bài toán do Ban giám khảo đặt ra và tìm ra đáp án tối ưu cho các bộ test. Kết quả của mỗi đội được chấm trực tuyến theo thời gian thực, ngay khi đội nộp kết quả lên Server thi trong thời gian thi.
+Kết quả chung cuộc đội được giải nhận thưởng là tiền mặt và Bằng khen của Đại học Quốc gia TP HCM. Trong đó có giải nhất 30 triệu đồng, giải nhì 10 triệu đồng/giải và giải ba 5 triệu đồng/giải.
+Ban tổ chức cũng trao 14 giải khuyến khích, tiền thưởng 1 triệu đồng/giải và Giải thưởng câu trả lời đúng nhất và nhanh nhất cho mỗi đợt thi: 1.000.000 đồng/giải x 10 đợt thi. Ba giải cho 3 đội có ý tưởng sáng tạo, độc đáo: 2.000.000 đồng/giải.

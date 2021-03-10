@@ -1,0 +1,12 @@
+Chatbot 'nữ sinh' bị xóa khỏi Facebook
+https://vnexpress.net/chatbot-nu-sinh-bi-xoa-khoi-facebook-4221873.html
+
+Lee Luda, chatbot mới nổi của Hàn Quốc, bị vô hiệu hóa trên Facebook Messenger do những bình luận phân biệt chủng tộc và phân biệt đối xử.
+
+Nhờ khả năng phản ứng nhanh và tự nhiên, Lee Luda, với tạo hình một nữ sinh 20 tuổi mê K-pop, đã thu hút hơn 750.000 người dùng từ khi ra mắt cuối tháng 12/2020. Tuy nhiên, chatbot này lại đưa ra phát biểu chỉ trích và thù ghét nhằm vào cộng đồng LGBTQ+, đồng thời dùng những từ lóng để chỉ những người da màu.
+"Chúng tôi thành thật xin lỗi vì những bình luận phân biệt đối xử nhằm vào các cộng đồng thiểu số nhất định. Chúng tôi không đồng tình với các bình luận của Luda, chúng cũng không phản ánh suy nghĩ của công ty", Scatter Lab, hãng phát triển Lee Luda, cho biết trong thông cáo hôm 14/1.
+Nhà phát triển cho biết đã thực hiện nhiều biện pháp nhằm bảo đảm an toàn về hành vi của AI này, trong đó có "thử nghiệm beta trong suốt 6 tháng qua", đồng thời giải thích rằng mã lập trình của nó đáng lẽ đã ngăn Lee Luda sử dụng những ngôn từ đi ngược lại chuẩn mực của xã hội Hàn Quốc. Tuy nhiên, bất chấp những nỗ lực trên, AI này vẫn không thể học được đạo đức như con người.
+Luda học thông qua giao tiếp với con người, dường như những người trẻ tuổi với quan điểm cực đoan đã tác động đến nó sớm nhất. Tuy nhiên, Scatter Lab đã rút ra bài học khi cho biết đang có kế hoạch công khai mô hình phát hiện đối thoại thiên vị cho công chúng, cũng như đẩy mạnh nghiên cứu vào "giao tiếp AI, sản phẩm AI và phát triển đạo đức AI".
+AI này mới chỉ 6 tháng tuổi, nên nhà sản xuất cũng thừa nhận tính cách của nó "giống trẻ con". Điều này khiến một số chuyên gia cho rằng nó chưa đủ độ tuổi sử dụng Facebook và chưa sẵn sàng cho môi trường mạng xã hội nói chung.
+Scatter Lab cũng đang bị nghi vi phạm luật riêng tư Hàn Quốc khi sử dụng ứng dụng nhắn tin KakaoTalk để huấn luyện Lee Luda.
+Đây không phải lần đầu AI chatbot đưa ra những bình luận như vậy. Taylor Swift từng dọa kiện Microsoft vì những phát biểu phân biệt chủng tộc của chatbot Tay. Nó được triển khai trên Twitter năm 2016 và nhanh chóng trở nên cực đoan.

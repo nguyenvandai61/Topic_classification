@@ -1,0 +1,13 @@
+Đáp án bài toán tổ hợp của Mỹ
+https://vnexpress.net/dap-an-bai-toan-to-hop-cua-my-4208036.html
+Tất cả bạn đọc không tìm ra đáp số đúng. Ngay cả khi đề gốc cung cấp 5 phương án trắc nghiệm, chỉ 20% người chơi trả lời đúng.
+<strong>Đề bài:</strong>
+Sơ đồ giao thông chứa các đoạn thẳng gồm hai loại. Loại có mũi tên chỉ đi được một chiều theo chiều mũi tên và loại không có mũi tên thì đi được hai chiều. Tính số cách đi từ A đến B mà không có đoạn thẳng nào bị lặp lại?
+<strong>Hướng dẫn</strong>: Sau đây là một trong ba cách để giải bài toán này.
+Vẽ 2 lát cắt (a) và (b) ngay sau 4 mũi tên cùng chiều từ trái sang phải như hình vẽ.
+Xét đại diện số cách đi từ A đến hai trong bốn đỉnh nằm trên lát cắt (a). Tại mỗi đỉnh đến nằm trên (a) đều có năm cách đi từ A đến nó. Suy ra đi từ A đến một đỉnh bất kỳ trong bốn đỉnh nằm trên (a) đều có năm cách đi.
+Xét đại diện số cách đi từ 2 trong 4 đỉnh nằm trên (a) đến một trong bốn đỉnh nằm trên (b). Ta có số cách đi từ một đỉnh ở trên (a) đến một đỉnh ở trên (b) là: 4+4+8+8 =24 (cách).
+Theo quy tắc nhân thì số cách đi từ A đến mỗi đỉnh nằm trên (b) là 5x24=120 (cách)
+Xét đại diện số cách đi từ hai trong bốn đỉnh nằm trên (b) đến đích B. Mỗi đỉnh xuất phát nằm trên (b) đều có năm cách đi đến đích B. Suy ra số cách đi từ A đến mỗi đỉnh nằm trên (b) rồi đến B là 120 x 5 = 600 (cách).
+Vậy tổng số cách đi từ A đến B là 4 x 600=2400 (cách).
+Bài Toán gốc của Mỹ cho phép học sinh được chọn một trong năm đáp án với thời gian 5 phút. Khi không ở phòng thi bạn đọc có thể giải bài toán này trong thời gian nhiều hơn nên chúng tôi đã không đưa năm đáp án như đề bài gốc.

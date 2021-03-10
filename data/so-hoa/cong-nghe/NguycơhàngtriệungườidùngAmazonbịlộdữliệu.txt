@@ -1,0 +1,14 @@
+Nguy cơ hàng triệu người dùng Amazon bị lộ dữ liệu
+https://vnexpress.net/nguy-co-hang-trieu-nguoi-dung-amazon-bi-lo-du-lieu-4241171.html
+
+Amazon lưu trữ lượng dữ liệu khổng lồ của khách hàng, nhưng lại không áp dụng đầy đủ biện pháp bảo vệ thông tin.
+
+Cảnh báo về nguy cơ mất dữ liệu ở Amazon được tiết lộ bởi ba cựu quan chức an toàn thông tin của hãng, một người tại châu Âu và hai người Mỹ. Họ từng nhiều lần cảnh báo giới lãnh đạo tập đoàn nhưng bị gạt sang một bên, phớt lờ hoặc mất việc.
+Cả ba người quyết định giấu tên vì lo ngại bị công kích hoặc gặp khó khăn khi kiếm việc làm sau khi rời tổ chức này. Những tiết lộ của họ vẽ nên bức tranh về văn hóa doanh nghiệp của Amazon, trong đó, ưu tiên phát triển hơn mọi yếu tố khác, bao gồm an toàn dữ liệu cho khách hàng, tuân thủ những quy tắc bảo mật thông tin và sự nghiệp của những nhân viên chuyên phát hiện vấn đề trong hệ thống.
+"Hãy tưởng tượng một tập đoàn như Amazon bị rò rỉ dữ liệu? Vấn đề là dữ liệu nhận diện của hàng triệu người, như lịch sử mua hàng, thông tin thẻ tín dụng và cả tình trạng sức khỏe, đang gặp nguy hiểm", một trong ba quan chức cho hay.
+Phát ngôn viên Amazon khẳng định duy trì niềm tin của khách hàng bằng cách bảo đảm riêng tư và an ninh dữ liệu là "ưu tiên hàng đầu từ lâu" của tập đoàn.
+"Những tuyên bố thiếu chính xác, không có cơ sở và lạc hậu đó không phản ánh cam kết bảo đảm an toàn dữ liệu cá nhân của chúng tôi. Amazon có những chính sách, quy trình và công nghệ toàn diện, được áp dụng từ lâu, nhằm giữ tính riêng tư và an ninh", phát ngôn viên cho hay.
+Thông tin nhiều khả năng sẽ thu hút sự chú ý và đồng tình từ các nhà quản lý, trong bối cảnh giới lập pháp và chính phủ nhiều nước đang đẩy mạnh giám sát các công ty ở Mỹ và châu Âu.
+Cách xử lý dữ liệu của Amazon ít được chú ý, dù đây là một trong những tập đoàn mạnh nhất trong lĩnh vực này nhờ lượng lớn thông tin thu được từ các nền tảng thương mại điện tử, quảng cáo trực tuyến và Amazon Web Services.
+Garfield Benjamin, người từng viết về lỗ hổng của Amazon, cho rằng việc tập đoàn không coi trọng tính riêng tư và an ninh là dấu hiệu về "vấn đề lớn". "Có vẻ lạ lùng, dù điều này thường xảy ra, khi một tập đoàn coi dữ liệu là hình thức kinh doanh chủ chốt mà lại có những cách làm việc tồi tệ như vậy. Liệu họ quá tự tin khi cho rằng mình không thể bị tổn hại", ông đặt câu hỏi.
+Hậu quả với khách hàng không chỉ là mất niềm tin vào khả năng an ninh và bảo mật của Amazon. Cách hành xử của tập đoàn này khiến họ dễ tổn thương trước những lỗ hổng hoặc các vụ tấn công mạng, khiến dữ liệu nhạy cảm rơi vào tay kẻ xấu, dẫn tới nguy cơ tống tiền hoặc lừa đảo người dùng.

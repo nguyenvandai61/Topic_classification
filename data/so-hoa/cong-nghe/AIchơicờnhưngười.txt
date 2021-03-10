@@ -1,0 +1,11 @@
+AI chơi cờ như người
+https://vnexpress.net/ai-choi-co-nhu-nguoi-4227405.html
+
+Không giống các AI được tạo ra để hạ gục con người càng nhanh càng tốt, Maia có khả năng xác định trình độ người chơi và đưa ra nước đi phù hợp.
+
+Được xây dựng dựa trên mã nguồn mở Leela của DeepMind, các nhà khoa học từ <a href="https://vnexpress.net/chu-de/microsoft-1553" rel="dofollow">Microsoft </a>và nhiều trường đại học đã đào tạo Maia dựa vào hàng triệu ván cờ thực tế của con người. Thay vì chơi các nước đi tối ưu, mục tiêu của Maia là bắt chước các quyết định của con người nhất. 9 phiên bản Maia đã được phát triển, tương đương với dải trình từ người bắt đầu chơi tới đại kiện tướng.
+Maia hiện dự đoán các nước đi của con người với độ chính xác cao hơn nhiều so với các AI chơi cờ khác. Ngoài mục đích mang lại trải nghiệm chơi cờ vua thú vị hơn, theo các tác giả của nghiên cứu, Maia sẽ giúp tìm ra cách cải thiện sự tương tác giữa con người và AI.
+"Khi trí tuệ nhân tạo ngày càng trở nên thông minh, trong một số trường hợp là siêu thông minh. Con người có tiềm năng học hỏi và cộng tác với các thuật toán. Tuy nhiên, cách mà các hệ thống AI tiếp cận vấn đề thường rất khác với cách con người làm, do đó khiến chúng ta khó hiểu và khó học hỏi", Jon Kleinberg, giáo sư ngành Khoa học Máy tính tại Đại học Tisch nói.
+Các nhà nghiên cứu hy vọng Maia sẽ giúp thu hẹp khoảng cách giữa phong cách học của máy và con người bằng cách lập mô hình "các hành động cấu thành nên hành vi của con người" thay vì cố gắng tạo ra kết quả như con người. Nói cách khác, robot sẽ không chỉ được luyện tập dựa trên những gì chúng ta biết mà còn dựa vào cách chúng ta suy nghĩ.
+Kleinberg nói: "Trong nghiên cứu AI, trò chơi cờ vua thường được ví như ‘ruồi giấm’ trong di truyền học. Các nhà nghiên cứu AI yêu thích thử nghiệm trên cờ vua vì nó là một thế giới khép kín, nơi bạn có thể khám phá, minh họa nhiều hiện tượng với AI".
+Năm 1997, Deep Blue của IBM đã làm nên lịch sử khi trở thành chiếc máy tính đầu tiên đánh bại nhà vô địch cờ vua thế giới, Garry Kasparov. Kể từ đó đến nay, những tiến bộ trong lĩnh vực AI cho phép máy tính có khả năng chơi cờ vua ngày càng hơn con người. Trên thực tế, trong hơn 15 năm qua, chưa có người nào có thể đánh bại máy tính trong một giải đấu cờ vua.

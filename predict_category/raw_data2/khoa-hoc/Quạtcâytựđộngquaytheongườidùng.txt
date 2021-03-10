@@ -1,0 +1,8 @@
+Quạt cây tự động quay theo người dùng
+https://vnexpress.net/quat-cay-tu-dong-quay-theo-nguoi-dung-4199536.html
+MỹQuạt cây Following Fan nặng 9,5 kg, trang bị camera để theo dõi chuyển động của người dùng và quay đến đúng hướng.
+Kỹ sư phần mềm Nate Oelke và Aj Sakher tại bang Minnesota, Mỹ, chế tạo quạt Following Fan có thể quay theo khi người dùng di chuyển, <em>New Atlas</em> hôm 30/11 đưa tin. Dù trông giống một chiếc quạt cây thân thép, cánh nhôm bình thường, thực chất Following Fan còn gắn thêm một camera giữa lồng quạt.
+Thuật toán thị giác máy tính chạy trên một vi xử lý tích hợp sẽ phân tích video từ camera này, phát hiện vị trí của những người trong video. Hệ thống chọn người đứng gần camera nhất, điều khiển quạt quay sang trái hay phải khi người này di chuyển.
+Người dùng cũng có thể thiết lập Following Fan ở chế độ Tĩnh hoặc Quay truyền thống với ba tốc độ gió khác nhau. Với chế độ Theo Sát, chiếc quạt sẽ tự động dừng chạy khi mục tiêu rời khỏi phòng, giúp tiết kiệm năng lượng. Nó sẽ tiếp tục hoạt động khi người này quay lại.
+Following Fan hoạt động hoàn toàn không cần Internet nên hình ảnh của người dùng sẽ không bị đưa lên hay lưu trữ trên mạng. Chiếc quạt nặng 9,5 kg, đường kính cánh quạt 50,8 cm và có thể quay 135 độ.
+"Khi chuẩn bị nộp đơn xin cấp bằng sáng chế, chúng tôi đã tìm kiếm trước và thấy không có mẫu quạt theo dõi người nhỏ gọn nào sử dụng camera và công nghệ học máy ngoài chúng tôi. Trước đây cũng có những bên chế tạo quạt theo dõi người, nhưng thường sử dụng cảm biến hồng ngoại đơn giản để dò thân nhiệt, có độ tin cậy không cao, bị hạn chế về phạm vi và sản phẩm cuối cùng không thiết thực", Oelke cho biết.

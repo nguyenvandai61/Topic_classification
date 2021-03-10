@@ -1,0 +1,7 @@
+Đáp án bài toán diện tích trong đề thi IMSO 2021
+https://vnexpress.net/dap-an-bai-toan-dien-tich-trong-de-thi-imso-2021-4235018.html
+Để giải bài toán, bạn cần biết vẽ hình phụ, dùng định lý Pitago, tam giác đồng dạng - những kiến thức mà học sinh tham gia IMSO có thể chưa học.
+<strong>Đề bài:</strong>
+Trong hình vẽ bên dưới, STM và OUI là các tam giác vuông nằm bên trong hình chữ nhật IMSO sao cho điểm U nằm trên đoạn thẳng TM.
+Biết ST = 21 cm, TM = 72 cm và OU = 45 cm, tính diện tích hình chữ nhật IMSO?
+<strong>Lời giải:</strong>

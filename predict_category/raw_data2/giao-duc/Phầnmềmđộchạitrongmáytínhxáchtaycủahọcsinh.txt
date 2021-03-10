@@ -1,0 +1,9 @@
+Phần mềm độc hại trong máy tính xách tay của học sinh
+https://vnexpress.net/phan-mem-doc-hai-trong-may-tinh-xach-tay-cua-hoc-sinh-4227482.html
+Khoảng 10% máy tính xách tay do Chính phủ Anh cấp phát cho học sinh học online trong thời gian Covid-19 bị nhiễm virus độc hại.
+Từ ngày 21/1, Chính phủ Anh mở cuộc điều tra vấn đề máy tính xách tay phát cho học sinh phổ thông để học trực tuyến bị nhiễm phần mềm độc hại, kết nối với máy chủ tại quốc gia khác.
+Sự cố được nhân viên trường học ở Bradford phát hiện, đăng bài cảnh báo trên diễn đàn công nghệ thông tin trực tuyến. "Sau khi mở máy tính và lắp đặt, chúng tôi phát hiện một số máy tính xách tay nhiễm virus tự lan truyền tên là Gamarue.I", nhân viên trường học viết.
+Gamarue.I là phần mềm độc hại được Microsoft ghi nhận vào năm 2012. Loại virus này có thể tải xuống máy tính những tệp không rõ nguồn gốc.
+Chính phủ Anh đang đánh giá số lượng máy tính bị ảnh hưởng, nguồn gốc phần mềm độc hại và ảnh hưởng của nó đến học sinh. Ước tính 10% máy tính được phát trên cả nước nhiễm virus. Trong đó, 10 trường học đã báo cáo sự cố nhưng máy tính được cài đặt phần mềm chống virus nên đã kiểm soát được tình hình.
+Trước đó, Chính phủ Anh cam kết phân phát 1,3 triệu thiết bị học tập cho học sinh phổ thông bị ảnh hưởng từ Covid-19, phải học trực tuyến. Do kế hoạch triển khai chậm trễ, các lãnh đạo trường học đã chỉ trích chính phủ.
+Sự cố mới khiến kế hoạch dạy và học trực tuyến sẽ càng bị chậm trễ vì nhân viên trường học phải kiểm tra, khắc phục phần mềm độc hại.

@@ -1,0 +1,12 @@
+Trung Quốc đưa lập trình vào chương trình phổ thông
+https://vnexpress.net/trung-quoc-dua-lap-trinh-vao-chuong-trinh-pho-thong-4207925.html
+Bộ Giáo dục Trung Quốc lên kế hoạch đưa lập trình vào giảng dạy, giúp học sinh phát triển kỹ năng công nghệ thông tin, đổi mới kỹ thuật số.
+Trong quá trình sửa đổi chương trình giáo dục bắt buộc, dành cho học sinh từ lớp 1 đến 9, Bộ Giáo dục Trung Quốc quyết định đưa nội dung lập trình vào môn Công nghệ thông tin của học sinh tiểu học, THCS. Thông báo này được Bộ đăng tải trên trang web chính thức vào đầu tháng 12.
+Quyết định của Bộ Giáo dục nhằm thực hiện lời kêu gọi của một thành viên Ủy ban quốc gia Hội nghị Hiệp thương chính trị nhân dân Trung Quốc về việc đưa lập trình vào chương trình giáo dục phổ thông để nuôi dưỡng nhân tài kỹ thuật số.
+Năm 2018, thành phố Trùng Khánh yêu cầu các trường phổ thông trên địa bàn tổ chức lớp dạy viết code cho học sinh tiểu học từ lớp 3 đến 6 và THCS từ lớp 7 đến 9. Mỗi năm học phải có ít nhất 36 giờ giảng dạy nội dung trên. Các trường được khuyến khích có ít nhất một giáo viên dạy viết code toàn thời gian.
+Việc học lập trình không yêu cầu học sinh trở thành lập trình viên. Thay vào đó, môn học này giúp các em trau dồi khả năng tư duy logic, phương pháp giải quyết vấn đề.
+Phụ huynh Trung Quốc cũng nhận thấy viết code là một trong những cách tốt nhất để chuẩn bị cho con bước vào kỷ nguyên số. Nhiều gia đình đăng ký cho con tham gia khóa học lập trình sau giờ học tại các cơ sở tư nhân.
+Jiang Chung, sống tại Bắc Kinh, cho biết đã đăng ký cho con trai 10 tuổi khóa học viết code trực tuyến từ tháng 3. Lập trình giúp con trai Jang phát triển khả năng phối hợp, tư duy logic và giảm thời gian cho trò chơi trực tuyến.
+Khóa học của con trai Jang kéo dài 2 giờ, mỗi tuần 2 buổi. Gia đình Jang đã chi khoảng 10.000 nhân dân tệ (khoảng 35 triệu đồng) cho khóa học này. "Khi đất nước tìm cách tích hợp trí tuệ nhân tạo vào cuộc sống hàng ngày, tôi nghĩ việc học viết code có thể trang bị kiến thức để con bắt kịp những đổi mới công nghệ trong tương lai", Jang nói.
+Nắm bắt tâm lý của phụ huynh, những cơ sở đào tạo lập trình tư nhân đang dần phổ biến. Thành lập năm 2015, cơ sở giáo dục Codemao, trụ sở tại thành phố Thâm Quyến, cho biết đã cung cấp khóa học lập trình đồ họa trực tuyến cho hơn 10 triệu học sinh 4-16 tuổi.
+Tháng 11/2020, Hàn Quốc thông báo trí tuệ nhân tạo (AI) sẽ trở thành môn học mới trong chương trình giáo dục THPT từ năm 2021. Đến năm 2025, các môn học về AI như lập trình, nguyên tắc cơ bản của AI, sử dụng AI được đưa vào chương trình tiểu học và THCS.

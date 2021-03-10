@@ -1,0 +1,12 @@
+Robot đầu tiên thám hiểm mặt trăng sao Hỏa
+https://vnexpress.net/robot-dau-tien-tham-hiem-mat-trang-sao-hoa-4195510.html
+Robot nặng 25 kg dự kiến hạ cánh xuống mặt trăng Phobos, nơi lực hấp dẫn chỉ bằng 2/1.000 Trái Đất, trong khoảng 6 năm tới.
+Các chuyên gia bắt đầu thử nghiệm hạ cánh cho một robot thám hiểm dự kiến phóng lên không gian năm 2024 và bay tới sao Hỏa cuối năm 2026 hoặc đầu năm 2027, <em>Space </em>hôm 21/11 đưa tin. Robot này nằm trong nhiệm vụ Khám phá Mặt Trăng sao Hỏa (MMX) của Cơ quan Thám hiểm Hàng không Vũ trụ Nhật Bản (JAXA). Đây là robot đầu tiên khám phá mặt trăng của một hành tinh khác.
+Robot MMX do nhóm chuyên gia Đức - Pháp phát triển. Nó dự kiến hoạt động trên bề mặt Phobos, mặt trăng có đường kính 22 km của sao Hỏa. Mặt trăng thứ hai của sao Hỏa là Deimos, đường kính chỉ khoảng 13 km.
+Để hạ cánh, robot MMX 4 bánh sẽ rơi tự do từ độ cao khoảng 40-100 m. Nhóm nghiên cứu bắt đầu mô phỏng cú rơi này tại Cơ sở Thử nghiệm Di chuyển và Hạ cánh thuộc Trung tâm Hàng không Vũ trụ Đức (DLR) ở Bremen.
+"Trong điều kiện phòng thí nghiệm, từ nhiều góc khác nhau, chúng tôi thả nguyên mẫu robot MMX từ độ cao 5 cm xuống một bề mặt không bằng phẳng và ổn định", Michael Lange, quản lý thử nghiệm tại Viện Hệ thống Thích ứng và Cấu trúc Tổng hợp thuộc DLR, cho biết.
+"Lực hấp dẫn trên bề mặt Phobos chỉ bằng khoảng 2/1.000 Trái Đất nên với thử nghiệm này, chúng tôi có thể mô phỏng mức ảnh hưởng của cú rơi đến cấu trúc robot", Lange nói. Cú rơi có thể tác động đến robot MMX gần như theo bất cứ hướng nào và có thể xảy ra va chạm với những tảng đá nhô lên.
+"Không thể nắm chắc vị trí chính xác mà robot đáp xuống trên bề mặt Phobos. Chúng tôi đang sử dụng những phân tích này để chuẩn bị cho các tình huống có thể xảy ra", Michael Wrasmann, chuyên gia tại Viện Hệ thống Không gian thuộc DLR, giải thích.
+Nhóm chuyên gia cũng sử dụng mô hình máy tính để chuẩn bị cho chuyến hạ cánh của robot MMX. Quá trình này và các bài thử nghiệm rơi sẽ giúp họ đưa ra thiết kế cuối cùng. Robot dự kiến nặng 25 kg, dài dưới 0,6 m.
+Nhiệm vụ MMX nhắm đến tìm hiểu nguồn gốc và sự tiến hóa của Phobos và Deimos. Đây vẫn là bí ẩn đối với giới khoa học. Một số nhà nghiên cứu cho rằng hai mặt trăng này là tiểu hành tinh mắc kẹt, số khác đoán chúng là mảnh vỡ sao Hỏa bị văng ra ngoài do những vụ va chạm mạnh.
+Nhiệm vụ MMX cũng bao gồm một tàu vũ trụ bay quanh quỹ đạo sao Hỏa. Con tàu sẽ lấy mẫu vật từ Phobos và mang về Trái Đất. Trong khi đó, robot thám hiểm sẽ thu thập dữ liệu trên bề mặt Phobos khoảng 100 ngày rồi ở lại đây.

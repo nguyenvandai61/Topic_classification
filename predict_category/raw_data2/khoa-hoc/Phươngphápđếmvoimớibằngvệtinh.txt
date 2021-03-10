@@ -1,0 +1,9 @@
+Phương pháp đếm voi mới bằng vệ tinh
+https://vnexpress.net/phuong-phap-dem-voi-moi-bang-ve-tinh-4223612.html
+Vệ tinh không gian có thể cung cấp một giải pháp thay thế hiệu quả cho việc giám sát và bảo tồn động vật có nguy cơ tuyệt chủng.
+"Lần đầu tiên, các nhà khoa học sử dụng thành công camera vệ tinh kết hợp với công nghệ học sâu (một lĩnh vực trong trí tuệ nhân tạo) để đếm số lượng voi châu Phi hoang dã trong cảnh quan địa lý phức tạp", Đại học Bath hôm 19/1 nhấn mạnh trong một tuyên bố. "Phương pháp mới có độ chính xác tương đương khả năng phát hiện của con người".
+Theo báo cáo trên tạp chí <em>Remote Sensing in Ecology and Conservation</em>, nhóm nghiên cứu do Đại học Bath và Oxford của Anh dẫn đầu đã sử dụng dữ liệu hình ảnh từ vệ tinh viễn thám Worldview‐3 của công ty Maxar Technologies. Thiết bị có khả năng quét 680.000 km2 bề mặt Trái Đất trong mỗi 24 giờ.
+Việc phát hiện động vật hoang dã trong hình ảnh vệ tinh bị ảnh hưởng bởi nhiều yếu tố như kích thước cơ thể của động vật, độ tương phản giữa chúng và môi trường sống xung quanh, cũng như độ phức tạp của cảnh quan. Do đó, phương pháp này trước đây mới phát huy hiệu quả trong việc thu thập dữ liệu về cá voi, bởi chúng dễ nhận biết trên nền nước xanh.
+Trong nghiên cứu này, các nhà khoa học kết hợp hình ảnh vệ tinh với mạng neuron tích chập trong học sâu, còn được gọi là thuật toán CNN, cho phép nhận dạng đối tượng lớn trong cảnh quan phức tạp như rừng và xavan. CNN trong những năm gần đây đã có nhiều ứng dụng trong thị giác máy tính và phân loại hình ảnh.
+Nhóm nghiên cứu hy vọng trong tương lai, hệ thống mới có thể phát hiện và nhận dạng các loài động vật nhỏ hơn khi độ phân giải của vệ tinh được cải thiện.
+Theo ước tính của Liên minh Bảo tồn Thiên nhiên Quốc tế, hiện chỉ còn khoảng 40.000 - 50.000 con voi châu Phi ngoài hoang dã. Việc giám sát chính xác số lượng và vị trí của chúng có ý nghĩa rất quan trọng trong nỗ lực bảo tồn loài.

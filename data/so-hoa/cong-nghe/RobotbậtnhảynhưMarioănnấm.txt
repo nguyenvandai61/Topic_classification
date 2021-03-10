@@ -1,0 +1,9 @@
+Robot bật nhảy như 'Mario ăn nấm'
+https://vnexpress.net/robot-bat-nhay-nhu-mario-an-nam-4240807.html
+
+Mẫu robot một chân tên Salto-1P tự tính toán chính xác điểm tiếp đất, bật nhảy đến các điểm được yêu cầu như trong game "Mario ăn nấm".
+
+Phòng thí nghiệm Berkeley, tại California, Mỹ, bắt đầu nghiên cứu Salto từ những năm 2016. Đến nay, robot một chân này có thể nhảy liên tục ở độ cao hơn một mét. Salto-1P có thể tự động tính toán chính xác điểm rơi, sử dụng ghế, bàn và bất kỳ thứ gì nó tìm thấy để làm bàn đạp sau đó tiếp đất thăng bằng chỉ với một chân. Thao tác nhảy khiến nhiều người liên tưởng đến hình ảnh Mario trong "game ăn nấm" huyền thoại.
+Để bắt đầu cú nhảy, robot sẽ nghiêng về phía trước, sử dụng một bánh xe cảm biến quay để cân bằng, sau đó điều chỉnh chuyển động của bánh xe rồi đưa chân về phía trước đến một góc thích hợp để tiếp đất.
+Trong thử nghiệm 60 lần nhảy, robot đã hạ cánh hoàn hảo 52 lần, 5 lần ngồi trên "gót chân" và chỉ ngã ba lần. Giờ đây, robot này có thể hạ cánh chính xác trong bán kính một đồng xu nhỏ.
+Việc này giúp Salto hoàn thành mục tiêu ban đầu: tự điều hướng trong các địa hình khó khăn để thực hiện các nhiệm vụ tìm kiếm và cứu hộ ở những nơi đổ nát, không an toàn với con người và đội tìm kiếm cứu hộ.

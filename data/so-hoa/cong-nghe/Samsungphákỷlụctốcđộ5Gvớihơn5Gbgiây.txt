@@ -1,0 +1,11 @@
+Samsung phá kỷ lục tốc độ 5G với hơn 5 Gb/giây
+https://vnexpress.net/samsung-pha-ky-luc-toc-do-5g-voi-hon-5-gb-giay-4243907.html
+
+Bộ phận nghiên cứu mạng của Samsung đã thử nghiệm thành công tốc độ truyền dữ liệu 5G trên smartphone với 5,23 Gb/giây, nhanh nhất từ trước đến nay.
+
+Trong buổi trình diễn được thực hiện tại phòng thí nghiệm của <a href="https://vnexpress.net/chu-de/samsung-1606" rel="dofollow">Samsung</a> ở Hàn Quốc, nhóm nghiên cứu đã sử dụng công nghệ Kết nối Vô tuyến kép E-Utran (EN-DC). EN-DC là công nghệ mới cho phép các nhà khai thác di động sử dụng mạng 4G để tăng tốc độ và vùng phủ sóng <a href="https://vnexpress.net/chu-de/5g-1613" rel="dofollow">5G</a>, đồng thời tối ưu hóa mạng để cải thiện vùng phủ sóng và độ tin cậy của mạng.
+Cụ thể, nhóm nghiên cứu Samsung đã kết hợp thành công băng tần 40 MHz của phổ 4G và 800 MHz của phổ sóng 5G để tốc độ dữ liệu của một thiết bị đầu cuối đạt 5,23 Gb/giây - mức cao nhất từ trước đến nay. Để trình diễn tốc độ này, nhóm sử dụng smartphone Samsung Galaxy S20, trạm gốc 4G, trạm gốc 5G và mạng lõi 4G/5G.
+"Thông qua cuộc trình diễn, Samsung tự hào khi đạt kỷ lục về tốc độ dữ liệu 5G. Kết quả cũng cho thấy tiềm năng khi kết hợp mạng kép 4G và 5G cùng một lúc để cho tốc độ 5G cao hơn", Ji-Yun Seol, Phó Chủ tịch Kinh doanh Mạng Samsung, cho biết.
+Nhà phân tích Ed Gubbins của GlobalData đánh giá kết quả của Samsung là rất khả quan. Ông cho rằng các nhà khai thác di động có thể dựa trên nghiên cứu của Samsung để xây dựng hệ thống mạng 5G với tốc độ cao bằng cách kết hợp hạ tầng 4G và 5G. Sự kết hợp này cũng giúp chi phí xây dựng thấp hơn, từ đó tối đa hóa lợi nhuận.
+Samsung có nhiều năm nghiên cứu về 5G và đã đạt những thành tựu nhất định. Năm 2018, công ty lần đầu tiên thử nghiệm thành công kết nối dữ liệu 5G New Radio (5G NR) tốc độ cao đầu tiên với hơn 1,7 Gb/giây. Một năm sau, Samsung đã vượt qua cột mốc trên với 2,65 Gb/giây. Năm 2020, hãng tiếp tục demo tốc độ kết nối với 4,3 Gb/giây. Tất cả đều là các con số kỷ lục về tốc độ 5G vào thời điểm công bố.
+Theo tính toán, tốc độ mạng 5G đạt mức lý tưởng có thể đạt tới 10 Gb/giây, gấp 100 lần so với 4G. Tuy nhiên, hầu hết các mạng 5G hiện nay mới đạt tốc độ cao nhất khoảng 1,2 Gb/giây tới 1,5 Gb/giây.

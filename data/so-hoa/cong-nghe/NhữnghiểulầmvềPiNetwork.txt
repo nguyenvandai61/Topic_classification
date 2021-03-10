@@ -1,0 +1,25 @@
+Những hiểu lầm về Pi Network
+https://vnexpress.net/nhung-hieu-lam-ve-pi-network-4245829.html
+
+Một số người Việt tạo nhiều tài khoản ảo để lấy Pi nhanh hơn, rao bán mỗi đồng Pi vài trăm nghìn đồng, mà không tìm hiểu.
+
+<strong>"Tôi đang đào Pi bằng smartphone"</strong>
+Liên tưởng đến khái niệm "đào Bitcoin", nhiều người tham gia Pi Network tại Việt Nam lầm tưởng họ đang "đào Pi" bằng điện thoại di động. Một số người cho rằng họ đang sử dụng sức mạnh tính toán của smartphone để giúp hệ thống của Pi và được "trả" bằng các đồng Pi. Điện thoại càng mạnh càng khai thác được nhiều tiền ảo. Tuy nhiên, theo các chuyên gia cũng như thực tế trên ứng dụng, điều này chưa chính xác.
+"Đào" trong các loại tiền mã hóa, như Bitcoin, là sử dụng các hệ thống máy tính để xác thực cho các giao dịch tiền điện tử và nhận phần thưởng bằng chính Bitcoin. Tuy nhiên theo các chuyên gia, đồng Pi chưa thể giao dịch, nên cũng không cần xác thực, do đó không thể gọi là "đào".
+Thực tế, ứng dụng Pi Network trên điện thoại chỉ dùng để điểm danh hàng ngày và lượng Pi tăng lên theo thời gian, không phụ thuộc vào thiết bị sử dụng. Trong sách trắng của Pi Network cũng nói sẽ "thưởng Pi hàng ngày" cho người tham gia mạng lưới.
+<strong>Rủ người lạ vào "Vòng tròn bảo mật"</strong>
+"Tuyển 5 anh em vào nhóm, cam kết 'đào' Pi trọn đời. Liên hệ số điện thoại của mình..." là quảng cáo quen thuộc trên các nhóm của người dùng Pi Network tại Việt Nam để rủ thêm người vào "Vòng tròn bảo mật".
+"Vòng tròn bảo mật" là thuật ngữ trong hệ thống Pi, chỉ một nhóm 3 đến 5 người có vai trò "chứng minh cho nhau là đáng tin cậy" nhằm giúp Pi tạo nên một "mạng lưới tin cậy trên toàn cầu". Đổi lại, người dùng sẽ được tăng tốc độ sở hữu đồng Pi lên 0,02 Pi/giờ với mỗi người mời thêm.
+Pi khuyến nghị người dùng chỉ xây dựng Vòng tròn bảo mật từ những người thân quen, tin tưởng. Tuy nhiên, nhiều người dùng tại Việt Nam "lách luật" bằng cách rủ thêm người lạ qua mạng xã hội, hoặc tự tạo các tài khoản ảo, thêm vào "Vòng tròn bảo mật", nhằm thỏa mãn các điều kiện mà app đưa ra và lấy được nhiều Pi hơn. Việc này đi ngược lại cơ chế hoạt động của Pi là "xây dựng bằng niềm tin".
+<strong>Giá trị của Pi</strong>
+Trên các hội nhóm tại Việt Nam, nhiều thành viên lên rao mua các đồng Pi với giá hàng trăm nghìn đồng. Nhiều người cũng khẳng định mỗi đồng Pi có giá trị vài USD, thậm chí hàng trăm USD, bằng cách chụp lại màn hình một số sàn giao dịch Pi trên Internet.
+Thực tế, giá trị của Pi hiện bằng 0. Điều này được khẳng định bởi chính đội ngũ phát triển và được nêu trong phần FAQ trong ứng dụng. Một số người rao mua tài khoản Pi với giá 100 - 200 nghìn đồng/Pi, sau đó cũng được phát hiện là lừa đảo, nhằm <a href="https://vnexpress.net/mat-tai-khoan-facebook-vi-giao-dich-tien-ao-pi-4242163.html" rel="dofollow">chiếm tài khoản Facebook của người dùng</a>. Một số "sàn giao dịch" có định giá và có tính năng mua bán Pi, nhưng thực chất chỉ chiêu "câu" view.
+Quản trị viên cộng đồng Pi lớn nhất tại Việt Nam cũng khẳng định, Pi hiện tại có giá trị bằng 0, do chưa đến giai đoạn MainNet. Tuy nhiên, dự án cũng chưa mở mã nguồn để cộng đồng kiểm chứng, khiến nhiều chuyên gia nghi ngờ về giá trị thực tế của đồng
+<strong>Giao dịch bằng Pi</strong>
+Các hình ảnh về cửa hàng, dịch vụ nhận <a href="https://vnexpress.net/chieu-lua-thanh-toan-bang-pi-4243326.html" rel="dofollow">thanh toán bằng đồng Pi</a> được chia sẻ nhiều trên các hội nhóm. Mới đây, việc một số người dùng nhận được cập nhật với việc có thêm tính năng "Ví", khiến nhiều người nghĩ rằng có thể giao dịch mua bán bằng tiền Pi.
+Thực tế, "Ví" chỉ là tính năng thử nghiệm cho 10 nghìn người, trong số hơn 13 triệu thành viên, theo công bố của Pi. Đội ngũ phát triển ứng dụng này cũng nhấn mạnh ví này "không có thực" và "vô giá trị".
+Một số cửa hàng nhận thanh toán bằng Pi, sau đó được phát hiện chỉ là "chiêu" nhằm hút thành viên bởi Pi chưa thể giao dịch trong hệ thống. Việc giao dịch bằng tiền ảo, nếu có, cũng vi phạm pháp luật tại Việt Nam.
+<strong>"Pi là miễn phí"</strong>
+Không ít người tham gia mạng lưới Pi vì cho rằng việc này "không mất gì mà có thể sở hữu nghìn USD".
+Thực tế, ứng dụng Pi được tải về miễn phí trên iOS và Android. Tuy nhiên người dùng cần đăng ký bằng số điện thoại hoặc Facebook ID để sử dụng, đồng thời cần xác thực danh tính bằng hộ chiếu để có thể làm chủ tài khoản. Tuy nhiên theo các chuyên gia, người dùng phải đánh đổi bằng thời gian, công sức kêu gọi mọi người tham gia, và phải gửi dữ liệu cá nhân cho Pi Network.
+Bản thân Pi cũng khuyến cáo người dùng của mình rằng "Pi không phải là tiền miễn phí", tuy nhiên Pi cũng không nêu rõ người dùng sẽ phải đánh đổi điều gì.

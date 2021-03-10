@@ -1,0 +1,23 @@
+5 công nghệ sẽ phổ biến trong 2021
+https://vnexpress.net/5-cong-nghe-se-pho-bien-trong-2021-4215022.html
+
+Khám bệnh từ xa, 5G, người máy, ứng dụng thực tế ảo tăng cường... sẽ trở thành bình thường trong năm 2021.
+
+Năm 2020, hành vi người dùng và mô hình kinh doanh đã thay đổi vì dịch bệnh. Theo các chuyên gia, đến thời kỳ thế giới hậu Covid, những thay đổi này vẫn sẽ tồn tại, bởi người dùng đã thích nghi với những mô hình mới.
+<strong>Xe tự hành</strong>
+2021, thế giới sẽ chứng kiến những bước tiến lớn trong lĩnh vực xe tự hành. Honda khẳng định sẽ sản xuất hàng loạt dòng xe này với khả năng tự lái mà không cần bất kỳ sự can thiệp nào của người dùng. Tesla cho biết tính năng Autopilot có thể nhận ra biển báo tốc độ, phát hiện đèn xanh, bên cạnh các tính xác định làn đường tự động trước đây.
+Ford, Mercedes-Benz, GM và nhiều hãng xe khác đã tiết lộ kế hoạch tích hợp nhiều công nghệ lái tự động trên xe của mình trong năm 2021. Theo <em>Inc</em>, thời gian qua, hàng loạt thương vụ mua bán "tỷ đô" giữa các công ty chuyên về khả năng tự lái đã diễn ra, như GM mua lại Cruise, Uber mua lại Otto, Ford mua lại Argo AI, Intel mua lại Mobileye.
+<strong>Thực tế ảo (VR), thực tế tăng cường (AR) lên ngôi</strong>
+Covid-19 đã thúc đẩy các doanh nghiệp chuyển sang làm việc từ xa, kéo theo nhu cầu giao tiếp, làm việc nhóm qua AR và VR phát triển trong năm 2020. Sang năm 2021, các công nghệ nhập vai AR, VR sẽ được ứng dụng trên mọi lĩnh vực, từ trợ lý ảo, bản đồ, thậm chí cả trong các sự kiện thể thao, biểu diễn, đặc biệt khi công nghệ mạng 5G ngày càng phổ biến.
+Theo các chuyên gia, những công ty về lĩnh vực này, như Microsoft, Consagous, Quytech, RealWorld One..., sẽ đóng vai trò định hình thế giới trong tương lai gần khi nắm trong tay những công nghệ ảo hóa.
+<strong>AI, robot, IoT, tự động hóa phát triển nhanh</strong>
+Các chuyên gia nhận định, 2021 là năm nhu cầu về trí tuệ nhân tạo tăng đến mức "khổng lồ", đồng thời AI và công nghệ tự động hóa trong công nghiệp sẽ phát triển nhanh chóng. Khi các chuỗi sản xuất và cung ứng trở lại hoạt động, tình trạng thiếu nhân lực sẽ trở nên nghiêm trọng hơn. Khi đó, AI, robot, IoT là giải pháp thay thế con người trong việc sản xuất.
+<strong>5G</strong>
+Nhu cầu về Internet tốc độ cao ngày càng lớn hơn, song song là sự phát triển của các thành phố thông minh, thiết bị tự lái, kéo theo sự cần thiết của mạng 5G và 6G.
+Năm 2021, các tập đoàn và công ty khởi nghiệp sẽ đầu tư mạnh vào sự phát triển cơ sở hạ tầng cho 5G, cũng như xây dựng các ứng dụng, tiện ích mới tận dụng lợi thế của kết nối này. 5G sẽ thúc đẩy sự phát triển của các thành phố thông minh trên toàn cầu, hỗ trợ cho lĩnh vực xe tự lái, hay thậm chí tàu không người lái.
+Một số công ty như Movandi đang nghiên cứu giúp tín hiệu 5G có thể truyền đi khoảng cách xa hơn, Nido Robotics ứng dụng 5G vào thiết bị không người lái để khám phá đáy biển, hay công ty Seadronix từ Hàn Quốc sử dụng 5G để vận hành các tàu tự lái.
+<strong>Giáo dục, y tế, làm việc từ xa</strong>
+Nhu cầu này nảy sinh trong đại dịch nhưng sẽ tiếp tục phát triển vào năm 2021. Trong thời kỳ dịch bệnh, đã có 190 quốc gia thực hiện đóng cửa trường học, ảnh hưởng đến gần 1,6 tỷ người trên toàn cầu.
+Một số giải pháp như Zoom, hay Cisco Webex, Microsoft Teams, Google Hangouts, đã giúp người dùng học, làm việc từ xa. Nhiều công cụ sau đó đã phát triển trở thành một văn phòng ảo, nơi người dùng có thể cùng nhau học tập, làm việc và giao tiếp một cách dễ dàng.
+Trong y tế, nhiều tổ chức đã bắt đầu triển khai các dịch vụ chăm sóc sức khỏe từ xa nhằm giảm phơi nhiễm Covid-19. Nhiều dịch vụ cho phép trò chuyện video giữa bác sĩ với bệnh nhân, chẩn đoán hình ảnh dựa trên AI và phân phối thuốc.
+Thống kê của IHS Technology cho thấy số lượng truy cập các dịch vụ như vậy đã tăng 50% so với mức trước đại dịch. Đơn vị này cũng ước lượng khoảng 70 triệu người Mỹ sử dụng telehealth vào năm 2020. Số lượt khám bệnh từ xa tại Mỹ dự kiến sẽ chạm mốc một tỷ vào đầu 2021.

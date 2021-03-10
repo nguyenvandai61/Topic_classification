@@ -1,0 +1,28 @@
+7 lĩnh vực công nghệ 'đắt giá' cho năm 2021
+https://vnexpress.net/7-linh-vuc-cong-nghe-dat-gia-cho-nam-2021-4210924.html
+
+Nhân lực trong lĩnh vực xử lý ngôn ngữ tự nhiên, tự động hóa và học máy sẽ có nhiều cơ hội việc làm nhất trong năm mới.
+
+Thời gian tới, các công ty CNTT sẽ vượt ra khỏi nền tảng cơ bản của trí tuệ nhân tạo. Các nhà tuyển dụng sẽ tìm kiếm những người có kinh nghiệm trong việc tích hợp AI với các công nghệ khác. Chuyên môn về machine learning cũng được tuyển dụng cao khi các công ty triển khai nhiều thuật toán hơn vào sản xuất, dẫn tới yêu cầu bảo dưỡng hệ thống liên tục. Bên cạnh đó, các kỹ năng được cho là "hot" của năm nay, như AI, lập trình Python và kể chuyện dữ liệu trực quan (Data Story Telling) cũng vẫn được quan tâm.
+<em>Dưới đây là những chuyên môn được nhà tuyển dụng tìm kiếm nhiều nhất năm 2021:</em>
+<strong>Kỹ sư kiến trúc đám mây gốc (Cloud Native)</strong>
+Đa số công ty hiện nay nhắm tới mục tiêu giảm dần các dự án dịch chuyển đám mây trực tiếp sử dụng phương pháp Lift & shift. Do đó, nhu cầu tái cấu trúc, thiết kế lại code của ứng dụng trước khi chuyển lên đám mây sẽ rất cao. Theo Karthik Narain, trưởng nhóm Cloud First Global của Accenture, chuyên gia về nền tảng đám mây và công nghệ ảo hóa "container" sẽ có cơ hội nghề nghiệp nhiều hơn vào năm 2021.
+<strong>Bảo mật cho đám mây</strong>
+Khi nhiều hoạt động của doanh nghiệp chuyển sang nền tảng đám mây hơn, các mối quan tâm về bảo mật cũng tăng lên tương ứng. Jon Clay, Giám đốc truyền thông của Trend Micro, cho biết tốc độ triển khai đám mây quá nhanh đang khiến các tổ chức gặp khó trong việc tìm kiếm chuyên gia bảo mật trong lĩnh vực này.
+Ông nói: "Năm 2021 sẽ là năm của những tài năng công nghệ, những người sở hữu bộ kỹ năng độc đáo trong cả hoạt động vận hành & phát triển (DevOps) và Bảo mật. Một trong những bộ kỹ năng bảo mật quan trọng nhất năm sau là kiến thức về công cụ bảo mật dành riêng cho nền tảng đám mây".
+<strong>AI và tự động hóa</strong>
+Trí tuệ nhân tạo đang bước ra khỏi giai đoạn áp dụng ban đầu và được sử dụng ngày càng phổ biến. Điều này đồng nghĩa với việc các công ty sẽ cần những nhân viên có khả năng dẫn dắt các dự án AI phức tạp hơn. Tom Clancy, Phó chủ tịch phụ trách học tập tại UiPath dự đoán rằng các kỹ năng tự động hóa và AI sẽ ngày càng quan trọng để thành công trong công việc.
+Ông cho biết, "một khảo sát gần đây cho thấy 70% giám đốc điều hành cấp C tại các tổ chức lớn đều yêu cầu nhân viên phải có kỹ năng tự động hóa AI và đang tìm kiếm những ứng viên mới có khả năng này".
+<strong>AI và xử lý ngôn ngữ tự nhiên</strong>
+Xử lý ngôn ngữ tự nhiên là một bộ kỹ năng khác trong lĩnh vực AI, được dự đoán sẽ có nhu cầu cao trong năm tới, theo Giám đốc tài chính Dan O'Connell của Dialpad - một công ty truyền thông đám mây chuyên về hội nghị và phân tích giọng nói. O'Connell cho biết Dialpad đang tìm kiếm những người có kinh nghiệm về nhận dạng giọng nói và xử lý ngôn ngữ tự nhiên (NLP), đồng thời cũng thuê rất nhiều sinh viên mới tốt nghiệp.
+O'Connell cho biết giai đoạn tiếp theo của các công cụ AI sẽ là hỗ trợ các tác vụ thực tế, chẳng hạn tự động xác định những việc cần làm nhờ vào nội dung giọng nói của cuộc họp hoặc biến các cuộc trò chuyện thoại thành dạng văn bản có thể tìm kiếm. Theo ông, "những công cụ này sẽ tận dụng sức mạnh của đám mây và tốc độ của GPU mới để truy cập vào các tập dữ liệu khổng lồ nhằm giải quyết các vấn đề thực tế. Giọng nói sẽ là tập dữ liệu ngoại tuyến cuối cùng".
+<strong>Ứng dụng Machine Learning trong sản xuất</strong>
+Anand Rao, Giám đốc toàn cầu mảng trí tuệ nhân tạo tại PwC, cho biết một dấu hiệu khác cho thấy AI đang trở thành xu hướng hiện nay là nhu cầu ngày càng tăng về nhân lực vận hành trong các dự án máy học.
+Trong một kịch bản xây dựng sản phẩm lý tưởng, mọi thứ sẽ diễn ra như sau: Đầu tiên các nhà khoa học dữ liệu xây dựng mô hình và giao chúng cho một nhóm vận hành kỹ thuật, những người này sẽ triển khai các mô hình và đánh giá. Sau đó, nhân lực trong lĩnh vực hoạt động dữ liệu và cho máy học sẽ chịu trách nhiệm tiến hành.
+Rao nói: "Đây là vai trò phức tạp hơn một chút vì phần mềm không tự học được trong khi mô hình học máy thì có thể. Các dự án Machine Learning cần các nhà khoa học dữ liệu để xây dựng mô hình và các kỹ sư để quản lý công việc sản xuất. Trên thực tế, bạn cần ai đó quản lý cả hai nhiệm vụ này và chuyển giao liền mạch từ các nhà khoa học dữ liệu sang kỹ thuật và vận hành".
+<strong>Quản lý sản phẩm luôn có nhu cầu</strong>
+Tất cả dự án đám mây và AI này luôn cần ai đó có khả năng duy trì và kiểm soát chúng đi đúng hướng. George Abbott, Giám đốc sản phẩm của Capital One, cho biết những kỹ năng này là nhu cầu thiết yếu đối với các công ty công nghệ lớn.
+<strong>Mở rộng cơ hội với mã thấp (low-code)</strong>
+Thay cho việc viết hàng vạn dòng lệnh phức tạp, nền tảng low-code giúp lập trình viên xây dựng phần mềm hoàn chỉnh với giao diện, kết nối, dữ liệu và logic một cách nhanh chóng, chỉ bằng cách kéo thả.
+Stephanie Louis, Giám đốc cấp cao của Pegasystems, cho biết có rất nhiều cơ hội cho các sinh viên mới ra trường thành thạo nền tảng mã thấp, như xây dựng phần mềm để quản lý quan hệ khách hàng, tự động hóa quy trình kỹ thuật số và quản lý quy trình kinh doanh.
+"Bạn không cần phải có nền tảng khoa học máy tính để làm công việc này. Đó là một cơ hội lớn cho các cá nhân và tổ chức để mở rộng ảnh hưởng và các ứng dụng mà bạn có thể tự xây dựng", Louis nói.
