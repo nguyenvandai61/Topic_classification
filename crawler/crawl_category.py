@@ -38,19 +38,27 @@ def crawl(topic):
 
 
 topics = [
+    "suc-khoe",
+	"giai-tri",
+	"the-thao",
+	"kinh-doanh",
+	"the-gioi",
     "su-kien",
     "xa-hoi",
-    "the-gioi",
-    "the-thao",
-    "lao-dong-viec-lam",
-    "suc-khoe",
-    "tam-long-nhan-ai",
-    "kinh-doanh",
     "giao-duc-huong-nghiep",
     "van-hoa",
+    "o-to-xe-may",
+    "suc-manh-so",
+    "du-lich",
+    "phap-luat",
 ]
+all = []
 for topic in topics:
     crawler = crawl(str(topic))
+    all.extend(crawler)
     with open("./{}.json".format(str(topic)), "w+", encoding="utf8") as f:
         json.dump(crawler, f,  indent=4, ensure_ascii=False)
+
+with open("./all.json", "w+", encoding="utf8") as f:
+        json.dump(all, f,  indent=4, ensure_ascii=False)
 f.close()
