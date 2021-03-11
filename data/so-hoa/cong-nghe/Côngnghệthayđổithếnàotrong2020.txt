@@ -1,0 +1,58 @@
+Công nghệ thay đổi thế nào trong 2020
+https://vnexpress.net/cong-nghe-thay-doi-the-nao-trong-2020-4212736.html
+
+Năm 2020, công nghệ thiết yếu, hội họp từ xa lên ngôi, bên cạnh sự bùng nổ của thương mại điện tử và sức ép pháp lý tới các tập đoàn Trung Quốc.
+
+"Đôi khi chúng ta nghe rằng tiến bộ công nghệ ở Mỹ đang chững lại, nhưng năm vừa qua cho thấy điều này không đúng. Năm 2020, Mỹ vẫn dẫn đầu thế giới về công nghệ và sáng tạo", Neil Chilson, nhà nghiên cứu tại Viện Charles Koch của Mỹ, nhận xét. Nhiều xu thế đáng chú ý trong năm 2020 phản ánh điều này.
+<strong>Zoom bùng n</strong><strong>ổ</strong>
+Những biện pháp phong tỏa đối phó Covid-19 dự kiến chỉ kéo dài vài tuần đầu năm 2020, nhưng số ca nhiễm và tử vong tăng vọt vào mùa hè và mùa thu buộc các tập đoàn lớn, doanh nghiệp nhỏ, trường học và cơ quan chính phủ Mỹ phải duy trì hoạt động từ xa trong suốt cả năm.
+Việc chuyển dịch sang làm việc và học tập tại nhà dẫn tới sự bùng nổ của những công cụ liên lạc kỹ thuật số, như Zoom. Người sáng lập Zoom - Eric Yuan - được tạp chí <em>Time</em> bình chọn là "doanh nhân của năm". "Chúng tôi chưa bao giờ nghĩ đến điều này khi lên kế hoạch cho năm 2020", Yuan nói.
+Zoom chào bán cổ phiếu ra công chúng lần đầu hồi cuối tháng 3/2019. Ứng dụng có khoảng 10 triệu người dùng hàng ngày vào tháng 12/2019, con số này đã tăng vọt lên hơn 300 triệu chỉ sau đó 4 tháng.
+Sự phát triển nhanh chóng của Zoom cũng mang tới nhiều thử thách. Các nhà phát triển vật lộn với số người dùng ngày càng lớn, cũng như nhiều lo ngại về an ninh và tính riêng tư. Zoom đã đưa ra hàng loạt bản cập nhật, trong đó có mã hóa đầu cuối, nhằm giải quyết những vấn đề này.
+"Những công việc từng được cho là chỉ có thể làm trực tiếp đã được hoàn thành từ xa", Bill Briggs, Giám đốc công nghệ của công ty tư vấn Deloitte Consulting Global, nhận xét.
+<strong>Năm c</strong><strong>ủa Amazon</strong>
+Amazon chiếm vị trí thống trị ngành thương mại điện tử từ trước khi đại dịch xuất hiện tại Mỹ. Khi Covid-19 bùng phát, nhiều người dân Mỹ ngày càng phụ thuộc vào nền tảng này để mua những sản phẩm thiết yếu, như lương thực, giấy vệ tinh, nước rửa tay và khẩu trang. Họ có thể nhận hàng chỉ sau 1-2 ngày và không phải rời khỏi nhà.
+Người khổng lồ ngành bán lẻ có giá trị vốn hóa thị trường gần 2.000 tỷ USD. Doanh thu quý III đạt mức kỷ lục 96,1 tỷ USD, tăng 37% so với cùng kỳ năm 2019 và vượt xa ước tính của các chuyên gia. Tập đoàn dự kiến lập kỷ lục mới về doanh số trong quý IV, cho thấy nhu cầu khổng lồ trong mua sắm online kỳ nghỉ lễ cuối năm.
+Nền tảng thương mại điện tử cũng mở rộng tầm với đến ngành công nghiệp dược phẩm, cho phép khách hàng thực hiện giao dịch mua thuốc trực tiếp từ ứng dụng mobile.
+Tuy nhiên, cũng giống Zoom, tốc độ phát triển và thay đổi quy trình của Amazon trong năm 2020 gây ra nhiều lo ngại với hoạt động của tập đoàn này.
+Nhiều nhân viên đã bị sa thải sau khi lên tiếng về điều kiện làm việc tại Amazon giữa Covid-19, nhiều người đã tổ chức tuần hành và biểu tình ảo để ủng hộ. Một trong số đó là Christian Smalls, người bị đuổi việc cuối tháng 4, vì bày tỏ lo ngại với điều kiện làm việc và đang kiện Amazon phân biệt đối xử.
+Amazon thưởng thêm 500 USD cho mỗi nhân viên thiết yếu làm việc trong tháng 6 và đầu tư khoảng 4 tỷ USD cho những sáng kiến liên quan đến Covid-19 trong quý II. Hãng cho biết đã áp dụng 150 cập nhật trong quy trình vận hành nhằm ngăn nCoV lây lan.
+<strong>Y t</strong><strong>ế chuyển l</strong><strong>ên n</strong><strong>ền tảng kỹ thuật số</strong>
+Lệnh phong tỏa khiến nhiều người Mỹ không thể đi làm, đi học hoặc mua sắm trực tiếp, cũng như ngăn nhiều người đến các trung tâm chăm sóc y tế. Điều này dẫn tới nhu cầu tăng cao trong dịch vụ chăm sóc sức khỏe kỹ thuật số, từ điều trị bệnh chuyên khoa tới trị liệu.
+Phần lớn bệnh viện tại Mỹ đã có ứng dụng tư vấn sức khỏe trực tuyến hoặc những nền tảng phục vụ bệnh nhân từ xa.
+Khảo sát trên 1.500 bác sĩ và chuyên gia y tế do Liên minh Chăm sóc sức khỏe Covid-19 thực hiện hồi cuối tháng 10 cho thấy 75% người được hỏi tin rằng dịch vụ y tế từ xa giúp cải thiện chất lượng chăm sóc cho bệnh nhân. Hơn 80% nhân viên y tế cho rằng biện pháp này mang tới nhiều lựa chọn kịp thời hơn.
+"Các dịch vụ chăm sóc từ xa có vai trò quan trọng trong ứng phó Covid-19, đồng thời đảm bảo khả năng điều trị không gián đoạn cho khoảng 100 triệu người Mỹ có những bệnh mãn tính. Vấn đề hiện nay là cách sử dụng dịch vụ này sau khi đại dịch kết thúc, không ai muốn nó đột ngột chấm dứt", bác sĩ Susan Bailey, chủ tịch Hiệp hội Y khoa Mỹ, cho biết.
+<strong>TikTok t</strong><strong>ỏa s</strong><strong>áng</strong>
+TikTok được chú ý trong năm 2020 vì hai lý do.
+Ứng dụng này tiếp tục phổ biến kể từ khi được tập đoàn ByteDance của Trung Quốc mua lại và đổi tên hồi năm 2017, sự nổi tiếng ngày càng tăng nhờ các lệnh phong tỏa thời Covid-19. Thứ hai là chính quyền Tổng thống Mỹ Donald Trump đề cập nguy cơ an ninh quốc gia và dọa chặn ứng dụng tại Mỹ nếu TikTok không chuyển quyền điều hành cho doanh nghiệp Mỹ.
+TikTok nổi lên sau khi ứng dụng Vine của Mỹ ngừng hoạt động năm 2016 vì không mang lại lợi nhuận. Người dùng Vine và YouTube chuyển sang TikTok, khiến ứng dụng này tăng trưởng đột biến trong giai đoạn 2018-2020.
+TikTok hiện có khoảng 850 triệu người dùng hàng tháng, trong đó, hơn 100 triệu người ở Mỹ, và có thể chạm ngưỡng 1,2 tỷ người dùng mỗi tháng vào năm 2021, gấp ba lần con số hồi năm 2018.
+Mạng xã hội Trung Quốc bắt đầu gặp khó khăn khi công ty an ninh mạng Check Point Research công bố báo cáo cho thấy "hàng loạt điểm yếu" trong ứng dụng vào cùng ngày TikTok công bố những cập nhật đáng kể với tiêu chuẩn cộng đồng.
+Ứng dụng này đã bị soi xét bởi chính quyền Trump và nhiều nghị sĩ "diều hâu" trong quốc hội Mỹ. Nhiều nhà lập pháp lo ngại Bắc Kinh có thể thu thập dữ liệu người dùng qua TikTok và gây áp lực để ByteDance nhượng bớt quyền kiểm soát hoạt động của mạng xã hội này tại Mỹ.
+TikTok vẫn đang đàm phán với Oracle và Walmart để quyết định về tương lai ứng dụng này tại Mỹ.
+<strong>Đối ph</strong><strong>ó công ngh</strong><strong>ệ Trung Quốc</strong>
+Chính quyền Trump cũng nhắm tới nhiều công ty công nghệ Trung Quốc, trong đó có Huawei, WeChat và Hikvision, và liên hệ của họ với chính quyền Trung Quốc. Washington đã liệt Huawei và ZTE vào danh sách các mối đe dọa an ninh quốc gia với mạng viễn thông Mỹ trong năm 2020.
+Giới chức Mỹ cũng bổ sung hàng chục doanh nghiệp Trung Quốc vào danh sách đen. Tổng thống Trump hồi tháng 11 ký sắc lệnh cấm doanh nghiệp Mỹ đầu tư vào 31 công ty và 100 công ty con giao dịch tại Mỹ và Trung Quốc, cho rằng những thực thể này thuộc sở hữu hoặc hỗ trợ hoạt động của quân đội Trung Quốc.
+Mỹ cũng nỗ lực củng cố chuỗi cung ứng nội địa trong nhiều sản phẩm, trong đó có ngăn Huawei sử dụng sản phẩm bán dẫn dùng công nghệ Mỹ. Các nghị sĩ đang đề xuất dự luật nhằm đưa chuỗi cung ứng dược phẩm về lãnh thổ Mỹ, ngăn những nước khác đe dọa quyền tiếp cận của Washington với nhu yếu phẩm.
+<strong>Vấn đề chống độc quyền</strong>
+Năm 2020 chứng kiến các tổng chưởng lý từ gần 50 bang của Mỹ nộp đơn kiện chống độc quyền nhằm vào Facebook và Google.
+Gần đây nhất, liên minh lưỡng đảng gồm tổng chưởng lý 38 bang đã đệ đơn chống lại Google, dựa trên thông báo của Bộ Tư pháp Mỹ hôm 20/10. "Chúng tôi tập trung vào cách vận hành sai trái và sức mạnh độc quyền của Google trong tìm kiếm và quảng cáo tìm kiếm", tổng chưởng lý bang Colorado Phil Weiser cho hay.
+Với hai đơn kiện đồng thời được nộp lên hôm 9/12, Facebook trở thành đại gia công nghệ thứ hai, sau Google, đối mặt với thách thức pháp lý lớn năm nay.
+Đơn kiện cáo buộc Facebook mua lại các đối thủ, tập trung chủ yếu vào thương vụ mua Instagram năm 2012 với giá 1 tỷ USD và ứng dụng nhắn tin WhatsApp năm 2014 với giá 19 tỷ USD. Động thái này có thể châm ngòi cho cuộc chiến pháp lý dài hơi, do chúng được chính Ủy ban Thương mại Liên bang Mỹ (FTC) chấp thuận nhiều năm trước.
+<strong>Điều 230 bị soi x</strong><strong>ét</strong>
+Điều 230 được ban hành năm 1996 và là một phần của Đạo luật Chuẩn mực Truyền thông (Communications Decency Act). Hầu hết nội dung đạo luật đã bị tòa án Mỹ bác bỏ qua nhiều năm vì vi phạm hiến pháp về tự do ngôn luận, nhưng riêng Điều 230 vẫn tồn tại.
+Điều 230 bảo vệ các công ty công nghệ như Facebook và Twitter khỏi những vụ kiện về nội dung do người dùng đăng tải. Điều luật này bị Trump và các nghị sĩ đảng Cộng hòa công kích, cho rằng nó trao cho các công ty Internet quá nhiều sự bảo vệ pháp lý và cho phép họ trốn tránh trách nhiệm về các hành vi của mình. Ông cũng cáo buộc rằng các nội dung đăng lên Facebook, Twitter phải chịu sự kiểm duyệt ngầm nhưng thường bị các công ty này phủ nhận.
+Trong xung đột gần nhất giữa Twitter và Trump, Tổng thống Mỹ cáo buộc mạng xã hội kiểm duyệt thông tin cũng như "bịt miệng" những tiếng nói bảo thủ khi dán nhãn hai dòng tweet của ông là "không có căn cứ" và thêm vào những biểu tượng cảnh báo. Trong khi đó, Twitter cho rằng họ chỉ lo lắng thông tin của Trump có thể gây hiểu nhầm về cách thức bầu cử.
+<strong>B</strong><strong>ùng n</strong><strong>ổ 5G</strong>
+Công nghệ 5G đã cất cánh trong năm 2020. Nó được kỳ vọng sẽ mang tới tốc độ truy cập Internet gấp 5 đến 100 lần so với mạng 4G đang phổ biến tại Mỹ. Việc triển khai công nghệ 5G cũng đặt Mỹ vào vị trí cạnh tranh hơn với những quốc gia, như Trung Quốc, vốn đã sử dụng mạng 5G từ năm ngoái.
+Verizon cho biết đã cung cấp dịch vụ 5G cho trên 230 triệu khách hàng ở hơn 2.700 thành phố. Dịch vụ 5G của T-Mobile cũng phủ sóng trên 3,6 triệu km vuông và 270 triệu người, trong khi AT&T cung cấp dịch vụ 5G cho hơn 225 triệu người Mỹ. Apple hồi tháng 10 cho biết iPhone 12 sẽ hỗ trợ mạng 5G.
+Ngoài tốc độ truy cập Internet vượt trội, công nghệ 5G cũng có thể cách mạng hóa nhiều ngành công nghiệp tại Mỹ, bởi nó cho phép các công ty kết nối mạng lưới thiết bị theo cách chưa từng có.
+<strong>Thương m</strong><strong>ại điện tử cho doanh nghiệp nhỏ</strong>
+Những người khổng lồ công nghệ cũng giúp ích cho nhiều doanh nghiệp nhỏ giữa đại dịch.
+Các tập đoàn như Amazon, Facebook đã đầu tư hàng triệu USD để hỗ trợ doanh nghiệp nhỏ, tạo ra những công cụ trên website để đơn giản hóa quy trình, giúp đỡ những công ty từng dựa chủ yếu vào thanh toán tại cửa hàng chuyển lên sàn giao dịch trực tuyến.
+"Từ nhà hàng đến các cửa hàng lưu niệm, tất cả đều phải thích nghi tình hình. Những công cụ mạnh mẽ của Amazon hay Shopify mang đến những phương án chưa từng thấy trong quá khứ. Nhiều cửa hàng nhỏ vốn chỉ bán cho khách địa phương đã có thể giao dịch trên toàn nước Mỹ hoặc thậm chí bán ra nước ngoài", Chilson nói.
+<strong>Bitcoin tr</strong><strong>ở lại</strong>
+Giá trị Bitcoin tăng vọt trong suốt năm 2020 và đạt kỷ lục mới vào cuối năm, trong bối cảnh nhiều lo ngại lạm phát được đưa ra do đại dịch.
+Một đồng Bitcoin có giá trị 21.000 USD vào ngày 16/12, tăng gần gấp hai lần so với năm ngoái.
+"Đây là cột mốc đại diện cho việc phá vỡ trần tâm lý. Mỗi khi Bitcoin lập kỷ lục, ngành công nghiệp lại thu hút thêm nhiều nhân tài, hệ sinh thái phát triển hơn và các yếu tố ngày càng trở nên ổn định. Giá trị Bitcoin cho thấy tiến độ áp dụng công nghệ", Muneeb Ali, giám đốc điều hàng Blockstack, mạng lưới xây dựng công nghệ phi tập trung tương thích với Bitcoin, nhận xét.
+Các công ty như Microsoft, AT&T, Overstock và Twitch đã chấp nhận thanh toán bằng Bitcoin. PayPal hồi tháng 10 cho biết đã phát hành dịch vụ cho phép người dùng mua, lưu trữ và bán tiền ảo trên nền tảng của họ.

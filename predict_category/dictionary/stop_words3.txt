@@ -1492,6 +1492,7 @@ tính_căn
 tính_người
 tính_phỏng
 tính_từ
+tỉnh
 tít_mù
 tò_te
 tôi

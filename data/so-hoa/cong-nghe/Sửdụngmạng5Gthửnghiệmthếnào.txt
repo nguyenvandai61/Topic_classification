@@ -1,0 +1,24 @@
+Sử dụng mạng 5G thử nghiệm thế nào
+https://vnexpress.net/su-dung-mang-5g-thu-nghiem-the-nao-4208323.html
+
+Người dùng hay thắc mắc về khu vực phát sóng 5G thử nghiệm ở Việt Nam, điện thoại nào dùng được 5G, hay có cần đổi sim không.
+
+<strong>Địa điểm phủ sóng 5G</strong>
+Cả Vinaphone và Viettel đều đang phát sóng <a href="https://vnexpress.net/chu-de/5g-1613" rel="dofollow">5G</a> thử nghiệm tại một số quận trung tâm ở hai thành phố lớn là Hà Nội và TP HCM. Trong thời gian tới sẽ thử nghiệm thêm tại Đà Nẵng. Dự kiến 5G sẽ có chính thức vào giữa năm sau. Trong thời gian thử nghiệm, số trạm chưa nhiều nên người dùng có thể gặp trường hợp mất hoặc sóng yếu.
+<a href="https://vnexpress.net/chu-de/viettel-1445" rel="dofollow">Viettel</a> đang có nhiều trạm phát sóng nhất nên khả năng sử dụng mạng 5G khi đang di chuyển liên tục ở các quận trung tâm tốt. <a href="https://vnexpress.net/chu-de/vinaphone-1462" rel="dofollow">Vinaphone</a> cũng có số trạm khá lớn và tốc độ tải dữ liệu rất ổn định. Trong khi đó, <a href="https://vnexpress.net/chu-de/mobifone-1460" rel="dofollow">Mobifone</a> có tốc độ tải dữ liệu cao nhất nhưng mới chỉ có ở một trạm thử nghiệm tại TP HCM.
+<strong>Không cần phải đổi sim</strong>
+Không giống từ mạng 3G lên 4G trước đây, người dùng có thể sử dụng luôn sim 4G để dùng sóng 5G mới. Quá trình chuyển đổi là tự động. Nếu ở trong vùng phủ sóng 5G, điện thoại có hỗ trợ sẽ tự động chuyển sang mạng dữ liệu tốc độ cao mới.
+<strong>Không cần cài đặt, đăng ký mạng</strong>
+Trong thời gian thử nghiệm giới hạn đầu năm nay, nếu muốn sử dụng mạng 5G, các máy thường phải đổi cài đặt APN, đăng ký dịch vụ mạng. Tuy nhiên, khi mở sóng thử nghiệm rộng rãi từ tháng 11, người dùng có thể thoải mái trải nghiệm 5G mà không cần thay đổi APN. Các smartphone hỗ trợ sẽ tự động đăng ký dịch vụ với nhà mạng.
+<strong>Miễn phí lưu lượng dùng 5G thử nghiệm với một số nhà mạng</strong>
+Cả hai nhà mạng là Viettel và Vinaphone đều có chính sách miễn phí thử nghiệm dịch vụ mạng tốc độ cao 5G. Nếu smartphone của người dùng có sóng 5G, tất cả dữ liệu tải lên, tải xuống lúc đó sẽ không bị tính cước vào gói data đang sử dụng. Tuy nhiên, nếu sóng 5G không mạnh, điện thoại sẽ tự chuyển về 4G và bị tính phí hoặc trừ vào lưu lượng data trong gói.
+Chương trình miễn phí dùng dữ liệu mạng 5G của Vinaphone sẽ kết thúc vào 31/1/2021.
+<strong>Sử dụng luôn gói data cũ</strong>
+Khi hết thời gian khuyến mãi, cước phí truy cập mạng hoặc trừ lưu lượng sẽ được tính vào gói đăng ký của người dùng như khi sử dụng mạng 4G. Ví dụ, nếu đang sử dụng gói 4 GB/ngày với mạng 4G, điều này áp dụng tương tự khi dùng với mạng 5G.
+<strong>Cần trọng với tốc độ tải dữ liệu cao</strong>
+Kết nối mạng 5G mới có tốc độ tải xuống rất cao, thông thường khoảng 1 Gb/giây (hay 125 MB/giây) nên người dùng cần lưu ý khi sử dụng, đặc biệt là sau khi kết thúc chương trình miễn phí lưu lượng thử nghiệm. Vì 5G có tốc độ cao khiến mỗi lần sử dụng phần mềm Speedtest có thể tiêu tốn hàng trăm MB dữ liệu.
+<strong>Không phải smartphone 5G nào cũng sử dụng được mạng 5G thử nghiệm</strong>
+Trong các thử nghiệm, smartphone 5G của Xiaomi, Oppo, Asus, Huawei, Nokia đều tương thích tốt với cả ba nhà mạng ở Việt Nam. Samsung và Apple chưa dùng được là do chính sách của hai hãng này.
+Với Samsung, các model Galaxy Note20 Ultra hay Galaxy Z Fold 2 dự kiến sẽ dùng được 5G trong tháng 12/2020 hoặc muộn nhất là tháng 1/2020.
+Với Apple, điện thoại iPhone 12 chỉ dùng được khi mạng 5G chính thức phát thương mại ở Việt Nam, dự kiến vào giữa năm sau. Đây là do chính sách của "Quả táo", không cấp phép cho iPhone dùng với các mạng thử nghiệm, chưa thương mại hóa. Một số chuyên gia cho biết, quy định có phần khắt khe này của Apple là để người dùng iPhone luôn có trải nghiệm dịch vụ tốt nhất.
+<em>Video thử nghiệm tốc độ mạng 5G thử nghiệm:</em>

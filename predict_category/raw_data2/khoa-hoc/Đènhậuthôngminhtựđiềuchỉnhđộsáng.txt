@@ -1,0 +1,8 @@
+Đèn hậu thông minh tự điều chỉnh độ sáng
+https://vnexpress.net/den-hau-thong-minh-tu-dieu-chinh-do-sang-4221319.html
+MỹĐèn hậu Otto dành cho xe đạp có 4 đèn LED chính và 8 đèn phụ với nhiều chế độ sáng và chớp nháy khác nhau.
+Kỹ sư Geoff Johnson và Jonathan Fiene tại Texas chế tạo đèn hậu Otto thông minh dành cho xe đạp, <em>New Atlas</em> hôm 14/1 đưa tin. Chiếc đèn chỉ có một nút bấm vật lý thay vì màn hình cảm ứng, ứng dụng tích hợp hay điều khiển từ xa phức tạp. Người dùng chỉ mất vài giây để gắn đèn vào cốt yên, sau đó bắt đầu sử dụng.
+Khi người dùng bắt đầu đạp, thiết bị đo lường quán tính tích hợp của Otto phát hiện xe đang chuyển động. Trong khi đó, cảm biến ánh sáng xung quanh cũng đo độ sáng của môi trường. Otto sẽ tự động bật 4 đèn LED chính màu đỏ theo 1 trong 5 mức sáng và kiểu nháy, tối ưu hóa giữa tầm nhìn tốt nhất và thời lượng pin. Nếu trời tối dần trong quá trình đạp xe, chiếc đèn cũng sẽ thay đổi độ sáng.
+Otto có tính năng đèn phanh, nghĩa là sẽ tạm thời nháy nhanh hơn khi xe đột nhiên giảm tốc. Nút bấm của đèn được dùng cho chế độ Peloton khi đạp xe theo nhóm. Với chế độ này, kiểu nháy của 8 đèn LED phụ màu hổ phách thay đổi khi người dùng tăng hoặc giảm tốc, giúp cảnh báo cho những người đạp xe sát phía sau.
+Đèn Otto cũng có khả năng chống nước và sẽ tự động tắt khi xe đạp không chuyển động trong một khoảng thời gian nhất định. Nếu người dùng muốn tháo ra để dùng làm đèn pin, họ có thể "đánh thức" nó trong 60 giây bằng cách lắc. 4 đèn LED chính của Otto có tổng độ sáng là 350 lumen. Chiếc đèn có thể sử dụng trong 15 tiếng sau 30 phút sạc.
+Nhóm kỹ sư đang mở chiến dịch gây quỹ cho thiết bị này trên Kickstarter. Giá bán lẻ của nó dự kiến là 65 USD.

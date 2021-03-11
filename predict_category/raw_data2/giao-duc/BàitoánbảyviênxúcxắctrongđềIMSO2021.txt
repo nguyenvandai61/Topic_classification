@@ -1,0 +1,7 @@
+Bài toán bảy viên xúc xắc trong đề IMSO 2021
+https://vnexpress.net/bai-toan-bay-vien-xuc-xac-trong-de-imso-2021-4227629.html
+Bài toán trong phần trắc nghiệm viết đáp án với thời gian làm bài khoảng 2 phút có thể khiến bạn gặp khó.
+Olympic Toán và Khoa học quốc tế lần thứ 17 (IMSO 2021) dành cho học sinh 11-13 tuổi được tổ chức dưới hình thức trực tuyến từ ngày 21/1 đến 24/1 với sự tham dự của 15 quốc gia và vùng lãnh thổ. Đề thi gồm ba phần: Trắc nghiệm viết đáp số (làm 25 bài toán trong 60 phút với mỗi bài 1 điểm); trình bày tự luận (làm 13 bài toán trong 90 phút với mỗi bài 3 điểm); khám Ppá (làm 6 bài toán trong 120 phút với mỗi bài 6 điểm).
+Dưới đây là một bài toán trong phần trắc nghiệm viết đáp số với thời gian làm bài khoảng 2 phút.
+<strong>Đề bài:</strong>
+Các số từ 1 đến 6 được in trên sáu mặt của khối lập phương (xúc xắc) sao cho tổng của hai số được in trên hai mặt đối diện bất kỳ bằng 7. Hình dưới đây là 7 viên xúc xắc xếp liên tiếp nhau, tổng các số trên hai mặt bất kỳ áp vào nhau là <strong>8</strong>. Dấu "*" trên mặt của hình lập phương cao nhất biểu thị số nào?

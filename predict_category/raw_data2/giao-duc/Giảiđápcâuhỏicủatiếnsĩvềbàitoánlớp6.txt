@@ -1,0 +1,14 @@
+Giải đáp câu hỏi của tiến sĩ về bài toán lớp 6
+https://vnexpress.net/giai-dap-cau-hoi-cua-tien-si-ve-bai-toan-lop-6-4204536.html
+Dường như yêu cầu giải bài toán hình học bằng kiến thức lớp 6 vượt quá sức của nhiều người, ngay cả với giáo sư Mỹ.
+<a href="https://vnexpress.net/cau-hoi-cua-tien-si-ve-bai-toan-lop-6-4202257.html" rel="dofollow"><strong>Đề bài:</strong></a>
+Các đoạn thẳng CM và DN chia hình chữ nhật ABCD thành 4 hình như hình vẽ dưới đây. Biết diện tích các hình (AMPD), (MNP) và (BNPC) lần lượt là 15; 4 và 26. Tính diện tích hình tam giác (PCD)?
+<strong>Cách giải thứ nhất</strong> (do nhóm thầy Trần Phương thực hiện):
+Nối MD,NC,đặt S(PCD)=a<sup>2</sup>(a>0).Do S(MCD)=S(NCD)nên S(MPD)=S(NPC).
+Ta có 4/S(MPD)= S(MPN)/S(MPD)= PN/PD= S(NPC)/S(PCD)= S(MPD)/a<sup>2</sup>.
+Do đó S<sup>2</sup>(MPD)=4a<sup>2</sup> hay S(MPD)=2a và a<sup>2</sup>+ 2a=S(MCD)=(1/2)S(ABCD) (1)
+Mặt khác: (1/2)S(ABCD)= S(DAM)+S(CBM) = (15−2a)+(26+4)= 45−2a­­ (2)
+Từ (1), (2) có: a<sup>2</sup>+ 2a=45−2a­­ hay (a+2)<sup>2</sup>=49 mà a>0 nên a=5 và S(PCD)=25.
+<strong>Cách giải thứ hai</strong> (Cách giải của giáo sư Toán học Mỹ):
+<strong>Bình luận:</strong>
+Cả hai cách giải đều có chung một hình vẽ với hai đường nối thêm MC, ND thiết lập đẳng thức trụ S(MPD)=S(NPC)=d. Tuy nhiên, việc vận dụng kiến thức lớp 5 để xác lập tính chất then chốt S<strong><sup>2</sup></strong>(MPD)=S(MNP)xS(PCD) (hình ở cách 1) là điểm khác biệt của cách 1. Từ đó, ta chỉ cần đặt một ẩn phụ và biến đổi tinh tế là xử lý xong. Do không phát hiện ra tính chất này nên cách 2 phải đặt 11 ẩn phụ, dẫn đến cần nhiều biến đổi khử ẩn để đưa về phương trình một ẩn số.

@@ -1,0 +1,8 @@
+Dùng ánh sáng để dịch chuyển não chuột
+https://vnexpress.net/dung-anh-sang-de-dich-chuyen-nao-chuot-4192757.html
+AnhCác nhà khoa học tìm ra cách dịch chuyển tức thời não chuột tới nơi khác bằng cách mô phỏng neuron trong não chúng và sử dụng chùm laser tái kích hoạt tế bào.
+Nhóm nhà khoa học thần kinh ở Đại học London (UCL) dùng ánh sáng để đọc và viết hoạt động điện trong não. Những con chuột nhận được phần thưởng ở nơi chúng giữ lại ký ức bên trong "tế bào chỗ" (một loại neuron). Thông qua thí nghiệm sử dụng ánh sáng, họ kích hoạt cùng loại tế bào, sau đó sử dụng ký ức ở chỗ này để khiến con chuột cảm thấy và hành động như thế nó đã ở nơi nhận thưởng. Các nhà nghiên cứu công bố kết quả thí nghiệm hôm 6/11 trên tạp chí Cell.
+Đầu tiên, nhóm nghiên cứu chỉnh sửa neuron để biểu thị cảm biến canxi mã hóa di truyền, cho phép tế bào sáng lên khi hoạt động. Tiếp theo, họ điều chỉnh protein trong cùng neuron, nhờ đó họ có thể kích hoạt những tế bào chuyên biệt bằng chùm ánh sáng laser.
+Việc kết hợp hai kỹ thuật giúp các nhà nghiên cứu tiến hành kích hoạt tế bào chỗ của chuột theo chủ đích. Những tế bào này nằm ở vùng hồi hải mã, khu vực trong não chịu trách nhiệm về ký ức và học hỏi, thường hoạt động khi chuột ở khu vực mới. Khi tế bào được kích hoạt nhân tạo, con chuột "dịch chuyển tức thời về mặt thần kinh" và cảm thấy như thể chúng đã quay lại nơi mà chúng lưu giữ ký ức.
+Nhóm nghiên cứu ở UCL cho biết đây là ví dụ đầu tiên cho thấy kích hoạt tế bào chỗ cho phép chúng ta thu hồi lại ký ức về môi trường để định vị. Họ cũng hy vọng có thể thực hiện thí nghiệm tương tự ở người trong tương lai.
+<strong>An Khang</strong> (Theo <em>First Post</em>)

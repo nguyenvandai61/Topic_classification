@@ -1,0 +1,11 @@
+AI của Elon Musk bị qua mặt bất ngờ
+https://vnexpress.net/ai-cua-elon-musk-bi-qua-mat-bat-ngo-4246202.html
+
+Các mảnh giấy viết tay 'kém hiện đại" cũng có thể đánh lừa hệ thống trí tuệ nhân tạo của OpenAI, phòng nghiên cứu được tỷ phú Elon Musk hậu thuẫn.
+
+Phòng nghiên cứu OpenAI vốn nổi tiếng với những công cụ trí tuệ nhân tạo ưu việt, có thể <a href="https://vnexpress.net/ai-co-the-tu-viet-van-4134391.html" rel="dofollow">viết văn</a>, soạn nội dung một cách tự nhiên hay <a href="https://vnexpress.net/ai-ve-hinh-anh-tu-van-ban-4223404.html" rel="dofollow">tạo hình ảnh</a> sinh động từ văn bản... Tuy nhiên, các nhà nghiên cứu tại OpenAI phát hiện rằng hệ thống thị giác máy tính hiện đại của họ, mang tên Clip, lại bị đánh lừa bởi các công cụ đơn giản là một cây bút và một tờ ghi chú.
+Một người chỉ cần viết tên của đồ vật này rồi dán lên một đồ vật khác, lập tức AI xác định sai những gì nó nhìn thấy. Như trong hình minh họa bên dưới, quả táo được dãn chữ iPod và Clip nhận diện nó là máy nghe nhạc iPod.
+"Chúng tôi gọi tấn công kiểu này là typographic. Bằng cách khai thác khả năng đọc văn bản của mô hình máy học, chúng tôi nhận thấy ngay cả những bức ảnh chụp văn bản viết tay cũng thường có thể đánh lừa được mô hình", OpenAI cho biết.
+Các nhà nghiên cứu cũng lưu ý kiểu tấn công này cũng giống với cách thức tấn công sử dụng hình ảnh đối nghịch. Kiểu tấn công bằng hình ảnh đối nghịch là mối nguy hiểm thực sự cho các hệ thống dựa vào thị giác máy tính. Ví dụ, các nhà nghiên cứu chứng minh họ có thể đánh lừa phần mềm trong xe tự lái Tesla để chuyển làn đường chỉ bằng cách dán một số sticker có chủ đích trên đường. Các cuộc tấn công này là một mối đe dọa nghiêm trọng đối với nhiều ứng dụng AI, từ y tế đến quân sự.
+Clip là hệ thống thị giác máy tính mới được OpenAI công bố hồi tháng 1 và vẫn đang trong quá trình thử nghiệm. Hệ thống được phát triển với mục tiêu nhận diện chính xác các đối tượng nó nhìn thấy mà không cần trải qua quá trình huấn luyện với cơ sở dữ liệu khổng lồ như các AI khác, tức mô phỏng theo cách thức hoạt động của bộ não con người.
+AI này nhận diện đồ vật không qua việc đào tạo từ cơ sở dữ liệu chứa các cặp văn bản - hình ảnh, mà qua sự liên tưởng. Cũng vì vậy, nó có thể nhận diện hình ảnh máy cưa được dán thêm ký hiệu $ thành con lợn đất, vì nó liên tưởng ký hiệu $ tới tiền bạc.

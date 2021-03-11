@@ -1,0 +1,13 @@
+Đáp án bài toán lớp 5 về chuyển động hỗn hợp
+https://vnexpress.net/dap-an-bai-toan-lop-5-ve-chuyen-dong-hon-hop-4210952.html
+Quãng đường ôtô đi từ A đến B là 273 km, tuy nhiên nhiều độc giả đã không tìm ra đáp án đúng của bài toán chuyển động hỗn hợp này.
+<strong>Đề bài:</strong>
+Một gia đình đi du lịch trên một chiếc ôtô. Trên đường bằng, vận tốc ôtô là 63 km/h. Lên dốc thì vận tốc ôtô giảm còn 56 km/h. Xuống dốc thì vận tốc ôtô lại tăng lên thành 72 km/h. Nếu từ A đến B ôtô đi mất 4 giờ, còn đi từ B về A lại mất 4 giờ 40 phút.
+Hỏi độ dài quãng đường giữa A và B là bao nhiêu?
+<strong>Lời bình:</strong>
+Bài Toán này trích dẫn từ một bài thi Toán quốc tế lứa tuổi 11-12. Bên cạnh một số cách giải mà bạn đọc đã đề cập, chúng tôi đưa ra đáp án là cách giải độc đáo ngắn gọn, có trong đáp án của ban tổ chức kỳ thi. Cách giải này độc đáo vì tận dụng điểm đặc biệt của các số liệu trong đề bài.
+<strong>Đáp án:</strong>
+Thời gian ôtô lên dốc 1 km và xuống dốc 1 km là: 1/56 + 1/72 = 2/63 giờ.
+Vận tốc trung bình khi ôtô lên và xuống dốc là 2 <strong>: </strong>(2/63) = 63 km/h.
+Tổng thời gian đi AB và về BA là 8 giờ 40 phút nên tổng độ dài AB và BA là:
+63 (km/h) x (26/3) h = 546 km. Vậy chiều dài AB là 546 <strong>: </strong>2 = 273 km.

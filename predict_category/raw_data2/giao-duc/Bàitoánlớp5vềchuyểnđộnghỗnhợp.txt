@@ -1,0 +1,6 @@
+Bài toán lớp 5 về chuyển động hỗn hợp
+https://vnexpress.net/bai-toan-lop-5-ve-chuyen-dong-hon-hop-4209292.html
+Toán chuyển động hỗn hợp nhiều thành phần thuộc dạng khó nhất ở bậc tiểu học. Không đặt ẩn số để giải phương trình, liệu bạn có tìm ra đáp án?
+<strong>Đề bài:</strong>
+Một gia đình đi du lịch trên một chiếc ôtô. Trên đường bằng, vận tốc ôtô là 63 km/h. Lên dốc thì vận tốc ôtô giảm còn 56 km/h. Xuống dốc thì vận tốc ôtô lại tăng lên thành 72 km/h. Nếu từ A đến B ôtô đi mất 4 giờ, còn đi từ B về A lại mất 4 giờ 40 phút.
+Hỏi độ dài quãng đường giữa A và B là bao nhiêu?

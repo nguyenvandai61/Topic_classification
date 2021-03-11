@@ -1,0 +1,9 @@
+Phát hiện nguồn tia X siêu sáng trong vũ trụ xa xôi
+https://vnexpress.net/phat-hien-nguon-tia-x-sieu-sang-trong-vu-tru-xa-xoi-4198377.html
+Dựa trên quan sát từ tàu vũ trụ Swift, NASA đã xác định được một nguồn tia X siêu sáng mới phát ra từ thiên hà NGC 7090.
+Vật thể được đặt tên là NGC 7090 ULX3 sáng đến mức mỗi tia X của nó phát ra bức xạ nhiều hơn gấp một triệu lần so với Mặt Trời của chúng ta ở mọi bước sóng. Những nguồn tia X siêu sáng nói chung (ULX) được biết đến là mạnh mẽ hơn bất kỳ quá trình sao nào trong vũ trụ và chỉ yếu hơn các hạt nhân thiên hà đang hoạt động. Mặc dù vậy, bản chất của chúng đến nay vẫn là một bí ẩn lớn.
+Thông thường, mỗi thiên hà chỉ có một ULX, nhưng một số trường hợp đặc biệt như NGC 7090 có thể chứa nhiều hơn thế. Thiên hà xoắn ốc cách Trái Đất 31 triệu năm ánh sáng này trước đây được biết đến là có tới hai nguồn tia X siêu sáng là NGC 7090 ULX1 và NGC 7090 ULX2.
+Trong một quan sát mới từ tàu vũ trụ Swift của NASA, các nhà nghiên cứu từ Đại học Cambridge của Anh do Dominic Walton dẫn đầu đã báo cáo phát hiện thêm một ULX khác bên trong NGC 7090 với độ sáng tối đa lên tới 6 x 10^39 erg/s (erg là đơn vị đo năng lượng và công cơ học).
+Theo báo cáo trên tạp chí <em>arXiv </em>hôm 17/11, NGC 7090 ULX3 đã hoạt động liên tục trong hơn 7 tháng. Trong phần lớn thời gian, nó có độ sáng tương đối ổn định ở mức 0,1 x 10^39 erg/s và chỉ mới chuyển sang chế độ siêu sáng dưới quan sát của tàu Swift.
+Các nhà thiên văn học nhấn mạnh sự thay đổi theo tỷ lệ thời gian như vậy cho thấy NGC 7090 ULX3 có thể là một hệ sao xung. Tuy nhiên, họ chưa phát hiện bất kỳ xung tín hiệu đáng kể nào từ nguồn này.
+"Chúng tôi vẫn chưa chắc chắn về nguồn cấp năng lượng cho NGC 7090 ULX3, do đó, cần thêm các quan sát để có thể hiểu rõ bản chất thực sự của hệ thống này", nhóm nghiên cứu kết luận.

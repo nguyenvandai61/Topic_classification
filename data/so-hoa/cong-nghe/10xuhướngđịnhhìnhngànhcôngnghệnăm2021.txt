@@ -1,0 +1,32 @@
+10 xu hướng định hình ngành công nghệ năm 2021
+https://vnexpress.net/10-xu-huong-dinh-hinh-nganh-cong-nghe-nam-2021-4219399.html
+
+Vật liệu bán dẫn thế hệ thứ ba, điện toán lượng tử hay giao tiếp người - máy qua não sẽ định hình ngành công nghệ thế giới 2021.
+
+<strong>Vật liệu bán dẫn thế hệ thứ ba</strong>
+Các vật liệu bán dẫn như Gallium Nitride (GaN) hay Silicon Carbide (SiC) có ưu thế vượt trội trong việc sản xuất linh kiện điện tử, nhất là về khả năng chịu nhiệt, chống bức xạ, chịu được điện áp cao, cũng như công suất lớn và kích thước nhỏ gọn. Tuy nhiên, những ứng dụng về các vật liệu này còn hạn chế. Chẳng hạn, GaN chỉ xuất hiện trên các bộ sạc với kích thước nhỏ nhưng công suất lớn.
+Các chuyên gia cho rằng các phương pháp xử lý phức tạp, thiếu công nghệ... là những nguyên nhân khiến vật liệu bán dẫn thế hệ thứ ba chưa được áp dụng trong đời sống thời gian qua. Tuy nhiên, với những tiến bộ gần đây, các vật liệu đã dần xuất hiện trên trạm gốc 5G, trung tâm dữ liệu và lưới điện siêu cao áp. Điều này đồng nghĩa rằng tốc độ Internet sắp tới sẽ cao hơn, các hệ thống điện tử cũng được tích hợp nhiều công nghệ hơn và kích thước nhỏ hơn.
+<strong>Điện toán lượng tử sẽ phổ biến</strong>
+Cuối năm 2019, Google <a href="https://vnexpress.net/google-ra-may-tinh-luong-tu-tinh-toan-sieu-nhanh-4001713.html" rel="dofollow">tuyên bố</a> đạt được ưu thế lượng tử. Cuối năm 2020, Trung Quốc cũng cho biết đã <a href="https://vnexpress.net/trung-quoc-dat-duoc-dot-pha-trong-dien-toan-luong-tu-4202046.html" rel="dofollow">đạt được kết quả tương tự</a>. Trong 2021, giới khoa học dự đoán thế giới sẽ tập trung nhiều vào điện toán lượng tử.
+Cụ thể, 2021 sẽ là năm mà các hệ thống máy tính lượng tử phát triển phổ biến. Mục tiêu cuối cùng là đưa điện toán lượng tử trở thành một công nghệ chính thống giúp đẩy nganh quá trình nghiên cứu cũng như giải quyết các vấn đề của nhân loại nhờ vào tốc độ đáng kinh ngạc. Chẳng hạn, máy tính lượng tử có khả năng giúp các nhà khoa học khám phá ra những phương pháp mới để điều trị những căn bệnh nan y, hoặc giúp các nhà sản xuất xe phát triển pin điện có thể chạy trong nhiều tuần hoặc nhiều tháng.
+<strong>Vật liệu dẻo trên thiết bị điện tử</strong>
+Trước đây, các thiết bị điện tử chỉ có hình dạng nhất đinh, không thể uốn cong, gấp lại hoặc kéo dài. Tuy nhiên, nhờ những đột phá trong việc phát triển vật liệu dựa trên carbon, nhân loại đang tiến đến thời điểm các mạch điện có thể thay đổi hình dạng và kích thước khác nhau mà không bị hư hại. Những vật liệu như nano carbon và graphene đã được dùng để chế tạo các mạch tích hợp dẻo cho các thiết bị điện tử, máy móc.
+Smartphone màn hình gập đang trở nên phổ biến là ví dụ điển hình cho sự phát triển của vật liệu điện tử dẻo. Trong năm nay, chất liệu này sẽ tiếp tục được ứng dụng sang các lĩnh vực khác, như quần áo điện tử, smartphone siêu bền...
+<strong>AI chăm sóc sức khỏe</strong>
+AI đã được ứng dụng cho các hoạt động y tế, như phân tích hình ảnh, quản lý hồ sơ hay thậm chí góp phần nghiên cứu vaccine. Tuy nhiên, với sức mạnh ngày càng vượt trội, AI sẽ được áp dụng cho các quy trình phức tạp hơn trong y tế, như phẫu thuật, sàng lọc thuốc, khám chữa bệnh tự động...
+<strong>Giao tiếp giữa não người và máy tính</strong>
+Việc liên kết bộ não con người với máy tính không phải là một ý tưởng mới. Nhưng vào năm 2021, công nghệ này sẽ phát triển mạnh nhất từ trước đến nay.
+Giới khoa học dự đoán công nghệ mới sẽ cho phép não người giao tiếp trực tiếp với bất kỳ thiết bị máy móc nào. Mục tiêu cuối cùng là cho phép con người vượt qua giới hạn vật lý, sử dụng máy móc như một phần mở rộng của cơ thể. Một trong những ứng dụng của công nghệ này là giúp những bệnh nhân bất tỉnh hoặc hôn mê giao tiếp với người xung quanh thông qua cánh tay robot hoặc thiết bị phiên dịch.
+<strong>Xử lý dữ liệu dựa trên AI</strong>
+Dữ liệu được thu thập ngày càng nhiều đang khiến các doanh nghiệp và tổ chức cảm thấy khó khăn hơn trong việc lưu trữ và quản lý bằng các kỹ thuật xử lý truyền thống. Vấn đề này có thể được giải quyết trong năm 2021 nhờ AI.
+Việc vận dụng AI sẽ đẩy nhanh quá trình phân loại và xử lý, lưu trữ dữ liệu, từ đó làm tăng đáng kể hiệu quả. Ngoài ra, công nghệ này sẽ giúp doanh nghiệp tiết kiệm chi phí hơn so với hiện tại.
+<strong>Điện toán đám mây thay đổi ngành công nghệ thông tin</strong>
+Cách phát triển sản phẩm và dịch vụ của các doanh nghiệp bị đánh giá là kém linh hoạt, chậm chạp và quá trình R&D kéo dài. Nguyên nhân là do việc lưu trữ dữ liệu chủ yếu được thực hiện trên các hạ tầng truyền thống như máy chủ hoặc các giải pháp lưu trữ vật lý.
+Trong năm 2021, các chuyên gia cho rằng sẽ có làn sóng doanh nghiệp chuyển sang các nền tảng đám mây, do các dịch vụ này ngày càng được cải thiện, nhiều tính năng mới, trong khi tốc độ mạng Internet cũng đã nhanh hơn rất nhiều so với trước. Việc đưa mọi thứ lên "đám mây" cũng giúp doanh nghiệp tiết kiệm chi phí về máy chủ và các thiết bị lưu trữ vật lý, trong khi nhân viên cũng chủ động hơn khi làm việc từ xa.
+<strong>Công nghệ thúc đẩy nông nghiệp</strong>
+Internet of Things (IoT), 5G, điện toán đám mây và AI được sẽ là các công nghệ hỗ trợ mạnh mẽ cho nông nghiệp năm 2021. Nhờ các công nghệ này, nông dân có thể lập kế hoạch cũng như kiểm soát chất lượng đất, quy trình chăm sóc cây cối, bón phân, tưới nước... từ đó tăng năng suất và giảm chi phí.
+<strong>AI cho công nghiệp</strong>
+Covid-19 đã buộc nhiều ngành công nghiệp phải thích ứng với công nghệ và cơ sở hạ tầng mới để cải thiện sản xuất và duy trì hoạt động. Trong 2020 và 2021, các doanh nghiệp sẽ vận dụng AI để tăng cường sản xuất, giảm nhân công, khắc phục sự cố tự động. Xu hướng này sẽ xuất hiện trên các ngành có hệ thống công nghệ thông tin đã hoàn thiện, như ngành ôtô, điện tử tiêu dùng, xây dựng và hóa chất.
+<strong>Thành phố thông minh được ưu tiên</strong>
+Khi đại dịch Covid-19 xảy ra, nhiều thành phố trên thế giới phải vật lộn với việc kiểm soát người dân, nhất là việc cố gắng phân bổ nguồn lực và nhân lực một cách hiệu quả để ngăn chặn dịch bệnh lây lan. Vấn đề này có thể được giải quyết với thành phố thông minh.
+Cụ thể, năm 2021, nhiều thành phố trên thế giới sẽ bắt đầu hướng tới khái niệm trung tâm vận hành thông minh, tức là các trung tâm được hỗ trợ bởi AI, 5G, Big Data và IoT để có thể quản lý và phân bổ hiệu quả các nguồn lực của thành phố tốt hơn nhiều so với con người. Dựa trên các công nghệ này, việc phát hiện và nhắc nhở giãn cách xã hội, kiểm soát tắc đường, điều phối giao thông hay thậm chí là kiểm soát tội phạm cũng hiệu quả hơn.

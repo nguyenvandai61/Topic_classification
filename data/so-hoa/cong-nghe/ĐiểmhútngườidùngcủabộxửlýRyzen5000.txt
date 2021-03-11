@@ -1,0 +1,17 @@
+Điểm hút người dùng của bộ xử lý Ryzen 5000
+https://vnexpress.net/diem-hut-nguoi-dung-cua-bo-xu-ly-ryzen-5000-4243278.html
+
+Ryzen 5000 Mobile series có hiệu suất đơn nhân, đa nhân mạnh hơn phiên bản trước, giúp tăng tốc độ xử lý, cải thiện hiệu quả xung nhịp IPC tới 19%.
+
+AMD Ryzen 5000 Mobiles là bộ xử lý được nhắc đến nhiều tại các diễn đàn, cộng đồng công nghệ từ đầu năm nay. Các mẫu laptop Ryzen 5000 Mobile series như Asus Rog Strix Scar, TUF Gaming cũng nhận được phản hồi tích cực. Dự kiến trong năm nay, nhiều mẫu laptop văn phòng, doanh nghiệp, gaming... sử dụng Ryzen 5000 sẽ ra mắt, hứa hẹn một năm sôi động. Ryzen 5000 có sức hút gì?
+<strong>Hiệu năng đơn nhân, đa nhân</strong>
+Ryzen 5000 Mobile series được sản xuất trên tiến trình 7nm, kiến trúc Zen 3 mới hứa hẹn giúp giảm độ trễ, tăng tốc độ xử lý, cải thiện xung nhịp IPC đến 19%. Hiệu suất đơn nhân, đa nhân mạnh mẽ hơn phiên bản trước.
+Hai mẫu Ryzen 9 5900HX và Ryzen 9 5980HX là hai CPU laptop đầu tiên cho phép ép xung, cả hai đều sở hữu 8 nhân 16 luồng, hứa hẹn cho hiệu suất mạnh hơn nhiều dòng CPU dành cho máy tính để bàn. Ryzen 9 5900HX hiện đã có mặt trên mẫu laptop Asus Rog Strix Scar 17, mới lên kệ ở thị trường Việt Nam.
+<strong>Hiệu suất dòng gaming cho laptop văn phòng</strong>
+Trước đây, laptop văn phòng thường có CPU 2 hoặc 4 nhân. Nhưng với bộ xử lý Ryzen 4000 Mobile series hay 5000 series, những dòng laptop mỏng nhẹ này được tùy chọn đến 8 nhân. Những cái tên nổi bật trong dòng này là AMD Ryzen 7 5800U, AMD Ryzen 7 5700U.
+Đại diện hãng cho biết, dù là dòng U nhưng hiệu suất của những dòng trên vẫn mạnh mẽ, ưu thế về số lượng nhân, những mẫu laptop được trang bị bộ xử lý này có sức mạnh không thua kém laptop gaming trước đây. Kết hợp đồ họa AMD Radeon Graphics, việc xử lý đồ họa 2D, dựng phim ở mức độ vừa phải vẫn có thể mượt mà.
+Các tùy chọn thấp như Ryzen 3 5300U, 5400U cũng sở hữu 4 nhân, 8 luồng, tương đương các bộ xử lý cao cấp khác. Nhờ đó, các mẫu máy tính văn phòng tầm giá dưới 10 triệu hứa hẹn sẽ đáp ứng tốt nhu cầu của sinh viên hay nhân viên văn phòng.
+<strong>Khả năng hoạt động, độ tiết kiệm pin</strong>
+Nhờ sản xuất trên tiến trình 7nm tiên tiến, kiến trúc tối ưu, bộ xử lý đến từ AMD hứa hẹn cho hiệu suất mạnh mẽ và tiết kiệm năng lượng.
+"Cùng một khối lượng công việc, bộ xử lý AMD Ryzen 5000 Mobile series sử dụng ít năng lượng hơn đáng kể so với bộ xử lý 10nm hay 14nm khác", đại diện hãng nói. Các mẫu laptop trang bị AMD Ryzen 5000 Mobile series nói chung sở hữu thời lượng pin vượt trội, laptop gaming hoạt động mát mẻ hơn, từ đó mang đến hiệu năng mạnh mẽ, độ ổn định dù sử dụng các tác vụ nặng trong thời gian dài.
+Trong thời gian tới, nhiều mẫu laptop trang bị AMD Ryzen 5000 Mobile sẽ được giới thiệu tại Việt Nam.

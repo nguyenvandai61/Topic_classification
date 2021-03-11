@@ -1,0 +1,16 @@
+Công ty bảo mật nổi tiếng bị tin tặc tấn công
+https://vnexpress.net/cong-ty-bao-mat-noi-tieng-bi-tin-tac-tan-cong-4204162.html
+
+Nhóm tin tặc nhắm mục tiêu vào các công cụ thử nghiệm an ninh nội bộ của FireEye nhằm tiến hành thâm nhập các công ty khác.
+
+Ngày 8/12, Kevin Mandia, CEO của FireEye, cho biết ngoài việc đánh cắp công cụ <em>Red Team</em> nội bộ của hãng, nhóm hacker đã tìm kiếm thông tin liên quan đến một số khách hàng chính phủ của công ty.
+Mandia mô tả nhóm thực hiện vụ tấn công là "một tổ chức rất tinh vi, có kỷ luật và bảo mật hoạt động cao. Kỹ thuật tấn công này khiến chúng tôi tin rằng đây là một cuộc tấn công mạng do một nhà nước bảo trợ".
+"Dựa trên 25 năm kinh nghiệm trong lĩnh vực an ninh mạng và ứng phó sự cố, tôi có thể đưa ra kết luận rằng FireEye đang hứng chịu một cuộc tấn công gây ra bởi một quốc gia có năng lực tấn công hàng đầu thế giới hiện nay. Cuộc tấn công này khác với hàng chục nghìn vụ việc mà chúng tôi từng ứng phó nhiều năm qua", Mandia nói.
+"Những kẻ tấn công dường như đã tạo ra một kỹ thuật hoàn toàn mới và hoàn hảo nhắm trực tiếp vào các điểm yếu FireEye. Tổ chức hacker này chắc chắn được đào tạo chuyên sâu về hoạt động bảo mật và chuyên nghiệp trong tác phong kỷ luật. Chúng hoạt động một cách bí mật, sử dụng thành thục các công cụ chống bị phát hiện và xóa dấu vết. Nhiều tổ hợp kỹ thuật mới tới mức chúng tôi và các đối tác chưa từng thấy chúng trước kia", CEO của công ty nói thêm.
+<strong>Microsoft xác nhận có yếu tố nhà nước bảo trợ</strong>
+Đại diện của FireEye cho biết đánh giá ban đầu của hãng đã được Microsoft xác nhận và đang tìm kiếm sự giúp đỡ điều tra từ phía Cục Điều tra Liên bang Mỹ (FBI).
+FireEye tin những kẻ tấn công đã lấy được các công cụ kiểm tra thâm nhập nội bộ của hãng. Công ty đang chia sẻ một số manh mối dữ liệu (hay dấu vết IOC) cũng như các biện pháp đối phó trên tài khoản GitHub của hãng. Dữ liệu từ GitHub sẽ giúp các công ty khác phát hiện xem tin tặc có sử dụng công cụ bị đánh cắp từ FireEye để xâm phạm mạng của họ hay không.
+FireEye không phải là công ty bảo mật lớn đầu tiên bị tấn công bởi các hacker do một nhà nước đứng đầu. Trước đó, Kaspersky công bố sự cố tương tự vào năm 2015. RSA Security cũng từng bị tấn công năm 2011 bởi một tổ chức được cho có liên hệ với Trung Quốc. Avast bị tấn công hai lần vào năm 2017 và 2019.
+Trên Twitter, hầu hết các chuyên gia an ninh mạng đều thể hiện sự ủng hộ đối với FireEye và khen ngợi công ty vì đã công bố sự việc cùng các biện pháp khắc phục nhanh chóng.
+"Tôi hoan nghênh FireEye đã kịp thời công khai tin tức này và tôi hy vọng quyết định tiết lộ vụ xâm nhập này của công ty sẽ giúp thúc đẩy những người khác đang đối mặt với các vụ xâm nhập tương tự", thượng nghị sĩ Mỹ Mark R. Warner, phó Chủ tịch Ủy ban Đặc biệt về Tình báo Thượng viện chia sẻ.
+"Chúng tôi đã yêu cầu các công ty thực hiện các bước phòng tránh nghiêm túc để bảo mật hệ thống của họ, nhưng trường hợp này cũng cho thấy khó khăn trong việc ngăn chặn các tổ chức hacker quốc gia", ông Warner cho biết.

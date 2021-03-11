@@ -1,0 +1,13 @@
+Google khai tử dự án phủ sóng Internet bằng khinh khí cầu
+https://vnexpress.net/google-khai-tu-du-an-phu-song-internet-bang-khinh-khi-cau-4225996.html
+
+Project Loon, dự án được coi là "điên rồ" của Google khi dùng hàng nghìn khinh khí cầu để cung cấp Internet, phải dừng lại sau 8 năm.
+
+Theo <em>Forbes</em>, Alphabet, công ty mẹ của Google, quyết định đóng cửa Loon, bộ phận ra đời năm 2013 với mục tiêu phát triển bóng bay hoạt động bằng năng lượng mặt trời và di chuyển dưới sự định hướng của AI.
+"Hành trình thương mại hóa diễn ra lâu hơn và rủi ro hơn nhiều so với kỳ vọng", Astro Teller, người đứng đầu bộ phận Google X, chia sẻ trên blog. "Trong những tháng tới, chúng tôi sẽ bắt đầu giảm hoạt động và Loon sẽ không còn là một trong những dự án 'đặt cược' của Alphabet nữa".
+Là dự án thuộc Google X, Loon được tách ra thành công ty riêng biệt vào năm 2018. Hãng đã thử nghiệm phát Internet qua khinh khí cầu tại Kenya, New Zealand và Peru. Năm 2017, Loon cũng triển khai khinh khí cầu đến Puerto Rico để cung cấp kết nối mạng cho người dân sau khi cơn bão Maria tàn phá khu vực, đánh sập các tháp điện thoại di động.
+Dù đạt được thành công nhất định, Google không nhìn thấy ở Loon một mô hình kinh doanh bền vững. "Dù một số đối tác sẵn sàng đồng hành suốt chặng đường, chúng tôi vẫn chưa tìm ra cách hoạt động với chi phí đủ thấp để xây dựng một doanh nghiệp lâu dài và bền vững", Alastair Westgarth, Giám đốc điều hành của Loon, giải thích.
+Khinh khí cầu của Google kết nối với trạm tiếp nhận trên mặt đất và cung cấp Internet trong phạm vi 10.000 km vuông, rộng gấp 200 lần so với các tháp viễn thông truyền thống. Các tấm pin năng lượng mặt trời sẽ cung cấp năng lượng cho khinh khí cầu và người dùng có thể kết nối qua điện thoại LTE. Tốc độ download hiện đạt 19 Mb/giây còn tốc độ uplink là 4,74 Mb/giây. Độ trễ cũng rất thấp, chỉ 19 millisecond (19 phần nghìn giây) trong một thử nghiệm gần đây.
+Với hệ thống định hướng máy học và trí tuệ nhân tạo, khinh khí cầu Loon có thể tự huấn luyện mình cách nâng lên, hạ xuống để tìm kiếm những cơn gió phù hợp, di chuyển tới nơi cần đến và giúp chúng đạt độ phủ sóng tối đa.
+Theo <em>Wired</em>, vấn đề của Loon không liên quan tới công nghệ mà là lợi nhuận. 93% khu vực trên thế giới hiện nay có thể truy cập Internet theo những cách khác nhau. Số ít còn lại hoặc không quan tâm tới việc truy cập, hoặc không đủ tiền mua điện thoại LTE - thiết bị cần thiết để kết nối với Loon để sử dụng Internet.
+Bên cạnh Loon, một dự án khác cũng đang được quan tâm là cung cấp Internet tới những khu vực xa xôi trên trái đất qua các vệ tinh Starlink của SpaceX. Tuy vậy, dự án của tỷ phú Elon Musk này cũng đang gặp rào cản về chi phí và mức giá còn đắt đỏ.

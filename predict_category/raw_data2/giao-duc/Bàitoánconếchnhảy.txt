@@ -1,0 +1,7 @@
+Bài toán con ếch nhảy
+https://vnexpress.net/bai-toan-con-ech-nhay-4189822.html
+Bài toán về con ếch là dạng toán tổ hợp xuất hiện nhiều lần trong các kỳ thi Toán Quốc tế IMO, IMC, IMSO, IKMC.
+Dưới đây là một bài toán về con ếch dành cho học sinh lớp 7 với thời gian làm bài 4 phút.
+<strong>Đề bài:</strong>
+Một con ếch ngồi trên một ô vuông màu đỏ trong bảng vuông <strong>7×7</strong>. Mỗi bước nhảy con ếch có thể nhảy sang một ô liền kề theo hàng hoặc cột chứ không được nhảy chéo.
+Hỏi con ếch có thể nhảy qua tất cả 48 ô còn lại với mỗi ô đúng một lần được không?

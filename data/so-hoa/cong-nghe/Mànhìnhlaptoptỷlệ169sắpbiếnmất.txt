@@ -1,0 +1,11 @@
+Màn hình laptop tỷ lệ 16:9 sắp biến mất
+https://vnexpress.net/man-hinh-laptop-ty-le-16-9-sap-bien-mat-4224553.html
+
+Nhược điểm trong việc tối ưu hóa diện tích hiển thị của tỷ lệ 16:9 khiến nhiều nhà sản xuất laptop phải chuyển sang sử dụng các tỷ lệ màn hình khác.
+
+Một trong những xu hướng lớn nhất trên các sản phẩm laptop tại triển lãm Điện tử tiêu dùng CES 2021 là sự biến mất gần như hoàn toàn của màn hình 16:9. 16:9 đề cập tới tỷ lệ giữa chiều rộng với chiều cao của màn hình. Ví dụ, màn hình có độ phân giải 500 x 500 pixel sẽ có tỷ lệ khung hình 1:1 và màn hình độ phân giải 1.920 x 1.080 pixel sẽ có tỷ lệ khung hình 16:9.
+Trong suốt gần hai thập kỷ, 16:9 luôn được coi là tiêu chuẩn cho laptop được sản xuất bởi HP, Dell, Acer, Asus. Nhờ chiều ngang lớn, màn hình 16:9 phù hợp để xem video. Gần như mọi video sẽ được hiển thị trọn vẹn mà không có viền đen trên dưới. Tuy vậy, tỷ lệ này lại có nhược điểm là sở hữu diện tích hiển thị theo chiều dọc ít nhất.
+Màn hình 16:9 thường bị nhiều người dùng laptop phàn nàn là chật chội, không phù hợp khi làm tác vụ trên nhiều tab và hạn chế thao tác cuộn dọc. Đó là lý do tại sao gần mười năm qua, <a href="https://vnexpress.net/chu-de/apple-inc-1541" rel="dofollow">Apple </a>đã áp dụng màn hình 16:10 trên các dòng MacBook của mình để tối ưu việc hiển thị. Bên cạnh đó, dòng laptop lai Surface của <a href="https://vnexpress.net/chu-de/microsoft-1553" rel="dofollow">Microsoft </a>cũng đang làm rất tốt điều này với màn hình 3:2.
+Nếu đã nhìn quen màn hình tỷ lệ 16:9, sau khi trải nghiệm thử một laptop cùng kích thước nhưng tỷ lệ 16:10 hoặc 3:2, chắc chắn nhiều người sẽ không muốn quay lại màn hình 16:9 nữa..
+Hầu hết laptop cao cấp ra mắt đầu năm nay, như Summit E13 Flip của MSI hay Razer Book 13, đều được trang bị tỷ lệ khung hình 16:10. Rõ ràng, các hãng laptop đang hướng tới việc sản xuất màn hình có tỷ lệ chiều cao lớn hơn, nhằm cân bằng giữa chiều ngang và chiều dọc.
+Thay đổi này nghe có vẻ không mấy quan trọng, nhưng sẽ tạo ra sự thay đổi lớn trong trải nghiệm người dùng khi cho phép tận dụng được tối đa không gian hiển thị.

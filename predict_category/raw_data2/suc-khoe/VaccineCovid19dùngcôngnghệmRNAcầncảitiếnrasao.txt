@@ -1,0 +1,23 @@
+Vaccine Covid-19 dùng công nghệ mRNA cần cải tiến ra sao?
+https://vnexpress.net/vaccine-covid-19-dung-cong-nghe-mrna-can-cai-tien-ra-sao-4237233.html
+
+Các nhà khoa học tìm cách cải tiến vaccine Covid-19 dùng công nghệ mRNA để kéo dài thời gian bảo quản, tiêm một liều, giá phù hợp, "đuổi kịp" biến thể nCoV.
+
+Vaccine Covid-19 sử dụng công nghệ mRNA của Pfizer-BioNTech và Moderna được chấp thuận sử dụng cho người và đang triển khai tiêm chủng trên thế giới.
+Vaccine Covid-19 phát triển dựa trên công nghệ mRNA (thông tin di truyền) được phủ bởi một lớp nano lipid (chất béo) của tế bào. Khi tiêm vaccine, cơ thể sử dụng hướng dẫn trong mRNA để tạo ra các protein đột biến. Phản ứng miễn dịch này tạo ra kháng nguyên bảo vệ cơ thể khi nCoV xâm nhập, cho hiệu quả khoảng 95%.
+Mặc dù có nhiều lợi thế nhưng vaccine Covid-19 sử dụng công nghệ mRNA vẫn còn một số vấn đề mà các nhà khoa học đang nỗ lực cải tiến.
+<span style="color:#4e5f70;"><strong>Kéo dài thời gian bảo quản vaccine</strong></span>
+mRNA và lớp vỏ lipid của nó thường không ổn định khi bảo quản trong tủ lạnh hoặc ở nhiệt độ phòng. Bởi vì RNA nhạy cảm hơn DNA, các enzym trong môi trường nhiệt độ cao có thể khiến nó bị phân hủy.
+Các đơn vị phát triển vaccine tiến hành thử nghiệm cho thêm các loại phụ gia khác nhau vào, hy vọng kéo dài thời hạn sử dụng của vaccine. Những chất phụ gia này được dùng trong các loại vaccine trước đây ví dụ như một lường nhỏ đường.
+Cách khác là đông khô vaccine mRNA thành dạng bột để bảo quản. Khi sử dụng, chỉ cần thêm nước vào bột vaccine. Công ty Arcturus có trụ sở tại California (Mỹ) thử nghiệm vaccine dạng bột trong thử nghiệm lâm sàng giai đoạn III. Công ty CureVac (Đức) đang phát triển vaccine mRNA Covid-19 dạng bột cho thời gian bảo quản ba tháng ở nhiệt độ tủ lạnh.
+<span style="color:#4e5f70;"><strong>Giảm lượng vaccine trong mỗi mũi tiêm</strong></span>
+Liều lượng vaccine mRNA trong khoảng từ 30 microgam (Pfizer-BioNTech) đến 100 microgam (Moderna). Trong các thử nghiệm lâm sàng giai đoạn I, liều lượng thấp hơn của vaccine Pfizer-BioNTech cũng có tác dụng nhất định.
+Công ty CureVac phát triển vaccine Covid-19 mRNA với liều lượng 12 microgam bằng cách kết hợp đổi mới trong trình tự mRNA và công thức lipid. Tuy nhiên, các chi tiết về công nghệ này không được CureVac tiết lộ.
+Ứng dụng công nghệ mRNA tự khuếch đại là cách tiếp cận khác để giảm liều lượng vaccine. mRNA tự khuếch đại tạo ra nhiều bản sao của chính nó hơn sau khi tiêm vào cơ thể. Công nghệ này giúp tiêm liều lượng thấp hơn hiện tại nhưng mức kháng nguyên có thể tương đương với hai mũi tiêm.
+Các nhà nghiên cứu tại Đại học Imperial College London và Arcturus sử dụng phương pháp này để phát triển vaccine Covid-19. Mặc dù, các thử nghiệm chỉ mới hoàn thành giai đoạn I trong thời gian gần đây nhưng mRNA tự khuếch đại hứa hẹn giúp giảm chi phí vì cần ít vật liệu hơn.
+<span style="color:#4e5f70;"><strong>Chỉ cần tiêm một liều vaccine Covid-19</strong></span>
+Các loại vaccine mRNA Covid-19 hiện tại theo cơ chế tăng cường. Mũi tiêm đầu tiên giúp khởi động hệ thống miễn dịch, tiêm mũi thứ hai (sau đó khoảng ba đến bốn tuần) tăng cường phản ứng miễn dịch. Sẽ đơn giản hơn nhiều nếu tiêm một liều duy nhất nhưng có thể mang lại hiệu quả tương tự. Trong trường hợp này mRNA tự khuếch đại có thể hữu ích.
+Arcturus công bố kết quả khi tiến hành thử nghiệm trên chuột cho thấy, một mũi tiêm vaccine mRNA tự khuếch đại duy nhất cho phản ứng miễn dịch mạnh mẽ. Một cách tiếp cận khác được phát triển bởi các nhà nghiên cứu tại Viện Công nghệ Massachusetts (Mỹ) cho vaccine protein. Phương pháp này sử dụng vi cầu polymer để giải phóng vaccine vào cơ thể sau khi tiêm ngày đầu tiên và 21 ngày sau đó, nhờ đó, tăng cường liều lượng nhưng chỉ cần tiêm một lần.
+<span style="color:#4e5f70;"><strong>"Đuổi kịp" các biến thể nCoV</strong></span>
+Công nghệ vaccine mRNA thích hợp để đáp ứng nhanh với các biến thể nCoV nhờ đặc tính hóa học, vật lý của mRNA vẫn giữ nguyên, ngay cả với những thay đổi trình tự nhỏ cần thiết để phù hợp với các đột biến của virus. Nhờ vậy, việc phát triển vaccine mRNA cho hiệu quả phòng ngừa biến thể nCoV nhanh chóng và đơn giản.
+Tuy nhiên, quy định nghiêm ngặt của ngành y tế trong lĩnh vực sản xuất vaccine tạo ra rào cản. Trong một cuộc phỏng vấn gần đây, Cục Quản lý Thực phẩm và Dược phẩm Mỹ đề xuất vaccine mRNA giúp phòng chống lại các biến thể nCoV có thể được "đặc cách" với thử nghiệm lâm sàng nhỏ hoặc không cần thử nghiệm cho biến thể nCoV trong tương lai.

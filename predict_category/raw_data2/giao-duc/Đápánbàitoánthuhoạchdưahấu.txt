@@ -1,0 +1,11 @@
+Đáp án bài toán thu hoạch dưa hấu
+https://vnexpress.net/dap-an-bai-toan-thu-hoach-dua-hau-4189018.html
+Nhiều bạn đọc tìm ra cách giải bài toán thu hoạch dưa hấu nhưng không đọc kỹ yêu cầu nên đưa ra đáp số không khớp.
+<a href="https://vnexpress.net/bai-toan-thu-hoach-dua-hau-4184716.html" rel="dofollow"><strong>Đề bài:</strong></a>
+Một lớp học gồm 13 bạn trai và n bạn gái đi trang trại thu hoạch dưa hấu giúp nông dân. Tổng số dưa hấu thu được của cả lớp là n<sup>2 </sup>+ 11n – 3, trong đó mỗi người thu hoạch một số dưa hấu như nhau.
+Hỏi cả lớp thu hoạch bao nhiêu dưa hấu?
+<strong>Đáp án:</strong>
+Tổng số học sinh là (n + 13), mỗi học sinh thu hoạch một số dưa hấu như nhau nên tổng số dưa hấu thu được là n<sup>2 </sup>+ 11n – 3 sẽ chia hết cho (n + 13).
+Xét phân tích: n<sup>2</sup>+ 11n – 3 = (n + 13)(n – 2) + 23 chia hết cho (n + 13).
+Suy ra 23 chia hết cho (n+13) và dẫn đến n = 10.
+Vậy tổng số dưa hấu thu được là n<sup>2</sup>+ 11n – 3 = 207 (quả).

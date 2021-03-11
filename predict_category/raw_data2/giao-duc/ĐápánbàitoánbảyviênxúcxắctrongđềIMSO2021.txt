@@ -1,0 +1,19 @@
+Đáp án bài toán bảy viên xúc xắc trong đề IMSO 2021
+https://vnexpress.net/dap-an-bai-toan-bay-vien-xuc-xac-trong-de-imso-2021-4229944.html
+Dựa vào dữ kiện tổng hai mặt ở đề bài, bạn tính lần lượt sẽ ra đáp án nhưng điều quan trọng là phải làm nhanh trong hai phút.
+<strong>Đề bài:</strong>
+Các số từ 1 đến 6 được in trên sáu mặt của khối lập phương (xúc xắc) sao cho tổng của hai số được in trên hai mặt đối diện bất kỳ bằng 7. Hình dưới đây là 7 viên xúc xắc xếp liên tiếp nhau, tổng các số trên hai mặt bất kỳ áp vào nhau là 8. Dấu "*" trên mặt của hình lập phương cao nhất biểu thị số nào?
+<strong>Lời giải:</strong>
+Xét các mặt của ba viên xúc xắc song song với mặt chứa số 4 trên hình vẽ:
+Đối diện với mặt chứa số 4 là <strong>7 – 4 = 3</strong>.
+Tiếp giáp với mặt chứa số 3 là <strong>8 – 3 = 5</strong>.
+Đối diện với mặt chứa số 5 là <strong>7 – 5 = 2. </strong>
+Tiếp giáp với mặt chứa số 2 là <strong>8 – 2 = 6</strong>.
+Đối diện với mặt chứa số 6 là <strong>7 – 6 = 1. </strong>
+Suy ra viên xúc xắc hiển thị số 3 trên hình vẽ có cặp mặt đối (6;1) song song với mặt chứa số 4 trên hình vẽ, cặp mặt (3;4) ở trên dưới của xúc xắc và cặp mặt còn lại (2;5) có một số ở vách ngăn bên phải.
+Nếu trên viên xúc xắc chứa số 3 có vách ngăn bên phải chứa số 2 thì các mặt tiếp giáp và mặt đối song song với vách ngăn chứa lần lượt các số 6<strong> - </strong>1<strong> - </strong>7 (loại vì 7 > 6).
+Từ đó viên xúc xắc chứa số 3 có vách ngăn bên trong chứa số 5. Khi đó các mặt tiếp giáp và mặt đối song song với vách ngăn chứa số 5 lần lượt là 3 - 4 - 4 - 3.
+Như thế viên xúc xắc hiển thị số 6 trên hình vẽ có cặp mặt đối trước sau là (6;1); cặp mặt đối trái phải là (4;3) nên cặp mặt đối trên dưới còn lại là (2;5).
+Tương tự như trên, viên xúc sắc chứa số 6 có vách ngăn trên dưới chứa số 5.
+Khi đó các mặt tiếp giáp và mặt đối song song với vách ngăn chứa số 5 lần lượt là 3 - 4 - 4 - 3.
+Vậy dấu "*" biểu thị số 3.

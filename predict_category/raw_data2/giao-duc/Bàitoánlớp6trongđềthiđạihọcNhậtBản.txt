@@ -1,0 +1,7 @@
+Bài toán lớp 6 trong đề thi đại học Nhật Bản
+https://vnexpress.net/bai-toan-lop-6-trong-de-thi-dai-hoc-nhat-ban-4190976.html
+Bài toán kiểm tra kiến thức toán lớp 6 trong đề tuyển sinh Đại học Kyoto năm 2018 liệu có làm khó bạn?
+Nhật Bản không tổ chức thi tốt nghiệp THPT mà chỉ căn cứ vào kết quả học tập để xét. Để vào đại học công lập, học sinh phải tham dự hai kỳ thi. Một kỳ thi quốc gia gọi là "Senta Shiken" được tổ chức vào tháng 1. Sau đó trường đại học ra điểm sàn để nhận thí sinh dự kỳ kiểm tra riêng, diễn ra vào cuối tháng 2 hoặc đầu tháng 3.
+Trường Đại học Kyoto thành lập năm 1869 là ngôi trường đại học lâu đời và danh tiếng thứ hai tại Nhật Bản (sau Đại học Tokyo). Đề thi Toán tuyển sinh vào trường có phạm vi kiến thức rộng.
+Sau đây là bài toán kiểm tra kiến thức toán lớp 6 trong đề tuyển sinh Đại học Kyoto năm 2018.
+<strong>Đề bài</strong>: Tìm tất cả các số p, q nguyên tố sao cho <strong>(p<sup>q</sup> + q<sup>p</sup>)</strong> là số nguyên tố.

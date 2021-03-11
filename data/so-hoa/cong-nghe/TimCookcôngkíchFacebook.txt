@@ -1,0 +1,12 @@
+Tim Cook công kích Facebook
+https://vnexpress.net/tim-cook-cong-kich-facebook-4208762.html
+
+Tim Cook, CEO Apple, đăng tweet đáp trả Facebook sau khi mạng xã hội cho rằng tính năng theo dõi quảng cáo trên iOS 14 "phản cạnh tranh".
+
+"Chúng tôi tin rằng người dùng nên có quyền quyết định với những dữ liệu được thu thập về họ và cách chúng được sử dụng. Facebook vẫn có thể tiếp tục theo dõi người dùng qua ứng dụng và website như trước đây, tính năng App Tracking Transparency của iOS 14 chỉ yêu cầu họ xin phép người dùng trước mà thôi", CEO Apple Tim Cook viết trên Twitter hôm 18/12.
+Thông điệp trên được đưa ra sau khi Facebook đăng bài trên blog và chạy quảng cáo trên báo chí, trong đó cáo buộc tính năng riêng tư mới của Apple sẽ gây tổn hại cho mạng Internet, nhất là với các doanh nghiệp nhỏ.
+"Apple đang hành xử phản cạnh tranh bằng cách sử dụng quyền kiểm soát của mình trên App Store với những nhà sáng tạo và doanh nghiệp nhỏ để thu về lợi nhuận. Họ cần dừng lại hoàn toàn", Dan Levy, Phó Chủ tịch mảng Quảng cáo và Sản phẩm Kinh doanh Facebook, nói trong một cuộc phỏng vấn.
+Apple vừa cập nhật phiên bản iOS 14.3, yêu cầu các nhà phát triển phải thêm chi tiết về thông tin bảo mật trên ứng dụng của mình. Ứng dụng phải cho người dùng biết những dữ liệu nào sẽ bị thu thập, giúp họ đưa ra quyết định có nên tải về hay không. Cập nhật mới trên iOS 14 là bước tiếp theo của Apple nhằm cung cấp cho người dùng iPhone, iPad nhiều quyền kiểm soát hơn đối với dữ liệu của họ.
+Trước đó, Apple có kế hoạch tung ra tính năng mới trên iOS gọi là App Tracking Transparency. Tính năng này buộc các nhà phát triển ứng dụng phải chia sẻ mã nhận dạng kỹ thuật số, cho phép người dùng iPhone, iPad có thể theo dõi hoặc ngăn chặn các nhà quảng cáo như Facebook. Đây cũng là tính năng chính khiến Facebook phản ứng gay gắt.
+Apple dự định ra mắt App Tracking Transparency từ đầu năm, nhưng kế hoạch bị trì hoãn do Covid-19. Hãng cho biết sẽ thực hiện thay đổi vào năm 2021, trong đó đưa ra hướng đi nhằm chống lại ngành quảng cáo trực tuyến.
+Facebook và những công ty hoạt động nhờ quảng cáo trực tuyến tin rằng những động thái của Apple gần đây sẽ khiến doanh thu của họ bị ảnh hưởng nặng, do người dùng sẽ được "nhắc nhở" rằng họ đang chia sẻ dữ liệu của mình cho quảng cáo. CEO Faceboook Mark Zuckerberg hồi tháng 8 cảnh báo các nhà phát triển có thể mất tới 50% doanh thu từ quảng cáo trên iOS 14, con số này mới được nâng lên 60%.

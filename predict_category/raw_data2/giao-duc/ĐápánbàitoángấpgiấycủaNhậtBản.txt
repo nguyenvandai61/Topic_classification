@@ -1,0 +1,15 @@
+Đáp án bài toán gấp giấy của Nhật Bản
+https://vnexpress.net/dap-an-bai-toan-gap-giay-cua-nhat-ban-4183426.html
+Mấu chốt của bài toán là trải phẳng bao giấy rồi "tái tạo đường thẳng thật từ đường thẳng ảo khi gấp giấy".
+<strong>Đề bài: </strong>Một bao giấy bọc đũa có dạng hình chữ nhật như hình minh họa. Thực hiện liên tiếp hai thao tác gấp giấy Origami theo hai bước sau đây:
+Bước 1: Gấp chéo một cạnh dài của bao giấy từ dưới lên trên và tạo ra góc <strong>23°.</strong>
+Bước 2: Gấp đuôi bao giấy từ trên xuống dưới với vết gấp nằm đè lên mép trên.
+Biết hai vết gấp và một đoạn chéo mép giấy tạo ra một tam giác cân có góc đáy là <strong>23°.</strong>
+Tính góc <strong>x° </strong>tạo bởi vết gấp ở bước 1 với phần mép dưới ở đuôi giấy sau bước 2.
+<strong>Đáp án:</strong>
+Mấu chốt của bài toán chính là trải phẳng hình bao giấy và "tái tạo đường thẳng thật từ đường thẳng ảo khi gấp giấy".
+Kéo thẳng đuôi giấy để bao giấy trở về hình dạng hình chữ nhật ban đầu khi chưa gấp.
+Gọi các giao điểm tại các vết gấp và khi duỗi thẳng là A,B,C, A’ và D là đỉnh của góc <strong>x°</strong>.
+(Chú ý: CD là sự tái tạo đoạn thẳng thật từ đoạn thẳng ảo trùng phương với BC)
+Sử dụng tính chất tam giác ABC cân tại A và tính chất AC// A'B; AB// A'C<strong> </strong>suy ra 5 góc xuất hiện trong hình vẽ cùng bằng nhau và cùng bằng 23°. Trong tam giác DBC ta có:
+<strong>x° = Góc BDC = 180° - (23° + 23° + 23°) = 111°</strong>

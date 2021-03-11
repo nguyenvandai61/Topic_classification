@@ -1,0 +1,11 @@
+Bài toán lớp 1 về cây nấm và chú lùn
+https://vnexpress.net/bai-toan-lop-1-ve-cay-nam-va-chu-lun-4224587.html
+Bài toán lớp 1 trong kỳ thi Olympic Toán quốc tế năm 2019 có một điểm mắc khiến nhiều phụ huynh hoang mang.
+<strong>Đề bài:</strong>
+Mỗi cây nấm che được số chú lùn bằng số chấm trên mũ nấm. Hình dưới đây là mặt trước của mỗi cây nấm, số chấm ở mặt khuất giống như mặt trước.
+Nếu 30 chú lùn đang tìm chỗ trú mưa, có bao nhiêu chú lùn bị ướt?
+a. 2
+b. 3
+c. 4
+d. 5
+e. 6

@@ -1,0 +1,10 @@
+Hai tuyến cáp quang biển gặp sự cố
+https://vnexpress.net/hai-tuyen-cap-quang-bien-gap-su-co-4218671.html
+
+Cáp quang biển APG và IA gặp sự cố khiến kết nối Internet của người dùng Việt Nam đi quốc tế chập chờn.
+
+Từ sáng 9/1, nhiều người dùng Internet tại Việt Nam cho biết việc truy cập Internet trên các dịch vụ quốc tế như Facebook, Netflix... không ổn định, có lúc mất kết nối. Một nhà mạng cung cấp dịch vụ Internet (ISP) ở Việt Nam xác nhận tuyến cáp quang biển Asia Pacific Gateway (APG) gặp sự cố trên phân đoạn cáp kết nối tới Hong Kong và Nhật Bản vào sáng 9/1. Nguyên nhân chưa được thông báo cụ thể.
+Ngay sau khi phát hiện vấn đề, các nhà cung cấp dịch vụ Internet đã điều chuyển lưu lượng sang các tuyến cáp biển khác và cáp đất liền đi quốc tế để duy trì kết nối cho người dùng. Việt Nam hiện có năm tuyến cáp quang biển đi quốc tế, ngoài tuyến APG và IA đang gặp sự cố, ba tuyến khác là AAG, AAE-1 và SMW3.
+Tốc độ Internet hiện tại đã ổn định trở lại. Tốc độ Internet trung bình đo được tại TP HCM vào 17h ngày 9/1 đạt trên 40 Mb/giây. Người dùng có thể dùng các dịch vụ Internet bình thường, một số dịch vụ quốc tế như chat Messenger, Netflix thi thoảng bị chậm.
+Trước đó, trưa 1/1, tuyến cáp quang biển Liên Á - Intra Asia (IA) trục trặc. Nguyên nhân là lỗi cáp trên phân đoạn 1, cách trạm cập bờ tại Singapore khoảng 49 km. Việc này ảnh hưởng toàn bộ dung lượng kết nối hướng Singapore.
+APG được đánh giá là tuyến cáp quang ổn định, được vận hành từ cuối năm 2016 và có sự tham gia của các nhà mạng Việt Nam VNPT, Viettel, FPT Telecom, CMC Telecom. Trong khi đó, IA là tuyến cáp quan trọng để trung chuyển lưu lượng từ Việt Nam đến châu Âu, châu Mỹ. Tuyến cáp quang biển này dài 6.900 km, được đưa vào khai thác từ tháng 11/2009.

@@ -1,0 +1,9 @@
+Phần mềm khôi phục dữ liệu ổ cứng Data Recovery Wizard
+https://vnexpress.net/phan-mem-khoi-phuc-du-lieu-o-cung-data-recovery-wizard-4204780.html
+
+Dữ liệu trên ổ cứng, USB, thẻ nhớ có thể được phục hồi bằng phần mềm miễn phí Data Recovery Wizard, tương thích cả hệ điều hành Windows và MacOS.
+
+Với những người am hiểu về công nghệ, phần mềm phục hồi dữ liệu là công cụ không xa lạ. Trên thị trường, nhiều sản phẩm có tính phí, nhưng cũng không ít phần mềm miễn phí, với hiệu quả cứu dữ liệu cao. <a href="https://www.easeus.com/datarecoverywizard/free-data-recovery-software.htm" rel="nofollow" target="_blank">Data Recovery Wizard</a> là một trong số đó khi cung cấp cả phần miễn phí và tính phí.
+Cụ thể, phần mềm này có thể phục hồi hầu hết các định dạng dữ liệu khác nhau trên ổ cứng máy tính như HDD và SSD. Tuy nhiên, với phiên bản miễn phí thì chỉ phục hồi tối đa được 2 GB. Trong trường hợp cần cứu hộ với lượng dữ liệu lớn hơn, người dùng có thể mua bản trả phí giá khoảng 1,13 triệu đồng.
+Với phần mềm này, người dùng có thể <a href="https://www.easeus.com/resource/hard-disk-data-recovery.htm" rel="nofollow" target="_blank">phục hồi dữ liệu trên ổ cứng</a> máy tính, thẻ nhớ SD, ổ USB, và nhiều thiết bị lưu trữ dữ liệu khác. Data Recovery Wizard cũng có thể phục hồi phân vùng đã bị xóa, thường dùng cho trường hợp cài lại Win và mất sạch dữ liệu. Người dùng có thể lựa chọn file cần phục hồi. Đối với file ảnh định dạng JPEG/JPG, người dùng có thể xem nội dung trước khi lấy lại. Các định dạng video phổ biến như MP4, MOV cũng có thể được phục hồi bằng phần mềm này.
+Phần mềm có thể tại trang chủ của EaseUS, đơn vị phát triển sản phẩm này. Cách cài đặt phần mềm <a href="https://vnexpress.net/phan-mem-khoi-phuc-du-lieu-o-cung-data-recovery-wizard-4204780-p2.html" title="tại đây">tại đây</a>

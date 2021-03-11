@@ -1,0 +1,14 @@
+Deepfake Nữ hoàng Anh gửi thông điệp Giáng sinh
+https://vnexpress.net/deepfake-nu-hoang-anh-gui-thong-diep-giang-sinh-4211169.html
+
+Một kênh tin tức của Anh đã đăng thông điệp Giáng sinh trong đó giả mạo Nữ hoàng Anh Elizabeth bằng công nghệ video deepfake.
+
+Đoạn video dài gần 5 phút được đăng tải bởi <em>Channel 14</em> - đài truyền hình chuyên phát sóng các chương trình nổi tiếng ở Anh. Đại diện <em>Channel 14</em> cho biết ý định đưa ra video là để cảnh báo về tin tức giả mạo trong thời đại kỹ thuật số.
+Video thông điệp Giáng sinh giả mạo Nữ hoàng Anh đề cập đến một số chủ đề gây tranh cãi thời gian qua, trong đó có quyết định rời vương quốc Anh của vợ chồng Harry - Meghan. Bên cạnh đó, video cũng ám chỉ đến quyết định từ bỏ nhiệm vụ hoàng gia của Hoàng tử Andrew, Công tước xứ York, đầu năm nay sau một cuộc phỏng vấn với <em>BBC</em> về mối quan hệ của mình với tỷ phú tội phạm tình dục Jeffrey Epstein.
+Trong video, hình ảnh Nữ hoàng Anh Elizabeth khá sắc nét. Khuôn mặt và biểu cảm của bà cũng được đánh giá là y như thật. Video tạo bởi studio Framestore bằng công nghệ VFX và được lồng tiếng bởi nữ diễn viên người Anh Debra Stephenson.
+"Với tư cách là một diễn viên, điều đó với tôi thật kỳ lạ, nhưng cũng thật đáng sợ, nhất là khi video này được dùng trong những bối cảnh khác", Stephenson nói.
+Tuy nhiên, Nicholas Witchell, phóng viên chuyên viết về Hoàng gia Anh của <em>BBC</em>, nói rằng anh không mấy ấn tượng. "Đã vô số lần video bắt chước Nữ hoàng xuất hiện. Lần này hình ảnh không đặc biệt tốt", Witchell nhận xét. "Giọng nói không chuẩn. Việc đồng bộ giữa giọng nói và khuôn miệng cũng thất bại".
+Hàng năm, Nữ hoàng Anh thường gửi thông điệp Giáng sinh qua <em>BBC</em> và kênh <em>ITV</em>. Điện Buckingham chưa đưa ra bình luận nào về video deepfake do Channel 14 đăng tải.
+<a href="https://vnexpress.net/deepfake-bong-ma-trong-the-gioi-internet-4034159.html" rel="dofollow">Deepfake</a> là sự kết hợp giữa "deep learning" và "fake" - công nghệ nổi lên từ 2018 và phát triển mạnh sau đó. Về cách thức hoạt động, deepfake sử dụng AI để quét video và ảnh chân dung một người sau đó hợp nhất với video riêng biệt và thay thế các chi tiết trên gương mặt như mắt, miệng, mũi với chuyển động gương mặt, giọng nói như thật.
+Gần đây, Microsoft đã ra công cụ phát hiện video deepfake có tên Video Authenticator. Nó sẽ được triển khai đầu tiên dưới dạng tiện ích mở rộng cho các trình duyệt, nhưng chưa rõ thời gian phổ biến cho người dùng cuối.
+Nina Schick, một chuyên gia về deepfake, cho rằng, nếu không sử dụng đúng mục đích, công nghệ này sẽ rất đáng lo ngại. "Deepfake đang mang lại những cơ hội to lớn về thương mại và sáng tạo, nhưng cũng là một công nghệ được vũ khí hóa trong tương lai", Schick dự đoán.

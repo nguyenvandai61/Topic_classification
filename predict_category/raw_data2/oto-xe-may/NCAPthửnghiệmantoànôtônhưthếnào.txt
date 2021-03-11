@@ -1,0 +1,23 @@
+NCAP thử nghiệm an toàn ôtô như thế nào?
+https://vnexpress.net/ncap-thu-nghiem-an-toan-oto-nhu-the-nao-4196532.html
+Trong nhiều tiêu chí để đánh giá độ an toàn của một chiếc xe thì NCAP là tiêu chuẩn được các hãng xe mong muốn có được.
+NCAP tên viết tắt của New Car Assessment Programme, chương trình thử nghiệm và đánh giá an toàn của xe mới được ra mắt vào năm 1979 tại Mỹ. Chương trình sau đó được mở rộng tại các nước Châu Âu và có trụ sở tại Bỉ, thành lập năm 1997 bởi phòng thí nghiệm nghiên cứu giao thông của Bộ giao thông Anh và được hỗ trợ bởi một số chính phủ châu Âu. Tại khu vực Đông Nam Á, tổ chức này có tên gọi ASEAN NCAP, trụ sở tại Malaysia.
+Các xe được chấm điểm dựa trên mức độ an toàn rồi xếp loại thông qua số sao (sao an toàn). Sao càng cao thì độ an toàn càng lớn, tiêu chuẩn cao nhất hiện tại là năm sao.
+Để đưa ra được kết quả cuối cùng, tổ chức này sẽ thực hiện các bài thử nghiệm với nhiều đánh giá khác nhau và phân tích trên nhiều yếu tố được tư vấn bởi các chuyên gia về kỹ thuật và sức khỏe.
+<strong>Va chạm với vật thể di động</strong>
+Chiếc xe thử nghiệm được đẩy đi với tốc độ 50 km/h va chạm với thanh chắn có thể biến dạng, vật thể va chạm có trọng lượng 1,4 tấn. Cũng có thể sử dụng một chiếc xe khác cũng đang di chuyển với tốc độ 50 km/h.
+<strong>Va chạm với vật thể cứng</strong>
+Chiếc xe thử nghiệm được lái vào một hàng rào cứng ở tốc độ 64 km/h. Một hình nộm phụ nữ ngồi ở vị trí lái xe và trẻ nhỏ ở ghế sau. Mục đích là để kiểm tra hệ thống an toàn bị động của ôtô, ví dụ như túi khí hay dây đai an toàn.
+<strong>Va chạm với thân xe từ vật thể di động</strong>
+Một thanh chắn có thể biến dạng được gắn trên xe đẩy và được đẩy đi với tốc độ 50 km/h vào thành bên của xe thử nghiệm đứng yên ở một góc vuông. Trong thực tế điều này giống với việc xe bị va chạm bên hông bởi một xe khác.
+<strong>Va chạm với cột đứng</strong>
+Xe được đẩy sang ngang với tốc độ 29 km/h va vào một cột cứng, hẹp ở một góc nhỏ so với phương vuông góc để mô phỏng một chiếc xe đi ngang vào các vật thể bên đường như cây hoặc cột điện.
+<strong>Tác động của hệ thống an toàn vào hành khách bên trong</strong>
+Xe được đặt cố định nhưng được đẩy đi và phanh gấp để xác định giao động của hành khách. Nếu xe được trang bị túi khí trung tâm và rèm thì người lái hoặc hành khách phía trước sẽ được giảm tác động lên người.
+Thử nghiệm chấn thương cổ: ghế xe được đẩy về phía trước nhanh chóng ở cả hai giải tốc độ 16 và 24 km/h để kiểm tra ghế và khả năng bảo vệ đầu, cổ trong một tác động từ va chạm phía sau.
+<strong>Thử nghiệm va chạm tác động bên ngoài (người đi bộ hoặc xe đạp)</strong>
+Bài thử nghiệm sẽ xem xét tác động của xe lên người bên ngoài theo từng vị trí gồm đầu, chân, đùi, ống chân, người đi bộ, đi xe đạp... Tại một số nước Châu Âu, ôtô còn được trang bị thêm túi khí cho người đi bộ, và các vị trí cần bên ngoài phải làm các vật liệu giảm thiểu tổn thương cho người đi bộ và xe đạp.
+Sau khi kiểm tra các bài thử nghiệm theo đúng quy trình, các chuyên gia sẽ xem xét tác động tới hành khách, mức độ thiệt hại của người và xe sau đó quy đổi ra thành điểm. Từ điểm số sẽ xác định xe có vượt qua bài thử nghiệm hay không và xếp loại theo sao.
+Tuy nhiên, tùy thị trường, tiêu chí về an toàn và điểm số sẽ có khác nhau do Ủy ban an toàn giao thông tại khu vực đó quy định và mức độ khắt khe của từng thị trường. Hiện NCAP có năm khu vực chính với NCAP tại Bắc Mỹ sau đó Euro, China (CN), Latin, Australia (AN) và ASEAN NCAP tại các khu vực còn lại.
+Châu Âu (Euro NCAP) và Bắc Mỹ là khu vực có tiêu chuẩn về an toàn cao nhất. Đến năm 2021 một số nước châu Âu dự kiến sẽ buộc các xe bán ra phải có đủ tiêu chuẩn an toàn Euro NCAP năm sao.
+Ngoài các bài thử nghiệm căn bản về va chạm và an toàn bị động, hiện tại tổ chức NCAP nói chung còn mở rộng thêm các kiểm tra về các tính năng an toàn chủ động (phanh khẩn cấp, cảnh báo phương tiện cắt ngang...) và các tình huống va chạm thực tế với nhiều điều kiện giao thông khác nhau.

@@ -1,0 +1,8 @@
+Google Cloud AI hỗ trợ đọc bằng tiếng Việt
+https://vnexpress.net/google-cloud-ai-ho-tro-doc-bang-tieng-viet-4216737.html
+
+Trợ lý ảo được phát triển bởi Google sẽ hỗ trợ người đọc tìm kiếm nội dung trên website, báo điện tử, sau đó đọc lên bằng tiếng Việt.
+
+Thanh Niên Online là báo đầu tiên sử dụng nền tảng Google Cloud AI để hỗ trợ người đọc tìm kiếm nội dung, cho phép người dùng yêu cầu trợ lý ảo AI mở các mục yêu thích và đọc bằng giọng nói mà không cần sử dụng nhiều thao tác trên điện thoại hoặc máy tính. Khi vừa truy cập trang web, người dùng đã có thể kích hoạt AI bằng câu lệnh, sau đó có thể yêu cầu mở trang bất kỳ, đọc bài viết bất kỳ cho bạn nghe.
+Bên cạnh đó, với câu hỏi "Hôm nay có gì mới", "Mở một bài hát"... AI sẽ cho câu trả lời dựa trên kết quả tìm kiếm. AI này có thể đổi giọng đọc từ nam sang nữ hoặc ngược lại. Ngoài ra, trợ lý ảo này còn tự đề xuất tin bài mà bạn đọc ưa thích dựa trên sở thích của từng người.
+Trải nghiệm thực tế cho thấy trợ lý ảo AI hoạt động chính xác, tuy nhiên, tốc độ phản hồi chưa nhanh. Do sử dụng AI, người dùng càng tương tác nhiều, tốc độ phản hồi của máy học sẽ tăng lên, đồng thời các cơ chế đề xuất kết quả tìm kiếm sẽ hiệu quả hơn.

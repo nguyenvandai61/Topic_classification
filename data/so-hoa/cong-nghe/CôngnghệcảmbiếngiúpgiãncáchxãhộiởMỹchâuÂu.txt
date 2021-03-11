@@ -1,0 +1,28 @@
+Công nghệ cảm biến giúp giãn cách xã hội ở Mỹ, châu Âu
+https://vnexpress.net/cong-nghe-cam-bien-giup-gian-cach-xa-hoi-o-my-chau-au-4227054.html
+
+Mùa giải bóng rổ Mỹ từng phải ngừng140 ngày khi một cầu thủ dương tính nCoV. Cuối tháng 7/2020, khi các trận đấu được nối lại, không có thêm cầu thủ nào nhiễm.
+
+Ban tổ chức chặn được nguy cơ bùng phát Covid-19 bằng cách yêu cầu các đội sinh hoạt và thi đấu tại khu vực tách biệt - gọi là "Bubble" (Bong bóng), nằm tại khu nghỉ dưỡng Disney World ở bang Florida.
+Bên cạnh đó, cầu thủ, huấn luyện viên và nhân viên phải đeo một loại vòng tay ngoài sân đấu, những phóng viên đưa tin về đội bóng cũng vậy. Một chip kỹ thuật số siêu nhỏ trong vòng tay giúp thực thi các biện pháp giãn cách cộng đồng bằng cách phát cảnh báo âm thanh và ánh sáng khi người đeo ở quá gần nhau trong thời gian dài.
+Loại vòng tay này cũng được nhiều tổ chức thể thao trên thế giới sử dụng.
+Kinexon, startup sản xuất vòng tay điện tử trên có trụ sở tại Munich, vui mừng khi sản phẩm được đề cập trong nỗ lực ngăn các vận động viên nhiễm nCoV, ngay cả khi thiết bị đặt ra nhiều lo ngại về tính riêng tư. Hãng đang nhắm tới những lĩnh vực rộng hơn, như dây chuyền sản xuất công nghiệp, nhà kho và trung tâm hậu cần, nơi hàng triệu người vẫn đang làm việc giữa đại dịch Covid-19.
+Một trong những doanh nghiệp đang hợp tác với Kinexon là Henkel, nhà sản xuất hóa chất gia dụng và công nghiệp toàn cầu có trụ sở tại Đức. Wolfgang Weber, quản lý cấp cao của Henkel, cho biết họ đã thiệt hại hàng triệu USD vì lệnh đóng cửa hai tuần sau khi hơn 10 công nhân ở nhà máy tại Serbia nhiễm nCoV năm ngoái.
+Henkel đã thử nghiệm phiên bản sơ khai của cảm biến đeo tay do Kinexon phát triển, vốn được thiết kế để tránh va chạm giữa xe nâng hàng và công nhân tại những khu vực có nhiều hoạt động trong nhà máy. Cảm biến của hệ thống này sẽ tự động dừng xe nâng nếu nó ở quá gần công nhân.
+Sau đợt bùng phát Covid-19 ở nhà máy Serbia và quá trình phong tỏa trong đợt dịch đầu tiên, Kinexon đã đề xuất Henkel thử nghiệm một phiên bản mới mang tên SafeZone. Cảm biến chỉ nặng 14 g, có thể đeo trên cổ tay như đồng hồ hoặc trên cổ như huy hiệu. Nó sẽ phát tiếng động và chớp sáng khi phát hiện cảm biến tương tự ở khoảng cách và thời gian nhất định.
+Henkel đồng ý thử nghiệm sản phẩm này. Đó là điều rất quan trọng với Kinexon.
+"Điều quan trọng là nó không chỉ hoạt động trong phòng thí nghiệm, mà có thể được triển khai ở những nơi cần, dù đó là trong nhà máy hay trên sân đấu thể thao", Oliver Trinchera, người đồng sáng lập kiêm giám đốc Kinexon, cho hay.
+Henkel thử nghiệm hệ thống với toàn bộ nhân lực tại nhà máy ở Raciborz, Phần Lan, nơi có khoảng 250 công nhân làm việc ba ca mỗi ngày để sản xuất chất tẩy cho khu vực Trung Âu. Cảm biến được lập trình để phát cảnh báo khi hai người ở cách nhau 1,5 m trong hơn 5 giây.
+Cảm biến đo khoảng cách sử dụng tín hiệu băng thông siêu rộng, được Kinexon cho là có độ chính xác cao hơn và tiêu thụ ít năng lượng hơn Bluetooth.
+Mirella Zielinska, người đã làm ở nhà máy tại Raciborz trong 5 năm, cho biết cô nhanh chóng quen với việc đeo thiết bị trên cổ tay. Nó nhắc nhở cô duy trì giãn cách trong dây chuyền sản xuất tốc độ cao. "Ban đầu chúng tôi hơi lo lắng, nhưng giờ đã bình thường", Zielinska nói.
+Vẫn có một số vấn đề xuất hiện trong quá trình thử nghiệm. Cảm biến ghi nhận khoảng cách xuyên qua tường ngăn nhà vệ sinh và phát cảnh báo vào những thời điểm không phù hợp. Công nhân đeo cảm biến trong suốt ca làm việc, họ giữ khoảng cách ngay cả khi ăn trưa trong căng tin.
+Adrian Wycisk, quản lý nhà máy, cho rằng tiếng cảm biến giống âm thanh cảnh báo trong ôtô khi hành khách không đeo dây an toàn. "Nó thay đổi hành vi của tài xế", Wycisk nói, thêm rằng ông đã chứng kiến sự cải thiện trong duy trì khoảng cách an toàn giữa các công nhân.
+Hệ thống cũng lưu trữ thông tin về thời điểm các công nhân ở gần nhau trong nhiều tuần. Đây là công cụ hữu hiệu để truy dấu tiếp xúc khi một người nhiễm nCoV, nhưng cũng gây lo ngại về khả năng lãnh đạo nhà máy theo dõi mọi cử động của công nhân trong ca làm việc.
+Henkel cho biết tập đoàn chỉ cấp quyền truy cập dữ liệu cho số lượng nhỏ quản lý cấp cao và khẳng định họ đã phát tờ rơi giải thích rằng cảm biến sẽ không được dùng để theo dõi di biến động của công nhân. Dữ liệu chỉ ghi lại nhân viên nào giao tiếp với nhau, không phải nơi giao tiếp diễn ra. Wycisk thêm rằng Henkel cam kết chỉ truy cập dữ liệu khi cần truy dấu ca nhiễm nCoV.
+Công đoàn đại diện cho công nhân Henkel từ chối bình luận về công nghệ này.
+Trong dài hạn, công nghệ này cũng giúp Henkel điều chỉnh là một số quy trình sản xuất để tránh tiếp xúc gần.
+Kinexon đã bán công nghệ cho nhiều tập đoàn sản xuất và vận tải ở Đức. Họ đang làm việc với nhiều doanh nghiệp Mỹ, nhưng điều khoản hợp đồng không cho phép Kinexon tiết lộ danh tính đối tác.
+Công ty này cho biết đã cung cấp sản phẩm cho hơn 200 doanh nghiệp toàn cầu, khẳng định những cảm biến có giá 100 - 200 USD của họ đã ngăn 1,5 triệu lần tiếp xúc mỗi ngày, dù con số này khó có thể được xác nhận.
+Đợt thử nghiệm dài 6 tuần ở Raciborz, trong đó không có công nhân nào dương tính nCoV, thuyết phục được Henkel triển khai công nghệ cảm biến tại các nhà máy sản xuất hóa chất tẩy rửa trong năm nay. Số người đeo cảm biến trong 52.000 công nhân toàn cầu sẽ phụ thuộc thời gian đại dịch hoành hành.
+Nếu vaccine Covid-19 thành công và đại dịch bị đánh bại trong năm nay, các cảm biến có thể được tái sử dụng với mục tiêu nguyên gốc, đó là ngăn chặn va chạm giữa người lao động và xe nâng. Lãnh đạo tập đoàn tỏ ra không lo ngại khi số cảm biến cho nhiệm vụ này ít hơn số lượng đã mua từ Kinexon.
+"Tôi vẫn cho rằng đây là thành công", Weber nói.

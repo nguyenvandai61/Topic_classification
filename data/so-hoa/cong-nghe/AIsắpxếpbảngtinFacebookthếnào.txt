@@ -1,0 +1,10 @@
+AI sắp xếp bảng tin Facebook thế nào
+https://vnexpress.net/ai-sap-xep-bang-tin-facebook-the-nao-4227728.html
+
+Thay vì hiển thị bảng tin theo thứ tự thời gian, Facebook sử dụng thuật toán AI để cá nhân hóa bài đăng dựa theo thói quen người dùng.
+
+Facebook giải thích một số chi tiết về cách AI sắp xếp bài đăng trên News Feed thông qua một nhân vật tưởng tượng tên Juan.
+Kể từ lần cuối Juan đăng nhập hôm qua, người bạn Wei của anh đưa lên một bức ảnh chụp chú chó cưng. Một người bạn khác, Saanvi, đã đăng một video về việc chạy bộ buổi sáng. Page yêu thích của Juan nói về cách tốt nhất để ngắm dải Ngân hà vào ban đêm. Trong khi đó, group nấu ăn yêu thích của anh đăng bốn công thức làm bột chua mới. Tất cả đều liên quan và phù hợp với Juan vì anh đã chọn theo dõi chúng.
+Với lượng dữ liệu này, mô hình học máy của Facebook bắt đầu tính toán xác suất Juan sẽ "click" vào đâu đầu tiên. Thuật toán sẽ đi gom các bài từ nguồn Bạn bè, nhóm hoặc trang mà Juan tương tác gần đây nhất. Sau đó, nó cho điểm mỗi bài đăng dựa trên các yếu tố, chẳng hạn nội dung có được chia sẻ nhiều không, độ tương đồng của bài với những gì Juan thường tương tác.
+Tiếp theo, một mô hình khác sẽ thu hẹp nhóm ứng viên, cho phép mạng lưới thần kinh AI đánh giá và cho điểm các bài đăng còn lại. Điểm số này sẽ xác định thứ tự sắp xếp các bài đăng trên bảng tin của Juan. Cuối cùng, hệ thống bổ sung các nội dung theo ngữ cảnh để đa dạng hóa News Feed.
+Toàn bộ quá trình này diễn ra trong vài mili giây khi người dùng mở ứng dụng Facebook.

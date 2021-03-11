@@ -1,0 +1,41 @@
+Tranh cãi xung quanh hộ chiếu vaccine điện tử
+https://vnexpress.net/tranh-cai-xung-quanh-ho-chieu-vaccine-dien-tu-4246436.html
+
+Trong khi một số quốc gia ủng hộ ý tưởng hộ chiếu vaccine, số khác vẫn lo ngại ảnh hưởng của nó tới quyền riêng tư và xã hội.
+
+Tuần trước, Hiệp hội Vận tải Hàng không Quốc tế (IATA) công bố một ứng dụng thông hành kỹ thuật số mới, cho phép hành khách thực hiện các chuyến bay quốc tế mà không cần cách ly.
+Ứng dụng hiện được thí điểm ở 30 hãng bay, cho phép chính phủ và các hãng hàng không thu thập, truy cập và chia sẻ thông tin được mã hóa liên quan đến tình trạng tiêm chủng và xét nghiệm Covid-19 của hành khách trước khi họ lên máy bay.
+Phòng Thương mại Quốc tế và Diễn đàn Kinh tế Thế giới gần đây cũng giới thiệu các ứng dụng tương tự - ICC AOKpass và CommonPass - để khách du lịch ghi lại tình trạng y tế dưới dạng điện tử. Trong khi đó, tại Đan Mạch và Thụy Điển, chính phủ đã triển khai hộ chiếu sức khỏe điện tử cho toàn bộ công dân đã tiêm chủng, thậm chí ngay cả những "gã khổng lồ" công nghệ cũng đang tỏ ra hứng thú với ý tưởng này.
+<strong>Hộ chiếu vaccine điện tử là gì?</strong>
+Còn được gọi là thẻ sức khỏe kỹ thuật số, hộ chiếu vaccine là một loại tài liệu kỹ thuật số chứng minh một cá nhân đã được tiêm phòng virus, trong trường hợp này là Covid-19. Được lưu trữ trên điện thoại hoặc ví kỹ thuật số, dữ liệu hiển thị dưới dạng mã QR này cũng có thể cung cấp thông tin liệu một người đã xét nghiệm âm tính với virus hay chưa.
+Loại dữ liệu như vậy không phải là chưa từng xuất hiện. Trong trường hợp du lịch đến một số quốc gia châu Phi, hành khách bắt buộc phải xuất trình giấy chứng nhận đã tiêm phòng các bệnh như tả, sốt vàng da hay rubella.
+Tuy nhiên, hộ chiếu Covid-19 đánh dấu lần đầu tiên ngành công nghiệp hàng không tập hợp lại sau một giải pháp điện tử được thiết kế để cải thiện khả năng xác minh và thay thế giấy tờ truyền thống.
+"Hãy tưởng tượng khung cảnh 180.000 người xuất trình một tờ giấy cần được kiểm tra và xác nhận kỹ lưỡng", Mike Tansey, Giám đốc điều hành tại công ty tư vấn Accenture, nói về số lượng hành khách hằng ngày trước đại dịch tại sân bay Changi, Singapore.
+<strong>Phải có hộ chiếu vaccine để đi lại</strong>
+Tansey hiện tư vấn về chiến lược áp dụng hộ chiếu vaccine cho một số hãng hàng không lớn ở Mỹ và Châu Á - Thái Bình Dương. Ông cho biết, những dự án triển khai hộ chiếu vaccine đã được tăng tốc nghiên cứu sau khi nhiều quốc gia bắt đầu tiêm vaccine Covid-19 cho công dân. "Câu trả lời rõ ràng là có", ông Tansey nói, khi được hỏi liệu có cần hộ chiếu vaccine để được đi du lịch hay không.
+"Các chính phủ có thể không bắt buộc bạn phải sở hữu hộ chiếu vaccine, nhưng hệ lụy của việc không có sẽ vô lý đến mức việc đi lại sẽ không còn giá trị", ông nói, đề cập đến việc xét diện rộng và cách ly "hà khắc".
+<strong>Lo ngại về bảo mật </strong>
+Ngoài Tansey, các chuyên gia khác cũng đồng ý rằng hộ chiếu sức khỏe kỹ thuật số là cách nhanh và hiệu quả nhất để khôi phục du lịch quốc tế.
+Jase Ramsey, Giáo sư quản lý tại Đại học Kinh doanh Lutgert thuộc Đại học Bờ biển Vịnh Florida, đồng ý rằng khả năng hộ chiếu vaccine được chấp nhận là "rất cao", nhưng ông lưu ý rằng những lo ngại xung quanh vấn đề bảo mật và dữ liệu cá nhân có thể khiến nhiều người không sẵn sàng với các loại thẻ sức khỏe kỹ thuật số và lựa chọn loại hình giấy chứng minh truyền thống.
+Ramsey nói: "Như với bất kỳ ứng dụng nào lưu trữ hồ sơ sức khỏe, sẽ có những lo ngại về quyền riêng tư và gian lận".
+Tại Singapore, chương trình sàng lọc Covid-19 của nước này đang sử dụng công nghệ xác thực của Accredify. Công ty này cho biết, hệ thống xác nhận kỹ thuật số của hãng được xây dựng dựa trên công nghệ blockchain, do đó, không thể bị làm giả.
+"Các tài liệu y tế được lưu trữ riêng tư và an toàn trên ứng dụng mà chỉ người dùng mới có thể truy cập được, cho phép họ quyết định chia sẻ hồ sơ y tế của mình với ai và khi nào", đại diện của Accredify nói.
+Một khảo sát gần đây từ trang tin tức du lịch <em>The Vacationer</em> cho thấy 73,6% người Mỹ nói sẽ sử dụng hộ chiếu hoặc ứng dụng y tế để các hãng hàng không và chính quyền biên giới có thể kiểm tra tình trạng tiêm chủng và kết quả xét nghiệm của họ.
+<strong>Thách thức với hộ chiếu vaccine </strong>
+Sự thành công của hộ chiếu y tế kỹ thuật số phụ thuộc vào hiệu quả của vaccine, bởi vẫn còn quá sớm để khẳng định vaccine có thể ngăn sự lây lan của Covid-19.
+Tổ chức Y tế Thế giới (WHO) đã kêu gọi thận trọng với các loại hộ chiếu y tế, yêu cầu các nhà chức trách và nhà điều hành du lịch không coi bằng chứng về việc tiêm chủng là điều kiện để đi du lịch quốc tế.
+Người phát ngôn của WHO cho biết: "Điều này là do hiệu quả của vaccine trong việc ngăn ngừa sự lây truyền chưa rõ ràng và nguồn cung cấp vaccine toàn cầu còn hạn chế".
+Việc liên kết rất nhiều loại hộ chiếu vaccine hiện có trên thị trường nhằm đảm bảo chứng nhận được xác minh và phê duyệt bởi các cơ sở y tế sẽ là một thách thức lớn.
+Tiến sĩ Harry Severance, trợ lý giáo sư tại Đại học Y khoa Duke, cho biết: "Để hộ chiếu vaccine trở thành một công cụ thiết thực quốc tế, cần phải có một nền tảng tiêu chuẩn hóa vượt qua mọi ranh giới - chẳng hạn hệ thống hộ chiếu hiện tại".
+WHO đang làm việc với các cơ quan bao gồm Hiệp hội Vận tải Hàng không Quốc tế và Tổ chức Hàng không Dân dụng Quốc tế để phát triển các tiêu chuẩn cho hộ chiếu vaccine.
+<strong>Hệ lụy xã hội </strong>
+Theo WHO, khoảng 3,6 tỷ người trên toàn cầu không thể truy cập Internet và hơn 1,1 tỷ người không thể chính thức chứng minh danh tính của mình. Đối với nhiều người, giấy thông hành truyền thống sẽ vẫn rất cần thiết.
+Tiến sĩ Sharona Hoffman, Giáo sư đạo đức sinh học tại Trường Y thuộc Đại học Case Western Reserve, cho biết: "Người dân của nhiều quốc gia và khu vực có thể không được tiếp cận với vaccine hoặc xét nghiệm Covid-19 cho đến năm 2023 hoặc xa hơn. Chính sách ngăn cản họ đi lại hoặc tiếp nhận các dịch vụ khác vì không có hộ chiếu vaccine có thể mang tính phân biệt đối xử và làm trầm trọng thêm sự chênh lệch kinh tế xã hội".
+Các hệ thống hộ chiếu vaccine cũng có thể tạo tiền lệ cho các ngành khác, vốn đang mong mỏi được mở cửa đón khách trở lại. Trên thực tế, tại Israel, chính phủ nước này đã tạo ra một "hộ chiếu xanh" cho phép các công dân được tiêm chủng đến các địa điểm công cộng.
+"Khi một cộng đồng chấp nhận đi theo, nhiều cộng đồng khác sẽ làm theo. Khi các quyết định như vậy lan rộng trên toàn quốc, bạn có thể thấy rằng hộ chiếu vaccine trở thành một tiêu chuẩn không thể thiếu", ông Severance nói.
+<strong>Tương lai của ngành du lịch</strong>
+Cuối cùng, việc nối lại du lịch quốc tế sẽ phụ thuộc rất nhiều vào mức độ sẵn sàng mở cửa trở lại của các quốc gia cũng như dựa trên công nghệ xác minh tại chỗ.
+Tansey thuộc công ty Accenture cho biết, hiện tại các nước Châu Á - Thái Bình Dương vẫn đóng cửa với khách du lịch, tuy nhiên, trong thời gian tới họ có thể hướng tới các thỏa thuận song phương hay còn gọi là "bong bóng du lịch" với một số nước láng giềng trước khi mở cửa rộng rãi hơn.
+Với những thành tựu công nghệ và xu hướng chuyển đổi số hiện nay, hộ chiếu vaccine kỹ thuật số có thể là giải pháp giúp ngành du lịch và xã hội chuẩn bị tốt hơn trước bất kỳ biến cố nào phía trước.
+"Nếu chúng ta phát triển thành công một hệ thống hộ chiếu sức khỏe trên quy mô quốc tế, đó sẽ là một hệ thống phòng thủ hiệu quả, cho phép chúng ta sống sót qua một đại dịch thậm chí còn tồi tệ hơn Covid-19", Severance nói.
+<strong>Đăng Thiên</strong> (theo <em>CNBC</em>)

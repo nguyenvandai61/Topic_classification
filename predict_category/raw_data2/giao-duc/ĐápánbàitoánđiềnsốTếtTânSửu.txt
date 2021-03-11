@@ -1,0 +1,31 @@
+Đáp án bài toán điền số Tết Tân Sửu
+https://vnexpress.net/dap-an-bai-toan-dien-so-tet-tan-suu-4237608.html
+Phương pháp chung giải bài toán là dựa vào đặc điểm ba chữ T xuất hiện biểu thị cùng một số khác 0 rồi dùng đánh giá để thu hẹp các khả năng.
+<strong>Đề bài:</strong>
+Các chữ cái khác nhau sẽ biểu thị các chữ số khác nhau (không tính dấu). Bạn hãy điền các chữ số thay thế cho các chữ cái trong ba chữ "Tết", "Tân", "Sửu" để nhận được tổng ba số có 3 chữ số bằng 2021 và thỏa mãn các điều kiện sau đây:
+1. Chữ "Tết" có giá trị nhỏ nhất.
+2. Chữ "Tết" có giá trị lớn nhất.
+3. Chữ "Sửu" có giá trị nhỏ nhất.
+4. Chữ "Sửu" có giá trị lớn nhất.
+<strong>Hướng dẫn giải:</strong>
+Phương pháp chung giải bài toán là dựa vào đặc điểm 3 chữ T xuất hiện biểu thị cùng một chữ số khác 0 rồi dùng đánh giá để thu hẹp các khả năng, thử các trường hợp và biện luận.
+Chẳng hạn từ giả định "Nếu chữ số T nhỏ hơn 5" thì vế trái sẽ nhỏ hơn 500 + 500 + 999 = 1999 < 2021. Từ đó chữ số T nhỏ nhất là 5 và lớn nhất là 9. Với cách tiếp cận và nhận xét trên ta có các đáp án sau đây:
+1. Chữ "Tết" có giá trị nhỏ nhất là 505 với 4 đáp án:
+505 + 532 + 984 = 2021
+505 + 534 + 982 = 2021
+505 + 582 + 934 = 2021
+505 + 584 + 932 = 2021
+2. Chữ "Tết" có giá trị lớn nhất là 989 với 4 đáp án:
+989 + 905 + 127 = 2021
+989 + 907 + 125 = 2021
+989 + 925 + 107 = 2021
+989 + 927 + 105 = 2021
+3. Chữ "Sửu" có giá trị nhỏ nhất là 104 với 2 đáp án:
+939 + 978 + 104 = 2021
+979 + 938 + 104 = 2021
+4. Chữ "Sửu" có giá trị lớn nhất là 986 với 2 đáp án:
+515 + 520 + 986 = 2021
+525 + 510 + 986 = 2021
+<strong>Bình luận: </strong>
+Nếu không ràng buộc thêm yếu tố cực trị thì bài toán có 252 đẳng thức đúng, trở thành bài toán rất khó tìm được hết nghiệm nếu không dùng lập trình và như thế không phù hợp với dạng bài toán học sinh giỏi khối tiểu học.
+Từ đặc điểm 3 chữ T giống nhau và yêu cầu của bài toán cực trị chúng ta rất dễ tìm được đáp số đúng mà không cần viết hết tất cả phương án đúng. Định dạng các bài toán điền số cũng từng được sử dụng trong các kỳ thi Toán quốc tế.

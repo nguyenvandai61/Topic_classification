@@ -1,0 +1,10 @@
+Bẻ khóa chip M1 để đào tiền kỹ thuật số trên MacBook
+https://vnexpress.net/be-khoa-chip-m1-de-dao-tien-ky-thuat-so-tren-macbook-4242849.html
+
+Một kỹ sư Trung Quốc phát hiện ra MacBook dùng chip M1 có thể đào được tiền kỹ thuật số Ethereum.
+
+Theo mô tả của Gu Yifan - kỹ sư phần mềm của Zensors, hiệu suất khai thác Ethereum trên chip M1 khá thấp. Tốc độ trung bình khoảng 2 MH/giây, tiêu thụ điện năng khoảng 17-20 watt. Theo giá Ethereum hiện tại, mỗi ngày Yifan thu về 0,14 USD (3,2 nghìn đồng). Tuy nhiên, theo <em>Techradar</em>, để có thể đào được tiền kỹ thuật số trên MacBook, người dùng cần có kiến thức cơ bản về lập trình C/C++.
+Mặc dù dùng chip M1 để đào tiền kỹ thuật số không hiệu quả bằng dùng card đồ hoạ chuyên dụng, một số chuyên gia đánh giá việc này có thể mở ra hướng đi mới cho việc khai thác tiền kỹ thuật số trên các thiết bị bán chuyên. Năm ngoái, nhà phát triển XMRig đã khai thác thử tiền kỹ thuật số Monero bằng chip này, nhưng không thành công.
+Chip M1 được Apple giới thiệu vào tháng 11/2020, dựa trên cấu trúc ARM. Đây được xem là chip mạnh nhất Apple từng thiết kế cho MacBook, dựa trên tiến trình 5 nm với 16 tỷ bóng bán dẫn. So với chip trên bản tiền nhiệm, M1 cho hiệu suất CPU nhanh hơn 3,5 lần, hiệu suất GPU nhanh hơn 6 lần và máy học nhanh hơn 15 lần.
+Theo <em>Gizchina,</em> từ nửa cuối năm ngoái, ngành công nghiệp bán dẫn toàn cầu đã xảy ra tình trạng thiếu hụt chip chưa từng có. Điều này đang ảnh hưởng đến nhiều nhà sản xuất. Đáng chú ý, chip GPU bị ảnh hưởng nặng nề nhất. Nvidia đã công bố thế hệ card đồ hoạ mới từ năm ngoái, nhưng đến giờ vẫn không đáp ứng đủ nhu cầu của thị trường. Harlan Sur, nhà phân tích của <em>Morgan Stanley</em> tại Nhật Bản đánh giá nhu cầu dùng chip toàn cầu đã vượt khả năng sản xuất từ 10 đến 30%.
+Việc thiết hụt lượng lớn card đồ hoạ khiến thợ đào tiền điện tử phải tìm đến các phương án khác. Đây cũng có thể là một trong những lý do khiến kỹ sư Gu Yifan tìm cách "bẻ khoá" chip M1 của Apple.

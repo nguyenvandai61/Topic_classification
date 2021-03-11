@@ -1,0 +1,16 @@
+Việt Nam làm chủ công nghệ phát triển ăng-ten kết nối mạng 5G
+https://vnexpress.net/viet-nam-lam-chu-cong-nghe-phat-trien-ang-ten-ket-noi-mang-5g-4208037.html
+Hệ thống ăng ten MIMO đa búp sóng do TS Nguyễn Khắc Kiểm và cộng sự chế tạo có tốc độ truyền dữ liệu mạng 5G đạt tối thiểu 100 Mb/giây.
+Phân hệ ăng - ten MIMO có 64 phần tử thu phát tín hiệu ở tần số 5,8 GHz. Ảnh: <em>Nhóm nghiên cứu</em>.
+Hệ thống ăng-ten MIMO này cho phép búp sóng di chuyển theo người dùng, giúp<br/>
+tăng tốc độ truyền dẫn và giảm nhiễu khi lượng người dùng tăng. "Hệ thống hướng tới những tiêu chuẩn mới của các mạng di động sau 4G, sử dụng công nghệ massive MIMO, tức đa cổng vào - đa cổng ra với số lượng phần tử bức xạ rất lớn để cải thiện việc nhận tín hiệu, mở rộng khoảng cách truyền dẫn và tăng thông lượng. Ngoài ra, việc sử dụng kỹ thuật điều khiển búp sóng (beamforming) giúp tín hiệu được điều khiển thích nghi với người dùng và truyền tải một cách đảm bảo, hạn chế tối đa nhiễu hệ thống", TS Kiểm, Trưởng nhóm nghiên cứu nói.
+<span style="text-align:justify;">Bộ thiết bị có cấu tạo gồm phân hệ ăng-ten bức xạ, phân hệ xử lý số và tín hiệu,<br/>
+khối chương trình thuật toán điều khiển. Phần ăng-ten bức xạ gồm 64 phần tử thu<br/>
+phát tín hiệu, kích thước khoảng 25cm x 25cm, được thiết kế hoạt động ở tần số<br/>
+5,8 GHz. Các phần tử bức xạ được chế tạo sử dụng công nghệ mạch in vi dải.<br/>
+Phân hệ xử lý tín hiệu đảm bảo tốc độ cao và tạo sự đồng bộ cho hoạt động của cả hệ thống. Bộ phận điều khiển búp sóng sử dụng kỹ thuật định dạng búp sóng số trên nền tảng FPGA, kết hợp với các thuật toán được nghiên cứu và tối ưu, giúp thực thi việc định hướng búp sóng tới người sử dụng.</span>
+<span style="text-align:justify;">Trong hệ thống ăng-ten MIMO này, yếu tố quan trọng nhất là việc định hướng búp sóng theo sự di chuyển của người dùng. TS Kiểm cho biết, để đạt yếu tố này, cả ba phân hệ phải thiết kế, chế tạo một cách đồng bộ. Các thuật toán điều khiển đa búp sóng được thực hiện bắt đầu từ nghiên cứu mô hình lý thuyết, sau đó kết hợp với kinh nghiệm và hỗ trợ của các chuyên gia từ Italy, nhóm nghiên cứu đã phát triển các bộ code và nạp vào mạch FPGA để thực hiện các chức năng theo yêu cầu kỹ thuật của hệ thống.</span>
+<span style="text-align:justify;">Nhờ vậy, hệ thống có khả năng tạo ra các búp sóng có độ phân giải góc quét dưới<br/>
+10 độ, và đặt điểm không tùy ý, điều này giúp tín hiệu người dùng giảm thiểu sự<br/>
+gián đoạn phục vụ, giảm được nhiễu hệ thống, từ đó tăng tốc độ truyền dữ liệu<br/>
+người dùng, đạt tối thiểu 100Mb/s trong các thử nghiệm ban đầu theo cả hai hướng truyền dẫn.</span>

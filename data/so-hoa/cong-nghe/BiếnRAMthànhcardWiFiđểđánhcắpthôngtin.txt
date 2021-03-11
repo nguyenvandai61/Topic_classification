@@ -1,0 +1,17 @@
+Biến RAM thành card Wi-Fi để đánh cắp thông tin
+https://vnexpress.net/bien-ram-thanh-card-wi-fi-de-danh-cap-thong-tin-4208757.html
+
+Các chuyên gia Israel cảnh báo khả năng kẻ tấn công có thể lấy dữ liệu từ máy tính không nối mạng nhờ biến RAM thành bộ thu phát tín hiệu.
+
+Mordechai Guri, đứng đầu bộ phận nghiên cứu phát triển ở đại học Ben-Gurion của Israel, công bố kỹ thuật mang tên Air-Fi, trong đó sử dụng thanh RAM như một bộ thu phát dữ liệu không dây, cho phép truy cập thông tin trong máy tính không được nối mạng và thậm chí không có cả card Wi-Fi.
+Air-Fi chỉ được coi là "màn phô diễn" với người dùng bình thường, nhưng nó buộc nhiều doanh nghiệp phải xem xét lại cấu trúc mạng sử dụng máy tính cô lập để lưu trữ dữ liệu quan trọng.
+<strong>Cách Air-Fi</strong><strong> hoạt động</strong>
+Mọi linh kiện điện tử đều tạo ra sóng điện từ khi có dòng điện chạy qua.
+Tín hiệu Wi-Fi bản chất là sóng vô tuyến và sóng vô tuyến là một dạng sóng điện từ. Guri cho rằng các mã độc được cài vào máy tính bị cô lập có thể giúp kẻ tấn công điều chỉnh dòng điện đi qua thanh RAM để phát ra sóng điện từ ở tần số tương đồng với dải tần 2,4 GHz của Wi-Fi.
+Trong tài liệu nghiên cứu mang tên "Air-Fi: Tạo ra tín hiệu Wi-Fi bí mật từ Máy tính bị cô lập", Guri cho thấy những tác vụ đọc ghi được căn thời gian chuẩn xác trên một thành RAM có thể khiến đường truyền dữ liệu phát ra sóng điện từ giống tín hiệu Wi-Fi yếu.
+Tín hiệu này có thể được thu bởi mọi thiết bị có ăng ten Wi-Fi ở gần hệ thống máy tính như smartphone, laptop, thiết bị IoT, đồng hồ thông minh.
+Guri đã thử nghiệm kỹ thuật này với nhiều hệ thống máy tính cô lập được tháo bỏ card Wi-Fi và cho biết ông có thể lấy dữ liệu với tốc độ khoảng 100 bit/giây từ khoảng cách vài mét.
+Chuyên gia Israel nhận xét Air-Fi là một trong những cách đánh cắp dữ liệu dễ nhất, vì kẻ tấn công không cần lấy quyền root/admin trước khi chạy mã độc. "Nó có thể được kích hoạt từ mọi tiến trình của người dùng bình thường", Guri nối, thêm rằng điều này giúp kẻ tấn công hành động trên mọi hệ điều hành, thậm chí từ trong máy ảo.
+Phần lớn RAM hiện đại đều có thể phát tín hiệu trong dải tần 2,4 GHz, trong khi những mẫu RAM cũ hơn có thể được ép xung để đạt tới con số trên. Ông cũng đề xuất nhiều phương án đối phó, gồm triển khai thiết bị chặn tín hiệu để ngăn mọi hoạt động thu phát Wi-Fi ở khu vực đặt hệ thống máy tính bị cô lập.
+Trong 5 năm qua, Guri dẫn đầu những dự án nghiên cứu với hàng chục chuyên gia để điều tra những phương pháp đánh cắp dữ liệu phi truyền thống, nhằm vào các hệ thống máy tính được cô lập. Những kỹ thuật này được gọi là "kênh truy xuất dữ liệu bí mật", không dùng để đột nhập vào máy tính mà chủ yếu nhằm đánh cắp thông tin bằng những cách mà người quản trị khó ngờ tới.
+Máy tính cô lập không được kết nối Internet mà chỉ nằm trong mạng nội bộ, thường được sử dụng ở các cơ quan chính phủ, quân đội và tập đoàn tư nhân để lưu trữ dữ liệu nhạy cảm.

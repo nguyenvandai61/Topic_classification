@@ -1,0 +1,12 @@
+Hàng triệu xe Ford sẽ sử dụng nền tảng Android từ 2023
+https://vnexpress.net/hang-trieu-xe-ford-se-su-dung-nen-tang-android-tu-2023-4230381.html
+Hợp tác giữa Ford và Google sẽ đưa hệ thống hoạt động dựa trên Android thành hệ thống chủ yếu trên các màn hình thông tin giải trí.
+Hai "gã khổng lồ" thông báo quan hệ hợp tác chiến lược 6 năm nhằm phát triển công nghệ mới. Qua đó, hàng triệu xe Ford và Lincoln sẽ trang bị màn hình hệ thống thông tin giải trí dựa trên nền tảng Android bắt đầu từ 2023.
+Hệ thống kể trên sẽ cho phép tài xế truy cập vào Google Maps trong hệ thống định vị trên xe và sử dụng tính năng hỗ trợ giọng nói của Google để điều khiển mà không cần dùng tới điện thoại Android. Xe Ford vốn trang bị hệ thống thông tin giải trí Sync từ 2007 nên chưa rõ hãng xe Mỹ có tiếp tục sử dụng Sync để đặt tên cho hệ thống mới hay không.
+Từ 2023, xe Ford sẽ bắt đầu trang bị một phiên bản tích hợp trên ôtô của Google Play Store cho phép tải các ứng dụng như nhạc, audio book và các tập tin âm thanh.
+Ngoài ra, Google sẽ là nhà cung cấp cho Ford về lưu trữ đám mây. Ford cũng sẽ sử dụng AI của Google cùng những khả năng phân tích dữ liệu của đối tác nhằm diễn giải tốt hơn dữ liệu thu thập được từ xe và các hoạt động của chính hãng xe Mỹ, giúp nâng cấp những thứ như dịch vụ khách hàng, sản xuất và marketing.
+General Motors (GM) mới đây cũng từng thông báo thỏa thuận tương tự với Microsoft mà ở đó, hãng máy tính sẽ cung cấp lưu trữ đám mây cho GM và Cruise (hãng ôtô tự lái thuộc sở hữu chính của GM).
+Là một phần của quan hệ hợp tác, Ford và Google sẽ tạo ra một nhóm có tên Teem Upshift với việc hợp tác theo cách mới mà hai bên có thể làm việc cùng nhau. Team Upshift có thể nghiên cứu nâng cấp trải nghiệm mua sắm trực tuyến khi đang đi ôtô thông qua việc sử dụng dữ liệu khách hàng.
+Hiện hai bên không đề cập tới những điều kiện tài chính trong quan hệ hợp tác.
+Đây là hợp tác lớn nhất của Google với một hãng ôtô, dù Volvo và thương hiệu con là Polestar đã sử dụng hệ thống dựa trên nền tảng Android trên một số mẫu xe, và có kế hoạch mở rộng trong tương lai.
+Những hệ thống định vị tích hợp trên xe và các giao diện người dùng đang ngày càng trở nên khẩn thiết đối với các khách hàng trong ngành công nghiệp ôtô, theo Kristin Kolodge, đại điện của J.D. Power. Các chủ xe ngày càng thường xuyên sử dụng cũng như yêu cầu những tính năng như trên điện thoại thông minh xuất hiện trên xe hơi. Họ thường thể hiện sự thất vọng khi chiếc xe không có những đặc điểm này.

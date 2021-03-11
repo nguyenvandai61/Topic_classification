@@ -1,0 +1,13 @@
+Máy chủ Exchange của Microsoft bị hacker Trung Quốc tấn công
+https://vnexpress.net/may-chu-exchange-cua-microsoft-bi-hacker-trung-quoc-tan-cong-4243730.html
+
+Mỹ Microsoft nghi ngờ nhóm hacker Hafnium khai thác lỗ hổng của máy chủ Exchange của họ, qua đó tấn công vào nhiều cơ quan trọng yếu của Mỹ.
+
+"Dựa trên các mục tiêu, chiến thuật và quy trình quan sát được, chúng tôi tin rằng chiến dịch này được thực hiện bởi Hafnium", Microsoft chia sẻ trên blog của công ty, sau khi hệ thống Exchange Server của họ bị tấn công mới đây.
+Hafnium là nhóm hacker có trụ sở tại Trung Quốc, nhưng hoạt động bằng máy chủ ảo đặt tại Mỹ để tránh bị phát hiện. Mục tiêu của nhóm hầu hết là các thực thể tại Mỹ, tập trung ở các lĩnh vực như công nghiệp, luật, giáo dục, quốc phòng, các tổ chức nghiên cứu bệnh truyền nhiễm, tổ chức phi chính phủ.
+Cuộc tấn công mới đây của nhóm này nhắm vào các cơ quan như trên, thông qua hệ thống máy chủ email Exchange của Microsoft. Tin tặc đã khai thác các lỗ hổng zero-day của Exchange gồm CVE-2021-26855, CVE-2021-26857, CVE-2021-26858 và CVE-2021-27065, để cấp quyền cho các email có thểhacker Trung Quốc truy cập vào hệ thống, sau đó cài mã độc để có thể truy cập hệ thống này một cách lâu dài. Các khách hàng cá nhân không phải mục tiêu của cuộc tấn công lần này.
+Báo cáo từ một đơn vị độc lập - công ty an ninh mạng Volexity - cho thấy, hồi tháng 1 năm nay, tin tặc đã khai thác một trong các lỗ hổng trên và đánh cắp từ xa toàn bộ nội dung trong một tài khoản email. Tin tặc chỉ cần biết địa chỉ email và chi tiết về máy chủ Exchange để thực hiện việc đánh cắp này.
+Việc tấn công gia tăng vào cuối tháng 2. Đại diện bộ phận bảo mật của công ty công nghệ Dell cho biết, có sự gia tăng đột biến các cuộc tấn công máy chủ Exchange vào 28/2 và có khoảng 10 khách hàng của công ty bị ảnh hưởng.
+Microsoft đã tung ra bản cập nhật vá các lỗi mà tin tặc có thể khai thác. Tuy nhiên, các chuyên gia lo ngại, hacker sẽ đẩy mạnh tốc độ tấn công trước khi các mục tiêu kịp cài bản vá. Nếu tấn công thành công, hacker có thể tạo ra các cửa hậu, khiến việc khắc phục hậu quả khó khăn hơn.
+CISA - cơ quan phòng thủ an ninh mạng của Mỹ - đã yêu cầu toàn bộ các cơ quan của chính phủ phải cập nhật phần mềm, muộn nhất phải hoàn thành hôm nay (5/3), theo thông tin từ <em>NBCNews</em>.
+Trước thông tin nhóm hacker đến Trung Quốc, người phát ngôn của Đại sứ quán Trung Quốc tại Washington cho rằng "đây là cáo buộc vô căn cứ", đồng thời nhấn mạnh lại "bản chất là không gian mạng là ảo" và có đủ các loại tác nhân trực tuyến rất khó theo dõi, vì vậy, "việc truy tìm nguồn gốc của các cuộc tấn công mạng là một vấn đề phức tạp".

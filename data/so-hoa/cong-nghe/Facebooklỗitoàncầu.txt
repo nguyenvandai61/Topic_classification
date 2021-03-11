@@ -1,0 +1,10 @@
+Facebook lỗi toàn cầu
+https://vnexpress.net/facebook-loi-toan-cau-4182559.html
+
+Người dùng Facebook trên khắp thế giới gặp lỗi về bảng tin từ tối 26/10, trong đó, quảng cáo hiển thị dày đặc, bộ ảnh bị tách thành nhiều ảnh riêng biệt.
+
+Người dùng Facebook khắp nơi trên thế giới đồng loạt báo lỗi hiển thị trên cả bản web lẫn ứng dụng. Trên <em>DownDetector</em>, trang web báo cáo tình hình sự cố và quá trình khôi phục của các dịch vụ Internet, lượng người báo cáo về tình trạng của Facebook tăng vọt từ 22h30 ngày 26/10 (giờ Hà Nội). Trong đó, 65% báo lỗi về "bảng tin".
+Trên bản đồ báo cáo sự cố, người dùng ở châu Á, châu Âu, Bắc Mỹ, Nam Mỹ đang gặp lỗi nhiều nhất.
+<em>New York Post </em>cho biết Facebook đang cố gắng chặn tình trạng hỗn loạn liên quan đến bầu cử ở Mỹ trên mạng xã hội của mình bằng cách sử dụng các thuật toán bảo vệ mà họ đã xây dựng. Còn theo <em>WSJ</em>, trong trường hợp bạo lực hoặc bất ổn nổ ra, mạng xã hội này sẽ có sẵn các công cụ cần thiết. Các biện pháp có thể áp dụng bao gồm việc làm chậm tốc độ lan truyền các bài phát biểu, thay đổi loại nội dung người dùng có thể xem, hạ tiêu chuẩn các bài đăng được xác định là nguy hiểm.
+Đến sáng 27/10, News Feed của Facebook đã hoạt động bình thường. Tuy nhiên một số người dùng tại Việt Nam cho biết, trên bảng tin của họ vẫn xuất hiện nhiều quảng cáo và bài đăng của những người ít tương tác.
+Facebook chưa đưa ra bình luận nào về sự cố trên.

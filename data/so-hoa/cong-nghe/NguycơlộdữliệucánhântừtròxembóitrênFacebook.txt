@@ -1,0 +1,14 @@
+Nguy cơ lộ dữ liệu cá nhân từ trò xem bói trên Facebook
+https://vnexpress.net/nguy-co-lo-du-lieu-ca-nhan-tu-tro-xem-boi-tren-facebook-4223534.html
+
+Game xem bói, như 'Năm 2021 của bạn sẽ thế nào', 'Bạn sẽ sinh bao nhiêu con'... tự động lấy nhiều thông tin của người dùng Facebook.
+
+Các game này được xếp vào hình thức "Trò chơi tức thì" trên <a href="https://vnexpress.net/chu-de/facebook-1538" rel="dofollow">Facebook</a> với nội dung và cách chơi đơn giản. Người dùng chỉ cần 1 - 2 lần bấm chuột là có thể chơi và chia sẻ kết quả với bạn bè.
+Các nội dung xem bói năm 2021 thuộc một ứng dụng tên Memory do nhà phát triển tên Yee từ Trung Quốc cung cấp. Thống kê của Facebook cho thấy khoảng 17 triệu người dùng mạng xã hội đã sử dụng Memory, trong đó, nhiều tài khoản đến từ Việt Nam.
+Theo các chuyên gia bảo mật, người dùng cần cảnh giác với các trò chơi dạng này.
+Trò chơi có giao diện đơn giản. Khi bấm nút "Chơi", đồng nghĩa với việc người dùng chấp nhận các điều khoản mà Yee đưa ra. Các điều khoản này được hiển thị chữ nhỏ và thấp dưới màn hình nên nhiều người không để ý. Khi bấm vào danh sách điều khoản, giao diện hiển thị là tiếng Trung Quốc.
+Các thông tin mà Memory thu thập gồm: Tên và ảnh đại diện, giới tính, danh sách bạn bè, ngôn ngữ, múi giờ, mã định danh (User ID).
+Mặc dù đây là các thông tin công khai, theo các chuyên gia bảo mật, người dùng cần cảnh giác với những trào lưu trên mạng xã hội, hạn chế tham gia khi chưa biết rõ nguồn gốc, mục đích thật sự của những trò chơi này.
+Hồi cuối năm 2020, hơn <a href="https://vnexpress.net/mot-trieu-tai-khoan-facebook-viet-bi-tung-len-dien-dan-hacker-4205111.html" rel="dofollow">một triệu thông tin tài khoản Facebook</a> của người Việt bị tung lên một diễn đàn hacker. Thông tin chứa các trường dữ liệu, như tên tài khoản, vị trí, số điện thoại, email, mã định danh, số lượng bạn bè.
+Theo các chuyên gia bảo mật từ nhóm WhiteHat, việc lộ thông tin thế này có thể khiến người dùng gặp rắc rối với tin nhắn rác, tin nhắn quảng cáo. Nguy hiểm hơn, kẻ lừa đảo hay tội phạm mạng có thể sử dụng nội dung lấy được từ tài khoản của bạn để tống tiền, lừa đảo. Trong báo cáo an ninh mạng năm 2020, công ty Bkav liệt các trào lưu trên Facebook vào nhóm "tiềm ẩn nhiều hiểm họa".
+Để xem lại các ứng dụng được cấp quyền truy cập tài khoản Facebook của mình, người dùng vào: <strong><em>Cài đặt &amp; quyền riêng tư</em></strong> > <em><strong>Cài đặt</strong></em> > tìm đến mục <em><strong>Trò chơi tức thì</strong></em>, và gỡ nếu muốn.

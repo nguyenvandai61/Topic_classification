@@ -1,0 +1,19 @@
+AI vẽ hình ảnh từ văn bản
+https://vnexpress.net/ai-ve-hinh-anh-tu-van-ban-4223404.html
+
+Phòng nghiên cứu OpenAI do tỷ phú Elon Musk hậu thuẫn tiếp tục thu hút sự chú ý với công cụ Dall-E có khả năng tạo hình ảnh từ văn bản.
+
+Hồi tháng 5/2020, OpenAI trình làng <a href="https://vnexpress.net/sieu-ai-gpt-3-ai-khong-tieu-diet-loai-nguoi-tin-toi-di-4159509.html" rel="dofollow">GPT-3</a>, thế hệ thứ ba của mô hình xử lý ngôn ngữ tự nhiên. GPT-3 học hỏi dựa trên dữ liệu nó thu thập được từ Internet. Dựa trên quá trình học đó, GPT-3 có khả năng thực hiện nhiều nhiệm vụ khác nhau, như viết tiểu thuyết, tạo mã máy tính hay dịch thuật. Với Dall-E, OpenAI đặt mục tiêu chuyên môn hóa GPT-3 tập trung vào khả năng tạo ra các khái niệm trực quan thông qua ngôn ngữ.
+"Thế giới này không chỉ có chữ viết. Con người không chỉ nói, mà còn nhìn. Và trong rất nhiều trường hợp, nhìn là cách nắm được thông điệp dễ dàng nhất", nhà đồng sáng lập OpenAI Ilya Sutskever nói.
+Cái tên Dall-E là sự kết hợp giữa danh họa nổi tiếng với phong cách siêu thực Salvador Dalí và nhân vật robot hoạt hình Wall-E trong bộ phim cùng tên của Pixar. Nói một cách đơn giản, Dall-E sẽ dùng chú thích văn bản làm dữ liệu đầu vào và tạo ra hình ảnh là sản phẩm đầu ra.
+Các bài thử nghiệm được OpenAI công bố cho thấy Dall-E có khả năng thay đổi và sắp xếp lại các đối tượng trong hình ảnh cũng như tạo ra những thứ không tồn tại, chẳng hạn một khối lập phương với kết cấu của một con nhím hoặc một đám mây. Tùy vào thông tin gợi ý dạng văn bản, hình ảnh do Dall-E tạo ra có thể xuất hiện như ảnh chụp từ thế giới thực hoặc ảnh vẽ, ảnh hoạt hình.
+Dall-E được xây dựng dựa trên công nghệ mạng nơ-ron nhân tạo, mô phỏng hệ thống truyền và xử lý tín hiệu bên trong bộ não con người. Mặc dù công nghệ này đã được sử dụng để tạo ra hình ảnh và video trước đây, cách thức nhận dữ liệu đầu vào của Dall-E lại khác biệt khi người dùng có thể miêu tả chi tiết những gì mình muốn vẽ cho hệ thống. Ngoài ra, nhờ khả năng xử lý ngôn ngữ tự nhiên, dữ liệu dạng văn bản nhập vào không nhất thiết phải logic và hợp lý.
+<strong>Dall-E có ứng dụng gì? </strong>
+Trong tài liệu công bố của OpenAI, công ty này đã đề cập cụ thể tới khả năng sử dụng Dall-E trong lĩnh vực thiết kế, giúp kiến trúc sư có thể dễ dàng hình dung lên thiết kế ngôi nhà, các nhà khảo cổ học có thể tái tạo các cấu trúc cổ đại.
+Trong các ví dụ trên, Dall-E đều thể hiện được khả năng sáng tạo khi trả về các thiết kế sản phẩm, thời trang và nội thất khá bắt mắt. AI này được kỳ vọng có thể hỗ trợ đắc lực trong quá trình lên ý tưởng và tăng tốc độ tạo ra sản phẩm cho nhà thiết kế.
+<strong>Hỗ trợ sức khỏe tâm thần</strong>
+Ngoài ứng dụng trong ngành thiết kế, sản phẩm mới của OpenAI được nhiều chuyên gia đánh giá có thể áp dụng trong quá trình điều trị và hồi phục sức khỏe tâm lý. Mối quan hệ giữa sáng tạo nghệ thuật và sức khỏe tinh thần từ lâu đã được nhiều chuyên gia trị liệu để mắt tới và khai sinh ra lĩnh vực trị liệu nghệ thuật.
+Giáo sư trị liệu nghệ thuật Girija Kaimal cho rằng: "Bất cứ điều gì thu hút khả năng tưởng tượng và tạo kết nối giữa những thứ không liên quan đều tốt cho bạn. Ảnh hưởng tích cực này có mặt ở mọi loại hình sáng tạo trực quan từ hội họa, nhiếp ảnh, cắt dán đến làm thơ. Tương tác với Dall-E có thể đem lại cho các bệnh nhân cảm giác được diễn đạt lời nói ngay lập tức nhờ hình ảnh trực quan hoặc đơn giản chỉ là đem lại cho họ nụ cười".
+<strong>Tự làm phim từ văn bản</strong>
+Hiện Dall-E đã có khả năng tạo ra hình ảnh 3D thông qua đầu vào là ngôn ngữ tự nhiên, trong tương lai hệ thống này có thể nhanh chóng tạo ra các bảng đồ họa chuyển động. Nó có thể được ứng dụng tốt nhất trong sản xuất phim hoạt hình bằng cách tổng hợp video dựa trên một chuỗi các câu lệnh văn bản.
+<strong>Đăng Thiên</strong> (theo <em>VentureBeat</em>)

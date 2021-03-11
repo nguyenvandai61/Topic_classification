@@ -1,0 +1,24 @@
+Đáp án bài toán lớp 1 về cây nấm và chú lùn
+https://vnexpress.net/dap-an-bai-toan-lop-1-ve-cay-nam-va-chu-lun-4226305.html
+Đề bài toán lớp 1 trong kỳ thi Olympic Toán quốc tế năm 2019 bị sai và không phù hợp với độ tuổi thí sinh, khiến phụ huynh hoang mang.
+<strong>Đề bài:</strong>
+Mỗi cây nấm che được số chú lùn bằng số chấm trên mũ nấm. Hình dưới đây là mặt trước của mỗi cây nấm, số chấm ở mặt khuất giống như mặt trước.
+Nếu 30 chú lùn đang tìm chỗ trú mưa, có bao nhiêu chú lùn bị ướt?
+a. 2 b. 3 c. 4 d. 5 c. 6
+<strong>Phân tích hình vẽ và lời giải:</strong>
+Theo đề bài, số chấm ở mặt khuất mỗi cây nấm giống như mặt trước. Mặt trước cây nấm 1, 2, 3, 4 lần lượt có 3, 3, 2, 5 chấm tròn nguyên vẹn.
+Mặt trước cây nấm 1 và 3 lần lượt có 1 và 2 chấm không nguyên vẹn.
+<em>Xét cây nấm 2 và cây nấm 4</em> (các chấm tròn đều nguyên vẹn):
+Tổng số chấm của cây nấm 2 là 3 + 3 = 6 (chấm)
+Tổng số chấm của cây nấm 4 là 5 + 5 = 10 (chấm).
+<em>Xét cây nấm 1 và cây nấm 3</em> (có chấm tròn không nguyên vẹn):
+Mỗi chấm tròn không nguyên vẹn ở mặt trước mỗi cây nấm là do một chấm tròn trên cây nấm phân chia thành hai phần, gồm một phần ở mặt trước và một phần ở mặt sau cây nấm. Khi đó ta có:
+Tổng số chấm của cây nấm 1 là là 3 + 3 + 1 = 7 (chấm).
+Tổng số chấm của cây nấm 3 là 2 + 2 + 1 + 1 = 6 (chấm).
+<em>Tổng hợp:</em><strong> </strong>Tổng số chấm ở cả bốn cây nấm là: 7 + 6 + 6 + 10 = 29 (chấm).
+Do có 29 chấm mà có 30 chú lùn trú mưa nên có một chú lùn bị ướt. Như vậy, các phương án đề bài đưa ra đều không đúng.
+<strong>Sửa lại đáp án hoặc hình vẽ phù hợp với tư duy học sinh lớp 1:</strong>
+Nếu giữ nguyên hình vẽ và sửa một phương án thành 1 thì lời giải và đề bài ăn khớp. Tuy nhiên, đây sẽ là bài toán khó với học sinh lớp 1 vì có khái niệm phân số.
+Nếu muốn đáp án đúng nằm trong năm phương án a, b, c, d, e và phù hợp với nhận thức của học sinh lớp 1, người ra đề phải sửa lại hình vẽ với các cây nấm chỉ chứa các chấm tròn nguyên vẹn.
+<strong>Bình luận: </strong>
+Trong các kỳ thi tuyển sinh đại học, thi Olympic Toán hay các môn khoa học đôi khi vẫn xảy ra những thiếu sót. Tại các kỳ thi có uy tín, việc kiểm tra phản biện đề thi luôn được thực hiện kỹ lưỡng. Tính chính xác, phân loại, tính sư phạm theo độ tuổi, độ khó, tính mới mẻ và độc đáo luôn luôn là tiêu chí được chú ý toàn diện trong cấu trúc đề thi. Đây là một bài toán thi Olympic rất hy hữu khi sai cả về logic lẫn không phù hợp với độ tuổi thí sinh.

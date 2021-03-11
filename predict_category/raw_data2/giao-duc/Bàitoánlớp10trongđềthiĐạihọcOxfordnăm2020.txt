@@ -1,0 +1,21 @@
+Bài toán lớp 10 trong đề thi Đại học Oxford năm 2020
+https://vnexpress.net/bai-toan-lop-10-trong-de-thi-dai-hoc-oxford-nam-2020-4193714.html
+Bài toán trong đề thi vào ngành Toán học, Khoa học máy tính và các ngành liên kết được tổ chức vào đầu tháng 11 liệu có làm khó bạn?
+Đề thi Toán vào Đại học Oxford, Anh, gồm hai phần với tổng thời gian làm bài 2,5 tiếng:
+- Phần một gồm 10 câu trắc nghiệm chọn đáp án với mỗi câu 4 điểm.
+- Phần hai gồm 5 câu tự luận (trong bộ 7 câu hỏi) với mỗi câu 15 điểm.
+Dưới đây là bài toán gồm 6 câu trích trong đề thi tuyển sinh Đại học Oxford 2020 vào các ngành Toán học, Khoa học máy tính và các ngành liên kết được tổ chức vào đầu tháng 11. Đề thi này cũng là đề tuyển sinh cho các trường Imperial College London và Đại học Warwick.
+<strong>Đề bài: </strong>Ta định nghĩa các hàm f(n) và g(n) với số nguyên dương n như sau:
+<em>f(n) = 2n + 1, g(n) = 4n</em>
+Gọi S là tập hợp các giá trị nguyên dương nhận được bằng cách áp dụng các hàm f và g theo một thứ tự nào đó và bắt đầu từ số 1.
+Ví dụ: <em>gfg(1) = gf(4) = g(9) = 36; ffgg(1) = ffg(4) = ff(16) = f(33) = 67.</em>
+Khi đó, các số 36 và 67 sẽ nằm trong tập S. Hãy trả lời các câu hỏi sau đây:
+(i)<strong> </strong>Viết số 100 theo hệ nhị phân.
+Hệ nhị phân là hệ cơ số 2. Tất cả các số nguyên dương n đều có thể được viết dưới dạng tổng các lũy thừa của 2, trong đó mỗi lũy thừa của 2 xuất hiện không quá một lần.
+(ii) Chứng minh rằng số 100 thuộc tập S bằng cách viết số 100 dưới dạng một tổ hợp hàm f và hàm g sao cho tổ hợp đó có giá trị là 100.
+(iii) Chứng minh rằng số 200 không thuộc tập S.
+(iv) Chứng minh rằng nếu n thuộc tập S, thì chỉ có một cách duy nhất tổ hợp các hàm f và g để đạt được giá trị n. (Ví dụ: 67 = <em>ffgg(1)</em>).
+(v) Đặt u<sub>k</sub> là số phần tử n thuộc tập S sao cho <strong>2<sup>k</sup> ≤ n ≤ 2<sup>k+1</sup></strong>.
+Chứng minh rằng: u<sub>k+2</sub> = u<sub>k+1</sub> + u<sub>k</sub> với k ≥ 0.
+(vi) Đặt s<sub>k</sub> là số phần tử n thuộc tập S sao cho <strong>1 ≤ n &lt; 2<sup>k+1</sup>.</strong>
+Chứng minh rằng: s<sub>k+2</sub> = s<sub>k+1</sub> + s<sub>k</sub> + 1 với k ≥ 0.

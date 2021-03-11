@@ -1,0 +1,11 @@
+Hệ sinh thái giáo dục 4.0 của người Việt
+https://vnexpress.net/he-sinh-thai-giao-duc-4-0-cua-nguoi-viet-4210842.html
+
+Hệ sinh thái giáo dục thông minh vnEdu 4.0 sử dụng AI, Bigdata, Blockchain, VR/AR... giúp số hóa ngành giáo dục Việt Nam.
+
+Hệ sinh thái giáo dục vnEdu 4.0 vừa thắng giải "Thu hẹp khoảng cách số" trong giải thưởng "<a href="https://vnexpress.net/chu-de/make-in-vietnam-3213" rel="dofollow">Make in Viet Nam</a>" 2020. Trong năm 2020, hệ sinh thái giáo dục của VNPT đã được triển khai trên 63 tỉnh, thành phố của Việt Nam với gần 30 nghìn trường học và hơn 8 triệu học sinh sử dụng.
+vnEdu phát triển theo ba trụ cột chính, gồm phần mềm quản lý; phần mềm học tập số; phần mềm tích hợp.
+Việc số hóa ngành giáo dục đã được VNPT bắt đầu từ 10 năm trước và liên tục cập nhật công nghệ mới qua từng năm. vnEdu 4.0 được triển khai trên nền tảng Cloud, cung cấp sản phẩm theo hướng phần mềm, như một dịch vụ (SaaS). Mỗi đơn vị sử dụng được cấp một tài khoản, tương đương với một hệ điều hành ảo, cho phép người dùng thực hiện nhiều nghiệp vụ, như quản lý học sinh, quản lý thi, quản lý giáo viên...
+Hệ sinh thái giáo dục vnEdu đang dùng AI để nhận diện học sinh trong việc điểm danh, phát hiện các hành vi xấu, bạo lực học đường. Công nghệ blockchain giúp xác thực, bảo mật văn bằng, chứng chỉ. Công nghệ nhận diện giọng nói cho phép giáo viên nhập điểm lên hệ thống bằng cách đọc mà không cần phải thao tác bằng tay. Nền tảng giáo dục này cũng sử dụng thực tế ảo, thực tế tăng cường trong các phòng thí nghiệm, giúp học sinh tương tác tốt hơn trong các giờ thực hành. Toàn bộ công việc truyền thống như quản lý thông tin nhà trường; quản lý dinh dưỡng; thu phí; thi trực tuyến... đều được số hóa.
+Đối với việc quản lý, vnEdu 4.0 cung cấp Dashboard trong đó có đầy đủ thông tin cho lãnh đạo trường, sở và cấp cao hơn để giám sát thông tin. Phụ huynh cũng được cập nhật thông tin liên tục liên quan đến học sinh.
+Ngoài hệ sinh thái giáo dục thông minh, vnEdu còn phát triển Mạng xã hội giáo dục Việt Nam để học sinh, giáo viên, phụ huynh cùng kết nối và chia sẻ thông tin. Ứng dụng vnEdu trên smartphone cho phép nhà trường gửi thông báo, nhập điểm, quản lý học sinh ngay trên điện thoại. Phụ huynh dễ dàng nhận thông báo, xem kết quả học tập của con mọi lúc mọi nơi.

@@ -1,0 +1,7 @@
+Netvault Plus - giải pháp tối ưu cho quản trị dữ liệu sao lưu
+https://vnexpress.net/netvault-plus-giai-phap-toi-uu-cho-quan-tri-du-lieu-sao-luu-4208949.html
+
+NetVault Plus là giải pháp sao lưu và phục hồi dữ liệu, ứng dụng, hệ điều hành trong môi trường doanh nghiệp, đáp ứng sự phát triển dữ liệu theo cấp số nhân.
+
+Theo IDC, năm 2020 dữ liệu toàn cầu khoảng 59 Zettabytes, dự báo lượng dữ liệu được tạo ra trong ba năm tới sẽ nhiều hơn dữ liệu trong 30 năm qua. Sự bùng nổ dữ liệu này đòi hỏi giải pháp lưu trữ phải không bị giới hạn bởi phần cứng, thời gian lâu dài cho mục đích tham chiếu dễ quản trị thay thế cho giải pháp sử dụng băng từ, và dữ liệu backup cần phải luôn sẵn sàng chống được cả thiên tai lẫn rủi ro ngày càng tăng từ Ransomware.
+Bộ giải pháp NetVault Plus đáp ứng nhu cầu lưu trữ, phục hồi dữ liệu, sử dụng cloud và bảo vệ toàn vẹn dữ liệu. Công nghệ này gồm hai phần mềm NetVault có nhiệm vụ backup và Qorestor là phần mềm lưu trữ dữ liệu backup đã tích hợp sẵn các tính năng như chống trùng lặp theo sub-block, nén, mã hóa, sao chép dữ liệu lên đám mây.

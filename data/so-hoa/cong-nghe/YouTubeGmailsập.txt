@@ -1,0 +1,16 @@
+YouTube, Gmail 'sập'
+https://vnexpress.net/youtube-gmail-sap-4206279.html
+
+Nhiều người dùng tại Việt Nam và thế giới không thể sử dụng YouTube, Gmail, Drive và loạt dịch vụ Google từ 19h ngày 14/12.
+
+Hiện tượng này xảy ra trên cả phiên bản web và ứng dụng di động. Khi truy cập YouTube trên trình duyệt, người dùng nhận được màn hình thông báo: "Đã xảy ra lỗi... Khi truy cập Gmail, Google Maps trên web và ứng dụng di động, dịch vụ cũng báo lỗi "xảy ra sự cố với máy chủ".
+"Tan làm tôi tranh thủ đi ship hàng, nhưng ứng dụng Google Maps báo 'Ngoại tuyến, không có dữ liệu giao thông'. Thử cả trên máy tính cũng không được", Nhật Nam, một người dùng tại TP HCM cho biết.
+YouTube là ứng dụng nhiều gia đình sử dụng để giải trí ngoài giờ làm việc, nhưng nay cũng không thể truy cập. "Ban đầu tôi tưởng lỗi mạng, nhưng sau đó kiểm tra trên cả máy tính và điện thoại của vợ lẫn chồng đều không thể truy cập YouTube", Nguyễn Lâm, một người tại Cầu Giấy (Hà Nội) chia sẻ.
+Nhiều người dùng các dịch vụ khác của Google, như Gmail, Drive, Keep... cũng thông báo gặp sự cố cùng thời điểm.
+Tuy nhiên, vấn đề chỉ xảy ra nếu đăng nhập tài khoản Google. Khi dùng trình duyệt ẩn danh hoặc không đăng nhập, một số người vẫn xem được bình thường. Khi đăng nhập lại, họ nhận được thông báo "không tìm thấy tài khoản".
+Trên công cụ theo dõi sự cố DownDetector, hiện tượng trên được ghi nhận trên toàn thế giới. Trong đó, lỗi đăng nhập tài khoản nhiều người gặp nhất.
+Trên mạng xã hội Twitter, "Google" và "Gmail" trở thành từ khóa được chia sẻ nhiều nhất với hàng triệu lượt tweet trong chưa đầy một giờ, cùng các hashtag như "GoogleDown", "Gmaildown".
+Trên trang báo lỗi của Google, toàn bộ dịch vụ của công ty này ở chế độ màu đỏ - tức là ngừng hoạt động. Vào lúc 20h, Google xác nhận "đã biết sự cố" và đang trong quá trình điều tra, khắc phục. 20h25, phần lớn các dịch vụ của Google đã truy cập được, nhưng Gmail vẫn khó sử dụng ở một vài nơi. Đến 21h, toàn bộ tiện ích của họ đã được khôi phục.
+Trong một thông điệp phát đi, Google xin lỗi vì sự cố toàn cầu này nhưng không cho biết nguyên nhân.
+Đây không phải là lần đầu tiên Google bị gián đoạn trong năm nay. Hồi tháng 9, hàng loạt dịch vụ như Gmail, Drive, Hangout... cũng không thể truy cập. Google mất khoảng bốn tiếng mới khắc phục xong.
+Mới đây, người dùng Việt Nam cũng gặp vấn đề với Facebook Messenger. Nền tảng này gặp sự cố khiến người dùng gặp khó khăn khi nhắn tin trong khoảng 6 tiếng.

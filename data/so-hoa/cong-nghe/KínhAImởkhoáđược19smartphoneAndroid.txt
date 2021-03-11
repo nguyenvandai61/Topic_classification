@@ -1,0 +1,10 @@
+Kính AI mở khoá được 19 smartphone Android
+https://vnexpress.net/kinh-ai-mo-khoa-duoc-19-smartphone-android-4229989.html
+
+Chiếc kính đặc biệt được làm từ thuật toán AI có thể bẻ khoá bảo mật bằng nhận dạng khuôn mặt của hàng loạt smartphone phổ biến trên thị trường.
+
+Real AI, một nhóm được thành lập bởi Viện Nghiên cứu Trí tuệ Nhân tạo thuộc Đại học Thanh Hoa, Trung Quốc, vừa công bố kết quả nghiên cứu mới: Hàng loạt smartphone và ứng dụng dịch vụ tài chính bị qua mặt bởi mẫu kính đặt biệt được tạo ra từ AI.
+Đầu tiên, các nhà khoa học sẽ tạo ra một mẫu giao thoa trong vùng mắt thông qua các bức ảnh chân dung. Sau đó họ in kết quả này ra, làm thành một chiếc kính và đưa lên trước điện thoại để mở khóa.
+20 điện thoại phổ biến trên thị trường được mang đến để thử nghiệm. Duy nhất iPhone 11 của Apple không bị qua mặt. 19 smartphone Android khác đều bị đánh lừa. Trong số đó, có model cao cấp, mới ra mắt cách đây vài tháng.
+Dự án không công bố danh sách điện thoại nào bị phá khoá bởi thuật toán. Mục đích của họ khi làm nghiên cứu này là cảnh báo người dùng về khả năng kẻ xấu có thể lợi dụng công nghệ để qua mặt hệ thống mở khoá bằng khuôn mặt, truy cập vào các dịch vụ tài chính điện tử, thậm chí mở tài khoản ngân hàng trực tuyến.
+Các nhà khoa học cho biết, việc phát triển một thuật toán AI như trên khá khó. Nhưng nếu tin tặc tiếp tục tiếp cận mã nguồn một cách có chủ ý, việc đánh lừa hệ thống bảo mật của smartphone sẽ dễ dàng hơn. Chuyên gia bảo mật của dự án cũng đề xuất các nhà phát triển ứng dụng, nhà sản xuất smartphone tăng khả năng bảo mật bằng cách thêm các thuật toán kiểm tra chéo trong quá trình xác thực.

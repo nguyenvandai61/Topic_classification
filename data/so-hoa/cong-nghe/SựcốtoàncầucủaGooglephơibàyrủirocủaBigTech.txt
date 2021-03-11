@@ -1,0 +1,13 @@
+Sự cố toàn cầu của Google phơi bày rủi ro của Big Tech
+https://vnexpress.net/su-co-toan-cau-cua-google-phoi-bay-rui-ro-cua-big-tech-4206927.html
+
+Việc tập trung cơ sở hạ tầng vào Big Tech có thể khiến cả ngành công nghệ bị tê liệt khi một trong số bốn công ty gặp sự cố.
+
+Google vừa trải qua sự cố lớn trên phạm vi toàn cầu vào ngày 14/12. Trong khoảng một giờ đồng hồ, các dịch vụ như Gmail, Drive, YouTube và Nest đều không hoạt động.
+Sự cố của <a href="https://vnexpress.net/chu-de/google-1539" rel="dofollow">Google</a> còn ảnh hưởng đến mọi sản phẩm liên quan đến thoả thuận cung cấp dịch vụ của công ty. Lỗi xác thực cũng ảnh hưởng đến những dịch vụ đăng nhập bằng tài khoản Google như Pokemon Go. Hồi tháng 10, Google cho biết họ có 2,6 tỷ người dùng thường xuyên trên các ứng dụng, trong đó có 6 triệu tài khoản doanh nghiệp hoạt động trên các lĩnh vực giáo dục, chính phủ.
+Việc những ứng dụng của Google bị lỗi không phải điều lạ, nhưng sự cố ở mức lớn như vừa rồi là hiếm thấy. Trước đó vào tháng 3, YouTube, Hangouts và Gmail đã gặp lỗi do bộ định tuyến ở Atlanta. Tháng 8, một sự cố khác liên quan đến Gmail, Drive cũng khiến người dùng châu Á bị gián đoạn.
+Google cũng không phải công ty công nghệ duy nhất gặp phải những sự cố toàn cầu. Tháng 11, dịch vụ đám mây AWS của Amazon ngừng hoạt động, khiến hàng loạt khách hàng khác như Roku, Adobe và iRobot cũng bị ảnh hưởng theo. Gần đây nhất, Messenger của Facebook cũng tác động đến chức năng nhắn tin của Instagram khi dùng chung một cơ sở hạ tầng.
+Những sự cố trên là lời cảnh báo rõ ràng nhất về việc thế giới Internet đang trở nên phụ thuộc thế nào vào sức mạnh cơ sở hạ tầng hợp nhất của Big Tech (Google, Apple, Facebook, Amazon). Mỗi sự cố kể trên đều ảnh hưởng đến mọi thứ từ việc nhắn tin, liên lạc, xem video đến kết nối các thiết bị IoT gia đình.
+Nhiều nhà nghiên cứu, cơ quan chức năng đã bắt đầu kêu gọi các cuộc tái cơ cấu, xem xét lại luật chống độc quyền. Việc này không chỉ giải quyết việc các công ty công nghệ lớn chiếm lĩnh thị phần mà còn cả cách họ tạo ra ảnh hưởng trong cơ sở hạ tầng cũng như cơ chế cạnh tranh thiếu lành mạnh.
+Trong năm 2019, Big Tech cũng phải đối mặt với nhiều vụ điều tra, kiện tụng liên quan đến chống độc quyền ở nhiều quốc gia. Bộ Tư pháp Mỹ cũng giải quyết các vụ kiện liên quan đến Google. Công ty đang chiếm lĩnh thị phần lớn trong lĩnh vực tìm kiếm, quảng cáo và chia sẻ dữ liệu người dùng.
+Những điều trên cho thấy tác hại của việc hợp nhất các công ty độc quyền lớn như Big Tech. Đây không chỉ là các vấn đề về giá cả, cạnh tranh mà còn là sự tập trung hạ tầng Internet mà người dùng đang bị lệ thuộc.

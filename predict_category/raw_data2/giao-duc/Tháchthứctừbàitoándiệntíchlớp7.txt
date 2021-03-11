@@ -1,0 +1,4 @@
+Thách thức từ bài toán diện tích lớp 7
+https://vnexpress.net/thach-thuc-tu-bai-toan-dien-tich-lop-7-4214748.html
+Bài toán diện tích dành cho học sinh lớp 7 sẽ cho ra kết quả rất đẹp. Bạn có thể giải được bài này trong bao nhiêu phút?
+<strong>Đề bài: </strong>Bên trong nửa hình tròn đường kính AB = 20 cm, vẽ hai hình vuông CHKD và NKFE tùy ý sao cho C và E nằm trên nửa đường tròn và CH, KD, KN, EF cùng vuông góc với AB. Tính tổng diện tích của hai hình vuông CHKD và NKFE.

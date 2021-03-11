@@ -1,0 +1,13 @@
+Đáp án bài toán diện tích lớp 7
+https://vnexpress.net/dap-an-bai-toan-dien-tich-lop-7-4215645.html
+Nhiều bạn tìm ra đáp số đúng, nhưng hầu như không ai tìm được lời giải đúng theo yêu cầu của bài toán tự luận với kiến thức lớp 7.
+<strong>Đề bài.</strong> Bên trong nửa hình tròn đường kính AB = 20 cm, vẽ hai hình vuông CHKD và NKFE sao cho C và E nằm trên nửa đường tròn và CH, KD, KN, EF cùng vuông góc với AB. Tính tổng diện tích hai hình vuông CHKD và NKFE.
+<strong>Đáp án: </strong>Không mất tính tổng quát giả sử rằng: NE=EF= a ≥ b=CH=HK
+Đặt X=OK thì OF= a−X. Nối OC, OE ta sẽ chứng minh OH = a và OF = b
+Theo Pitago: EF<sup>2</sup>+FO<sup>2</sup>= OE<sup>2</sup>=OC<sup>2</sup>=CH<sup>2</sup>+ HO<sup>2</sup> hay a<sup>2</sup>+(a−x)<sup>2</sup>= b<sup>2</sup>+(b+x)<sup>2</sup>
+Suy ra: a<sup>2</sup>− b<sup>2 </sup>+ (a−x)<sup>2</sup>− (b+x)<sup>2 </sup>= 0 hay 2(a+b)(a−b−x)=0 hay x = a−b.
+Từ đó OH=a ; OF=b và S(CHKD)+S(NKFE) = b<sup>2</sup>+ a<sup>2 </sup>= OC<sup>2</sup>=OE<sup>2</sup>= 100 cm<sup>2</sup>
+<strong>Nhận xét: </strong>Có<strong> </strong>thể phát biểu tổng quát tính bất biến thành định lý sau:
+Định lý TASIC: Với bất kỳ cặp 2 hình vuông CHKD; NKFE ghép nội tiếp trong nửa đường tròn đường kính AB=2R (như hình vẽ) ta luôn có:
+1. Hai bán kính đi qua 2 đỉnh C, E trên đường tròn vuông góc nhau.
+2. Tổng diện tích của 2 hình vuông CHKD và NKFE luôn bằng R<sup>2</sup>.

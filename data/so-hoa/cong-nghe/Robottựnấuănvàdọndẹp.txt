@@ -1,0 +1,11 @@
+Robot tự nấu ăn và dọn dẹp
+https://vnexpress.net/robot-tu-nau-an-va-don-dep-4207401.html
+
+Robot Moley Kitchen có thể tự động chọn nguyên liệu để nấu các món ăn, cũng như dọn dẹp bếp sau khi nấu nướng.
+
+Moley Kitchen gồm hai cánh tay robot với nhiều khớp nối, riêng bàn tay mô phỏng bàn tay của con người. Sản phẩm được phát triển bởi Moley Robotics (Anh) và Schunk, nhà sản xuất robot nổi tiếng của Đức. Bàn tay này có thể lấy nguyên liệu từ tủ lạnh, bật bếp, điều chỉnh nhiệt độ lửa, lấy nước, đảo thức ăn, dọn thức ăn ra đĩa như một đầu bếp thực thụ.
+Sau khi nấu, robot cũng tự động dọn dẹp những thứ xung quanh sạch sẽ. Hệ thống quang học của nó có thể phát hiện thực phẩm bị rơi. Một đèn phát tia UV tích hợp trong thân đảm bảo khu vực nấu ăn được khử trùng thường xuyên.
+Quá trình phát triển của robot có sự hỗ trợ của Tim Anderson, đầu bếp từng chiến thắng trong cuộc thi BBC Master Chef 2011. Moley Kitchen được lập trình bằng thuật toán 3D mô phỏng thao tác nấu ăn của Anderson.
+Anderson cho biết đã cùng hai đồng nghiệp - Nicole Pisani và Andrew Clarke - phát triển 30 món ăn phổ biến. Tuy nhiên, trong tương lai, ông cho biết sẽ viết một thực đơn kỹ thuật số với 5.000 món ăn, cũng như tích hợp thêm phần mềm AI để đề xuất các món ăn dựa trên thói quen và sở thích cuả người dùng.
+Mark Oleynik, người sáng lập Moley Robotics, cho biết việc phát triển Moley Kitchen mất hơn 6 năm với 100 kỹ sư tham gia dự án.
+Moley Kitchen đã được trình diễn tại GITEX, triển lãm tiêu dùng điện tử và máy vi tính toàn cầu diễn ra từ ngày 6 đến 10/12 tại Dubai (UAE). Để sở hữu "đầu bếp" robot này, người mua sẽ phải bỏ ra khoảng 248.000 bảng Anh (7,5 tỷ đồng).

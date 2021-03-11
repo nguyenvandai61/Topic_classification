@@ -1,0 +1,12 @@
+Hacker phát tán hơn 2 triệu tài khoản website hẹn hò
+https://vnexpress.net/hacker-phat-tan-hon-2-trieu-tai-khoan-website-hen-ho-4226075.html
+
+Một hacker đã đăng tải công khai dữ liệu của 2,28 triệu người dùng một website hẹn hò có tên MeetMindful với nhiều thông tin quan trọng.
+
+Dữ liệu được một hacker có tài khoản ShinyHunters chia sẻ trên một số diễn đàn về mua bán thông tin. Tập tin có dung lượng 1,2 GB, được đăng công khai và miễn phí, ai cũng có thể tải về. Chủ đề nhận được hàng nghìn lượt xem và rất có thể nhiều người đã tải xuống các tập tin này.
+Gói dữ liệu chứa hàng loạt thông tin quan trọng của người dùng MeetMindful, gồm tên thật, mật khẩu đã mã hóa, địa chỉ email, chi tiết nơi ở, số đo cơ thể, sở thích hẹn hò, tình trạng hôn nhân, ngày sinh. Bên cạnh đó, dữ liệu còn tiết lộ một số thông tin về tài khoản Facebook như ID người dùng và mã thông báo xác thực.
+Dữ liệu về tin nhắn riêng tư không bị rò rỉ. Tuy nhiên, <em>Zdnet</em> cho rằng các thông tin đã được công khai khiến toàn bộ sự việc trở nên "nhạy cảm" bởi MeetMindful là nền tảng yêu cầu khắt khe về vấn đề tên và thông tin cá nhân thật.
+MeetMindful sau đó thừa nhận vấn đề trên website của mình, nhưng nói rằng việc bị tấn công "là điều quá bình thường trong thế giới kỹ thuật số". "Hacker đã khai thác lỗ hổng trong hệ thống và dường như đã trích xuất được dữ liệu của một số người dùng. Tuy nhiên, dữ liệu đã lỗi thời", MeetMindful viết. "Sự cố xảy ra với các tài khoản đăng ký trước tháng 3/2020. Các tài khoản đăng ký sau thời gian này không bị ảnh hưởng".
+Ngoài ra, MeetMindful đã gửi email khuyến cáo những người bị ảnh hưởng cần cập nhật thông tin. Hiện tại, toàn bộ dữ liệu ShinyHunters đăng tải vẫn tồn tại, chưa bị gỡ bỏ.
+MeetMindful được thành lập năm 2017. Công ty có trụ sở tại Denver, bang Colorado (Mỹ).
+Trước đây, một số trường hợp rò rỉ thông tin cá nhân từ website hẹn hò ảnh hưởng lớn đến người dùng. Tháng 11/2016, mạng lưới Friend Finder Network bị hacker khống chế và đánh cắp hơn 412 triệu tài khoản, trong đó có hơn 300 triệu tài khoản thuộc AdultFriendFinder và hơn 60 triệu tài khoản trên Cams.com. Tháng 7/2015, website hẹn hò phổ biến <a href="https://vnexpress.net/topic-20677.html" rel="dofollow">Asley Madison</a> cũng bị đánh cắp dữ liệu.

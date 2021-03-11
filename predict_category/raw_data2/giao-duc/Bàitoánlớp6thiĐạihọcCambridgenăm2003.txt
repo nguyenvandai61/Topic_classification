@@ -1,0 +1,10 @@
+Bài toán lớp 6 thi Đại học Cambridge năm 2003
+https://vnexpress.net/bai-toan-lop-6-thi-dai-hoc-cambridge-nam-2003-4198854.html
+Bài toán trong đề thi vào Đại học Cambridge có thể giải bằng kiến thức lớp 6. Bạn có tìm ra cách giải đó?
+Đại học Cambridge được thành lập vào năm 1209. Đây là viện đại học lâu đời thứ hai nước Anh và thứ tư thế giới. Cambridge hiện gồm 6 trường đại học thành viên với hơn 100 khoa. Trường cùng với Đại học Oxford và Đại học London tạo ra một "Tam giác vàng" đại học hàng đầu nước Anh.
+Đại học Cambridge đã sản sinh ra nhiều nhân vật kiệt xuất thế giới, trong đó có hơn 100 người đạt giải Nobel, nhiều hơn bất kỳ trường đại học nào trên thế giới. Trong các bảng xếp hạng, Đại học Cambridge thường xuyên được xếp là một trong những trường đại học hàng đầu.
+Cũng giống như Đại học Oxford, đề thi vào Đại học Cambridge rất khác biệt và rất khó so với các trường đại học khác. Sau đây là câu 1 mở đầu của phần thi tự luận trong đề thi tuyển sinh Đại học Cambridge năm 2003.
+Bài toán này có thể giải bằng quy nạp, phương pháp hệ số bất định thậm chí là dùng số phức nhưng chỉ bằng kiến thức lớp 6 đã giải được bài toán là điều mà đáp án của Đại học Cambridge chưa đề cập đến. Bạn có thể giải được bài toán bằng một phương án nào đó không?
+<strong>Đề bài</strong>:
+i) Tính tổng <strong>S = 1<sup>2</sup>+ 2<sup>2</sup>+ 3<sup>2</sup>+.... + n<sup>2</sup></strong>
+ii) Tính tổng <strong>T = 1<sup>3</sup>+ 2<sup>3</sup>+ 3<sup>3</sup>+.... + n<sup>3</sup></strong>

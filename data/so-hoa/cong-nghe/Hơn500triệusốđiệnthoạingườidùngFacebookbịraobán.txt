@@ -1,0 +1,13 @@
+Hơn 500 triệu số điện thoại người dùng Facebook bị rao bán
+https://vnexpress.net/hon-500-trieu-so-dien-thoai-nguoi-dung-facebook-bi-rao-ban-4227158.html
+
+Cơ sở dữ liệu khổng lồ, chứa thông tin cá nhân, trong đó có số điện thoại của 533 triệu người dùng Facebook, bị rao bán thông qua một bot trên Telegram.
+
+Chuyên gia bảo mật Alon Gal - người đầu tiên phát hiện việc mua bán cơ sở dữ liệu trên Telegram, cho biết kẻ đứng sau bot này tuyên bố đang nắm trong tay dữ liệu của hơn nửa tỷ người dùng mạng xã hội nhờ khai thác một lỗ hổng bảo mật của Facebook từ năm 2019.
+Thông thường với lượng dữ liệu lớn như vậy, người mua cần một năng nhất định để tìm được thông tin hữu ích. Hơn nữa, quá trình mua bán dữ liệu cũng đòi hỏi sự tương tác giữa hai bên. Việc tạo ra một bot Telegram sẽ giải quyết được cả hai vấn đề này.
+Bot tự động trên Telegram cho phép một người có thể nhập số điện thoại để tra cứu xem số đó gắn với ID Facebook nào và ngược lại. Quyền truy cập cơ sở dữ liệu được bán theo điểm tín dụng, trong đó mỗi điểm tín dụng có giá 20 USD hoặc có thể mua 10.000 điểm tín dụng với giá 5.000 USD. Bot này, bắt đầu hoạt động từ tháng 1, giống một máy bán hàng tự động, bất kỳ ai cũng có thể trả tiền để mua thông tin.
+Trang <em>Vice </em>đã thử nhập một vài số điện thoại và xác nhận đúng là số đang hoạt động của người dùng Facebook, dù những người này đều thiết lập quyền riêng tư với số điện thoại của họ. Người bán tuyên bố khối dữ liệu chứa thông tin của người dùng Facebook chủ yếu từ Mỹ, Canada, Anh, Australia và 15 quốc gia khác.
+"Việc tồn tại một lượng dữ liệu lớn như vậy trên cộng đồng tội phạm mạng có thể gây tổn hại nghiêm trọng đến quyền riêng tư của người dùng. Thông tin khai thác được chắc chắn sẽ bị kẻ xấu lợi dụng vào hoạt động lừa đảo hoặc gian lận", chuyên gia Alon Gal nhận định.
+Đại diện của Facebook xác nhận sự việc, đồng thời khẳng định lỗ hổng gây ra vụ lộ thông tin này đã được nền tảng khắc phục từ tháng 8/2019. Dù dữ liệu đã được thu thập từ gần 2 năm trước, nguy cơ tiềm ẩn của nó tới an ninh và quyền riêng tư vẫn rất đáng lo ngại bởi người dùng thường ít thay đổi số điện thoại của họ.
+Kể từ 2012, nền tảng Facebook bắt đầu khuyến khích người dùng đăng ký tính năng xác thực hai bước thông qua số điện thoại. Tuy nhiên, đến 2018, nền tảng này bị nhiều chuyên gia phát hiện sử dụng dữ liệu số điện thoại cho mục đích quảng cáo.
+"Facebook cần thông báo cho người dùng biết về sự cố, giúp họ hạn chế khả năng trở thành nạn nhân của các cuộc tấn công mạng", Gal nói.

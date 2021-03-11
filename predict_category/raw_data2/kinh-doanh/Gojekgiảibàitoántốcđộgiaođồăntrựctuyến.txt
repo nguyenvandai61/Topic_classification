@@ -1,0 +1,22 @@
+Gojek giải bài toán tốc độ giao đồ ăn trực tuyến
+https://vnexpress.net/gojek-giai-bai-toan-toc-do-giao-do-an-truc-tuyen-4228031.html
+
+Gojek phát triển ứng dụng GoBiz hỗ trợ nhà hàng, quán ăn quản lý, xử lý đơn hàng nhanh chóng, tiện lợi, tối ưu quy trình giao đồ ăn trực tuyến.
+
+Theo nghiên cứu của công ty nghiên cứu thị trường GComm, tốc độ giao hàng là tiêu chí quan trọng nhất mà người tiêu dùng đề ra khi xem xét lựa chọn sử dụng một dịch vụ giao đồ ăn trực tuyến. <sup>.</sup>Đây cũng chính là yếu tố cạnh tranh giữa các ứng dụng. Là một trong những nền tảng giao đồ ăn trực tuyến hàng đầu, Gojek triển khai giải pháp giải quyết bài toán tốc độ giao hàng, tạo lợi thế cạnh tranh trên thị trường Việt Nam hiện nay.
+<strong>Bài toán tốc độ giao hàng</strong>
+Nhân dịp liên hoan cuối năm, Tuệ Chi (25 tuổi, TP HCM) đặt bữa trưa cho cả phòng. Cô chọn đặt hàng qua ứng dụng giao đồ ăn trực tuyến để không phải đi xa, đa dạng lựa chọn và tận dụng được ưu đãi. Tuy nhiên phải mất gần một giờ đồng hồ cô mới nhận được hàng. Lý do quán ăn đông khách giờ cao điểm, buộc tài xế khi đến mới phải xếp hàng đợi đến lượt. Điều này gây ra bất cập đối với cả khách hàng, tài xế lẫn quán ăn, khi không thể xử lý đơn hàng nhanh như mong đợi, đặc biệt vào giờ cao điểm.
+"Đến nơi thì được anh tài xế cho hay do quán quá đông khách nên phải đợi nửa tiếng, tài xế họ cũng vất vả nên tôi cũng thông cảm", chị Tuệ Chi nói.
+Từ góc độ đối tác nhà hàng, quán ăn, việc bán hàng đông khách là điều luôn được mong muốn, tuy nhiên tình trạng quá tải vào giờ cao điểm cũng là bài toán khiến nhiều người bán đau đầu.
+"Lắm khi quán hết món hay đóng cửa mà không kịp cập nhật. Mấy anh tài xế không biết nên vẫn nhận đơn hàng, lặn lội đi đến nơi rồi lại phải hủy đơn", chị Thùy Dung, một đối tác nhà hàng chia sẻ.
+<strong>Ứng dụng giúp rút ngắn thời gian xử lý đơn </strong>
+Nhằm giải quyết bài toán quy trình xử lý đơn hàng, Gojek - ứng dụng công nghệ với dịch vụ giao nhận đồ ăn GoFood, đã phát triển ứng dụng GoBiz dành riêng cho đối tác nhà hàng, quán ăn. Mục tiêu chính của GoBiz là giúp các nhà hàng chủ động trong việc quản lý đơn hàng, giúp toàn bộ quá trình vận hành liên quan đến khách hàng đặt món và tài xế diễn ra một cách khoa học, hạn chế các thao tác thủ công của nhà hàng khi quản lý đơn hàng.
+Cụ thể, chủ nhà hàng, quán ăn dựa vào tình hình món ăn tại cửa hàng có thể dễ dàng nhận hoặc từ chối đơn trực tiếp từ khách hàng qua ứng dụng chỉ trong vòng ba phút, cũng như nhanh chóng cập nhật menu, hình ảnh, giá tiền, tình trạng món ăn hay chỉnh sửa giờ mở cửa. Nhà hàng có thể tiến hành chuẩn bị đơn hàng ngay lập tức sau khi nhận đơn từ khách, trong khi chờ tài xế đến để nhận đơn hàng. Sự chủ động này giúp giảm thiểu thời gian chờ đợi của các bác tài cũng như tăng trải nghiệm người dùng khi tình trạng món ăn luôn ở trạng thái cập nhật.
+Anh Tài, chủ quán bánh hỏi, bún thập cẩm ở quận 3, TP HCM chia sẻ, quán đã sử dụng GoBiz được vài tháng, ghi nhận năng suất gia tăng đáng kể.
+"Cái hay nhất là ứng dụng này báo trước cho mình có đơn hàng đến, nên có thể tranh thủ làm trước món vào giờ cao điểm. Quán đỡ cập rập hơn mà tài xế cũng đỡ phải chờ đợi đông đúc dễ bị lộn đơn", anh Tài cho biết.
+Còn anh Lộc, chủ quán ăn vặt Chè Thái trên đường Phạm Văn Đồng, Gò Vấp, TP HCM ưng ý nhất tính năng xem chi tiết thông tin ghi chú của từng đơn hàng.
+"Nhận đơn qua tài xế có thể bị nhầm, sót ghi chú của khách, có khi tam sao thất bản. GoBiz hiển thị rõ từng ghi chú của mỗi đơn, nhờ thế việc chuẩn bị món cũng tránh nhầm lẫn hơn hẳn. Thông tin tài xế còn được hiện rõ kèm đơn hàng, nên không còn tình trạng bị sót thanh toán", anh Lộc cho hay.
+Dù mới triển khai vào cuối năm 2020, GoBiz nhanh chóng trở thành trợ thủ đắc lực của các đối tác nhà hàng, quán ăn trên Gojek.
+Ông Phạm Lê Tuấn Kiệt - Giám đốc Phát triển Kinh doanh GoFood của Gojek Việt Nam cho biết, với ứng dụng hỗ trợ đối tác nhà hàng, quán ăn, đơn vị này hướng tới tối ưu hoá ba nền tảng ứng dụng dành cho người dùng, đối tác tài xế và đối tác nhà hàng.
+"Nếu ví toàn bộ hệ sinh thái của Gojek là một tảng băng lớn, thì những ứng dụng hướng tới các các đối tác tài xế, quán ăn, nhà hàng chính là phần băng chìm bên dưới - tuy không nhìn thấy, nhưng giữ vai trò vô cùng quan trọng. GoBiz sẽ mang lại cho người bán những cơ hội kinh doanh mới, thu hẹp khoảng cách về không gian và thời gian giữa các nhà hàng và khách hàng", ông Kiệt khẳng định.
+<strong>Minh Anh</strong>

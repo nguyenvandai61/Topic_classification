@@ -1,0 +1,6 @@
+Bài toán dành cho học sinh giỏi ở Trung Quốc
+https://vnexpress.net/bai-toan-danh-cho-hoc-sinh-gioi-o-trung-quoc-4219494.html
+Bài toán dành cho học sinh giỏi 11 tuổi từng được thách đố cả tỷ USD, người giải có thể dùng kiến thức từ lớp 11 trở xuống.
+<strong>Đề bài:</strong>
+Một hình vuông cạnh 10 cm chứa một hình tròn tiếp xúc với 4 cạnh của hình vuông.
+Tính diện tích phần tô đậm trong hình vẽ dưới đây (phần giao của hình tròn này với hai cung tròn tâm là hai đỉnh hình vuông bán kính 10 cm).

@@ -1,0 +1,9 @@
+Bài toán điền số Tết Tân Sửu
+https://vnexpress.net/bai-toan-dien-so-tet-tan-suu-4235610.html
+Toán điền số là dạng phổ biến ở bậc tiểu học tại các quốc gia. Nhân dịp Tết Tân Sửu, các bạn hãy cùng tham gia giải bài toán điền số lớp 3.
+<strong>Đề bài:</strong>
+Các chữ cái khác nhau sẽ biểu thị các chữ số khác nhau (không tính dấu). Bạn hãy điền các chữ số thay thế cho các chữ cái trong ba chữ "Tết", "Tân", "Sửu" để nhận được tổng ba số có 3 chữ số bằng 2021 và thỏa mãn các điều kiện sau đây:
+1. Chữ "Tết" có giá trị nhỏ nhất.
+2. Chữ "Tết" có giá trị lớn nhất.
+3. Chữ "Sửu" có giá trị nhỏ nhất.
+4. Chữ "Sửu" có giá trị lớn nhất.
