@@ -33,7 +33,12 @@ def crawl(topic):
             link = feed.get("href")
             if link == None:
                 continue
-            result.append(page_crawl(link, title, topic))  
+            try:
+            	article = page_crawl(link, title, topic)
+            	result.append(article)
+            	print('Success in {} link {}'.format(topic, link))
+            except:
+            	print('Error in {} link {}'.format(topic, link))
     return result
 
 
