@@ -10,6 +10,7 @@ class Chart extends Component {
 			filterData: [],
 			links: [
 			],
+			message: ""
 		}
 	}
 	fetchAPI = (url) => {
@@ -23,6 +24,16 @@ class Chart extends Component {
 				let data = resultObj;
 				let url = data["url"];
 				let result = data["result"];
+				if (result == null) {
+					let newspaper = {
+						url: url,
+						message: "Failed in process!"
+					}
+						
+					let filterData = [...this.state.filterData, newspaper]
+					this.setState({ filterData });
+					return;
+				};
 
 				let topCateScores = this.getTopCategories(result, 5);
 				let newspaper = {
@@ -75,6 +86,15 @@ class Chart extends Component {
 		console.log(options);
 		return options;
 	}
+	validURL = (str) => {
+		var pattern = new RegExp('^(https?:\\/\\/)?'+ // protocol
+		  '((([a-z\\d]([a-z\\d-]*[a-z\\d])*)\\.)+[a-z]{2,}|'+ // domain name
+		  '((\\d{1,3}\\.){3}\\d{1,3}))'+ // OR ip (v4) address
+		  '(\\:\\d+)?(\\/[-a-z\\d%_.~+]*)*'+ // port and path
+		  '(\\?[;&a-z\\d%_.~+=-]*)?'+ // query string
+		  '(\\#[-a-z\\d_]*)?$','i'); // fragment locator
+		return !!pattern.test(str);
+	  }
 
 	handleChange = (event) => {
 		this.setState({ text: event.target.value });
@@ -87,23 +107,31 @@ class Chart extends Component {
 	}
 
 	handleSubmit = (event) => {
-		this.setState({filterData: []})
 		event.preventDefault();
+		this.setState({filterData: [], links: []});
 		
 		let links = this.splitText2Urls();
 		links.forEach(link => {
-			this.fetchAPI(link);
+			if (this.validURL(link))
+				this.fetchAPI(link);
+			else {
+				let newspaper = {
+					url: link,
+					message: "Invalid URL"
+				}
+					
+				let filterData = [...this.state.filterData, newspaper]
+				this.setState({ filterData });
+			}
 		})
 	}
 	render() {
 		let { filterData } = this.state;
-		console.log("render");
-		console.log(filterData);
 		return (
 			<div>
 				<form onSubmit={this.handleSubmit}>
 					<label>
-						<textarea rows="10" cols="50" value={this.state.value} onChange={this.handleChange} />
+						<textarea rows="10" cols="100" value={this.state.value} onChange={this.handleChange} />
 					</label>
 					<input type="submit" value="Submit" />
 				</form>
@@ -112,11 +140,17 @@ class Chart extends Component {
 				<label>NewsExamples.txt</label>
 				</a>
 				<div className="grid-container">
-					{filterData.map(fd => (
+					{filterData.map((fd, idx) => (
 						<div>
+							<label>{idx+1}. </label>
 							<a href={fd.url}>{fd.url}</a>
-							
-							<CanvasJSChart class="grid-item" options={this.getOptions(fd.scores)} />
+							{
+							!!fd.scores? (
+								<CanvasJSChart class="grid-item" options={this.getOptions(fd.scores)} />
+							): (<div>
+								{fd.message}
+							</div>)
+							}
 						</div>
 					))}
 				</div>
