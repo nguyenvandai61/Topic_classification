@@ -9,5 +9,6 @@ def index(request):
         url = body['url']
         res = predict.predict_category(url)
         response_data = {}
+        response_data['url'] = url
         response_data['result'] = res
         return JsonResponse(response_data)
