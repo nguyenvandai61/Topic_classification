@@ -107,6 +107,10 @@ class Chart extends Component {
 					</label>
 					<input type="submit" value="Submit" />
 				</form>
+	
+				<a href="https://github.com/nguyenvandai61/Topic_classification/blob/master/NewsExamples.txt">
+				<label>NewsExamples.txt</label>
+				</a>
 				<div className="grid-container">
 					{filterData.map(fd => (
 						<div>
