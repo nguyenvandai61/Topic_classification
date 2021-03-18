@@ -22,3 +22,10 @@ venv/
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+env/
+venv/
+raw_data/
+raw_data.rar
+raw_data2/
+data/
+__pycache__/
