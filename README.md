@@ -3,13 +3,13 @@
 Build a webapp that predict the topic of news with Logistic Regression algorithm.
 
 ## Main Webapp
-![alt]("../snapshots/Website.png")
+![alt](snapshots/Website.png)
 
 ## Confusion matrix
-![alt]("../snapshots/ConfusionMatrix.png)
+![alt](snapshots/ConfusionMatrix.png)
 
 ## Accuracy
-![alt]("../snapshots/Accuracy.png")
+![alt](snapshots/Accuracy.png)
 
 - Accuracy train: 0.901..
 - Accuracy test: 0.832.
